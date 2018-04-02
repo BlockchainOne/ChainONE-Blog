@@ -14,7 +14,7 @@ tags:
 
 > 这里是「区块链技术指北」微信群 2018 年第 13 周（20180326-20180401）价值信息汇总。本汇总文章由群友集体贡献，感谢大家。
 
-[Wechat](https://i.imgur.com/EFxCQjC.png)
+![Wechat](https://i.imgur.com/EFxCQjC.png)
 
 > 题图来自: © ChainONE / WeChat / chainone.xyz
 

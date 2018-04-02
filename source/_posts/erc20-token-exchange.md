@@ -1,79 +1,93 @@
 ---
-title: "ERC20 TokenÁ÷Í¨´úÂëÊµÏÖ"
-date: 2018-03-24 14:20:00
+title: "ERC20 Token æµé€šä»£ç å®ç° "
+date: 2018-04-02 14:20:00
 categories:
 - Blockchain
 tags:
 - Blockchain
-- ERC20 Token
+- Ethereum
 ---
 
-### Ç°ÑÔ
-ÔÚÉÏÒ»ÆªÎÄÕÂÖĞÎÒÃÇÕÆÎÕÁËÈçºÎ·¢ĞĞ×Ô¼ºµÄERC20 Token¡£Èç¹ûÖ»ÊÇµ¥´¿·¢Ò»¸öTokenÊÇÃ»ÓĞÈÎºÎÒâÒåµÄ£¬TokenÓ¦¸ÃÊÇ¿ÉÒÔ¸úÎÒÃÇµÄ²úÆ·ÔËÓª½áºÏ£¬ÓÃÓÚÓÃ»§¼¤Àø¡¢²úÆ·ÍÆ¹ãµÈ·½Ãæ¡£¾ÍÏñ½»Ò×ËùÆ½Ì¨µÄÆ½Ì¨±ÒÒ»Ñù£¬¼È¿ÉÒÔÓÃÀ´µÖÏû½»Ò×·ÑÓÃ£¬ÓÖ¿ÉÒÔÓÃÓÚÍ¶Æ±µÈ¡£ÕâÒ²ÊÇÄ¿Ç°tokenÕæÕıÓĞÊ¹ÓÃµ½µÄ·½Ê½°É£¬¾ÍÊÇµ±×öÆ½Ì¨µÄÒ»ÖÖ×Ê²ú£¬ÕâÖÖ×Ê²úÊÇ»ùÓÚÇø¿éÁ´µÄ£¬ÎŞ·¨´®¸ÄµÄ¡£¶øÆ½Ì¨µÄÔËĞĞ»¹ÊÇÖĞĞÄ»¯µÄÔËĞĞ·½Ê½£¬¾ÍÏñ±ÒºõÒ»Ñù¡£
+è¿™æ˜¯ã€ŒåŒºå—é“¾æŠ€æœ¯æŒ‡åŒ—ã€çš„ç¬¬ 32 ç¯‡æ–‡ç« ã€‚
 
-ÄÇÃ´ÔÚÆ½Ì¨ÉÏµÄTokenµ½µ×ÊÇÔõÃ´Á÷Í¨µÄÄØ£¿ÒÔ±ÒºõÎªÀı£¬±ÒºõµÄkeyÊÇ»ùÓÚÒÔÌ«·»µÄERC20 Token¡£ÎÒÃÇÖªµÀÔÚ±ÒºõÉÏÓÃ»§µãÔŞ»áÓĞ½±Àø£¬ÆÀÂÛµãÔŞÒ²ÓĞ½±Àø£¬Èç¹ûÕâÖÖ½áËã¶¼·ÅÔÚÁËÒÔÌ«·»ÉÏÀ´×öµÄ»°£¬Ò»¸öÊÇËÙ¶È¿ÉÄÜ»áºÜÂı£¬ÁíÒ»¸ö½áËãµÄ·ÑÓÃÒ²»á·Ç³£¸ß¡£ËùÒÔÎÒÃÇ¿ÉÒÔ¿´µ½±ÒºõÀïÃæÓĞ»¹Î´¿ª·ÅµÄ³ä±Ò£¬Ìá±Ò¹¦ÄÜ¡£Õâ¾ÍÊÇËµ£¬ÄãÖ»ÓĞÌá±ÒµÄÊ±ºò£¬±Òºõ²Å»á°ÑÄãÓĞµÄ±Ò×ªµ½ÄãµÄÒÔÌ«·»Ç®°üµØÖ·ÉÏ¡£³ä±ÒµÄ»°£¬±Òºõ»á¸øÄãÒ»¸öÒÔÌ«·»µØÖ·£¬Äã°Ñ±Ò×ªµ½Õâ¸öµØÖ·ÉÏ¾ÍĞĞ¡£Õâ¸ö×ö·¨Ó¦¸ÃÊÇ¸ú½»Ò×ËùµÄ×ö·¨Ò»Ñù¡£ÄÇÃ´Ç°ÃæÌáµ½µÄµãÔŞ½±ÀøÊÇÔõÃ´´¦ÀíµÄÄØ£¿ÎÒµÄÀí½âÊÇ£¬±ÒºõÔÚ½áËãµÄÊ±ºò»áÔÚÄã±ÒºõÕËºÅkey×ÜÊı¼ÓÉÏ½±Àø¸øÄãµÄkey£¬Ö»ÊÇ¼òµ¥µÄÊı¾İ¿âĞŞ¸ÄÏÂÊı¾İ£¬²¢²»»áÉæ¼°tokenµÄ×ªÈÃÁ÷Í¨¡£
+> å¦‚æœå¯¹æˆ‘æ„Ÿå…´è¶£ï¼Œæƒ³å’Œæˆ‘äº¤æµï¼Œæˆ‘çš„å¾®ä¿¡å·ï¼š**Wentasy**ï¼ŒåŠ æˆ‘æ—¶ç®€å•ä»‹ç»ä¸‹è‡ªå·±ï¼Œå¹¶æ³¨æ˜æ¥è‡ªã€ŒåŒºå—é“¾æŠ€æœ¯æŒ‡åŒ—ã€ã€‚åŒæ—¶æˆ‘ä¼šæŠŠä½ æ‹‰å…¥å¾®ä¿¡ç¾¤ã€ŒåŒºå—é“¾æŠ€æœ¯æŒ‡åŒ—ã€ã€‚BTWï¼Œæç¬‘æ¥è€å¸ˆä¹ŸåŠ å…¥äº†æˆ‘ä»¬çš„çŸ¥è¯†æ˜Ÿçƒï¼Œæ–‡æœ«æœ‰åŠ å…¥æ–¹å¼ã€‚
 
-ÄÇÃ´Õ¾ÔÚ³ÌĞò½Ç¶ÈÀ´¿´£¬ÎÒÃÇÓ¦¸ÃÔõÃ´ÓÃ´úÂëÀ´ÊµÏÖTokenµÄ³ätoken¡¢Ìátoken²Ù×÷ÄØ£¿
+> é¢˜å›¾æ¥è‡ª: Â© ChainONE / Open Writing / chainone.xyz
 
-### ×¼±¸¹¤×÷
-ÒÔÌ«·»Ìá¹©ÁË·Ç³£ºÃÓÃµÄ¹¤¾ßÀ´¸úÒÔÌ«·»Í¨ĞÅ£¬web3.js ¾ÍÊÇÆäÖĞÖ®Ò»¡£ÏÂÃæÎÒ¾Í½éÉÜÈç¹ûÊ¹ÓÃ web3.jsÊµÏÖtokenµÄ³ätoken£¬Ìátoken¡£
+### å‰è¨€
+***
 
-ÏÂÃæµÄÄÚÈİ¼ÙÉèÄúÒÑ¾­ÁË½âÒÔÌ«·»¡¢ÖÇÄÜºÏÔ¼¡¢solidityÒÔ¼°web3.js¡£²»¶®µÄ»°£¬½¨ÒéÏÈÈ¥ÁË½âÏÂ£¬ÍøÉÏÒÑ¾­ÓĞ·Ç³£ºÃµÄÎÄÕÂ½éÉÜÁË£¬ÎÒÕâÀï¾Í²»ÖØ¸´ËµÃ÷ÁË¡£
+åœ¨ä¸Šä¸€ç¯‡æ–‡ç« ä¸­æˆ‘ä»¬æŒæ¡äº†å¦‚ä½•å‘è¡Œè‡ªå·±çš„ ERC20 Tokenã€‚å¦‚æœåªæ˜¯å•çº¯å‘ä¸€ä¸ª Token æ˜¯æ²¡æœ‰ä»»ä½•æ„ä¹‰çš„ï¼ŒToken åº”è¯¥æ˜¯å¯ä»¥è·Ÿæˆ‘ä»¬çš„äº§å“è¿è¥ç»“åˆï¼Œç”¨äºç”¨æˆ·æ¿€åŠ±ã€äº§å“æ¨å¹¿ç­‰æ–¹é¢ã€‚å°±åƒäº¤æ˜“æ‰€å¹³å°çš„å¹³å°å¸ä¸€æ ·ï¼Œæ—¢å¯ä»¥ç”¨æ¥æŠµæ¶ˆäº¤æ˜“è´¹ç”¨ï¼Œåˆå¯ä»¥ç”¨äºæŠ•ç¥¨ç­‰ã€‚è¿™ä¹Ÿæ˜¯ç›®å‰ token çœŸæ­£æœ‰ä½¿ç”¨åˆ°çš„æ–¹å¼å§ï¼Œå°±æ˜¯å½“åšå¹³å°çš„ä¸€ç§èµ„äº§ï¼Œè¿™ç§èµ„äº§æ˜¯åŸºäºåŒºå—é“¾çš„ï¼Œæ— æ³•ä¸²æ”¹çš„ã€‚è€Œå¹³å°çš„è¿è¡Œè¿˜æ˜¯ä¸­å¿ƒåŒ–çš„è¿è¡Œæ–¹å¼ï¼Œå°±åƒå¸ä¹ä¸€æ ·ã€‚
 
-Ê×ÏÈÄãµÃÔÚ±¾µØ°²×°ºÃ node.js£¨Õâ¸öÒ²²»¶à×ö½éÉÜ£©¡£
+é‚£ä¹ˆåœ¨å¹³å°ä¸Šçš„ Token åˆ°åº•æ˜¯æ€ä¹ˆæµé€šçš„å‘¢ï¼Ÿä»¥å¸ä¹ä¸ºä¾‹ï¼Œå¸ä¹çš„ key æ˜¯åŸºäºä»¥å¤ªåŠçš„ ERC20 Tokenã€‚æˆ‘ä»¬çŸ¥é“åœ¨å¸ä¹ä¸Šç”¨æˆ·ç‚¹èµä¼šæœ‰å¥–åŠ±ï¼Œè¯„è®ºç‚¹èµä¹Ÿæœ‰å¥–åŠ±ï¼Œå¦‚æœè¿™ç§ç»“ç®—éƒ½æ”¾åœ¨äº†ä»¥å¤ªåŠä¸Šæ¥åšçš„è¯ï¼Œä¸€ä¸ªæ˜¯é€Ÿåº¦å¯èƒ½ä¼šå¾ˆæ…¢ï¼Œå¦ä¸€ä¸ªç»“ç®—çš„è´¹ç”¨ä¹Ÿä¼šéå¸¸é«˜ã€‚æ‰€ä»¥æˆ‘ä»¬å¯ä»¥çœ‹åˆ°å¸ä¹é‡Œé¢æœ‰è¿˜æœªå¼€æ”¾çš„å……å¸ï¼Œæå¸åŠŸèƒ½ã€‚è¿™å°±æ˜¯è¯´ï¼Œä½ åªæœ‰æå¸çš„æ—¶å€™ï¼Œå¸ä¹æ‰ä¼šæŠŠä½ æœ‰çš„å¸è½¬åˆ°ä½ çš„ä»¥å¤ªåŠé’±åŒ…åœ°å€ä¸Šã€‚å……å¸çš„è¯ï¼Œå¸ä¹ä¼šç»™ä½ ä¸€ä¸ªä»¥å¤ªåŠåœ°å€ï¼Œä½ æŠŠå¸è½¬åˆ°è¿™ä¸ªåœ°å€ä¸Šå°±è¡Œã€‚è¿™ä¸ªåšæ³•åº”è¯¥æ˜¯è·Ÿäº¤æ˜“æ‰€çš„åšæ³•ä¸€æ ·ã€‚é‚£ä¹ˆå‰é¢æåˆ°çš„ç‚¹èµå¥–åŠ±æ˜¯æ€ä¹ˆå¤„ç†çš„å‘¢ï¼Ÿæˆ‘çš„ç†è§£æ˜¯ï¼Œå¸ä¹åœ¨ç»“ç®—çš„æ—¶å€™ä¼šåœ¨ä½ å¸ä¹è´¦å· key æ€»æ•°åŠ ä¸Šå¥–åŠ±ç»™ä½ çš„ keyï¼Œåªæ˜¯ç®€å•çš„æ•°æ®åº“ä¿®æ”¹ä¸‹æ•°æ®ï¼Œå¹¶ä¸ä¼šæ¶‰åŠ token çš„è½¬è®©æµé€šã€‚
 
-Ê×ÏÈ½éÉÜÏÂ[ganache](https://github.com/trufflesuite/ganache-cli)¡£ ganacheÊÇÒ»¸ö»ùÓÚÄÚ´æµÄÒÔÌ«·»Á´£¬ÓÃÓÚ±¾µØ²âÊÔ£¬¶ø²»ÓÃÈ¥Á¬½Ó²âÊÔÍøÂç£¬Ê¡È¥Í¬²½ÒÔÌ«·»Çø¿éµÄÂé·³¡£°²×°Ò²ºÜ¼òµ¥£¬ÃüÁîĞĞÖ´ĞĞ `npm install -g ganache-cli`¡£
+é‚£ä¹ˆç«™åœ¨ç¨‹åºè§’åº¦æ¥çœ‹ï¼Œæˆ‘ä»¬åº”è¯¥æ€ä¹ˆç”¨ä»£ç æ¥å®ç° Token çš„å…… tokenã€æ token æ“ä½œå‘¢ï¼Ÿ
 
-°²×°Íê³Éºó£¬ÃüÁîĞĞÖ´ĞĞ`ganache-cli`,Æô¶¯ÍøÂç¡£
+### å‡†å¤‡å·¥ä½œ
+***
 
-Ö®Ç°µÄÎÄÕÂ£¬°ÑToken·¢²¼µ½ÁËropsten²âÊÔÍøÂçÉÏ£¬Õâ´ÎÎÒÃÇÑ¡Ôñ±¾µØ»·¾³£¬°Ñtoken·¢²¼µ½ÎÒÃÇ±¾µØÍøÂçÉÏ¡£Ê×ÏÈÔÚmetamaskÖĞÍøÂçÑ¡Ôñ×Ô¶¨ÒåÍøÂç£¬ÈçÏÂÍ¼£º
+ä»¥å¤ªåŠæä¾›äº†éå¸¸å¥½ç”¨çš„å·¥å…·æ¥è·Ÿä»¥å¤ªåŠé€šä¿¡ï¼Œweb3.js å°±æ˜¯å…¶ä¸­ä¹‹ä¸€ã€‚ä¸‹é¢æˆ‘å°±ä»‹ç»å¦‚æœä½¿ç”¨ web3.js å®ç° token çš„å…… tokenï¼Œæ tokenã€‚
+
+ä¸‹é¢çš„å†…å®¹å‡è®¾æ‚¨å·²ç»äº†è§£ä»¥å¤ªåŠã€æ™ºèƒ½åˆçº¦ã€solidity ä»¥åŠ web3.jsã€‚ä¸æ‡‚çš„è¯ï¼Œå»ºè®®å…ˆå»äº†è§£ä¸‹ï¼Œç½‘ä¸Šå·²ç»æœ‰éå¸¸å¥½çš„æ–‡ç« ä»‹ç»äº†ï¼Œæˆ‘è¿™é‡Œå°±ä¸é‡å¤è¯´æ˜äº†ã€‚
+
+é¦–å…ˆä½ å¾—åœ¨æœ¬åœ°å®‰è£…å¥½ node.jsï¼ˆè¿™ä¸ªä¹Ÿä¸å¤šåšä»‹ç»ï¼‰ã€‚
+
+é¦–å…ˆä»‹ç»ä¸‹ [ganache](https://github.com/trufflesuite/ganache-cli)ã€‚ ganache æ˜¯ä¸€ä¸ªåŸºäºå†…å­˜çš„ä»¥å¤ªåŠé“¾ï¼Œç”¨äºæœ¬åœ°æµ‹è¯•ï¼Œè€Œä¸ç”¨å»è¿æ¥æµ‹è¯•ç½‘ç»œï¼Œçœå»åŒæ­¥ä»¥å¤ªåŠåŒºå—çš„éº»çƒ¦ã€‚å®‰è£…ä¹Ÿå¾ˆç®€å•ï¼Œå‘½ä»¤è¡Œæ‰§è¡Œ `npm install -g ganache-cli`ã€‚
+
+å®‰è£…å®Œæˆåï¼Œå‘½ä»¤è¡Œæ‰§è¡Œ `ganache-cli`, å¯åŠ¨ç½‘ç»œã€‚
+
+ä¹‹å‰çš„æ–‡ç« ï¼ŒæŠŠ Token å‘å¸ƒåˆ°äº† ropsten æµ‹è¯•ç½‘ç»œä¸Šï¼Œè¿™æ¬¡æˆ‘ä»¬é€‰æ‹©æœ¬åœ°ç¯å¢ƒï¼ŒæŠŠ token å‘å¸ƒåˆ°æˆ‘ä»¬æœ¬åœ°ç½‘ç»œä¸Šã€‚é¦–å…ˆåœ¨ metamask ä¸­ç½‘ç»œé€‰æ‹©è‡ªå®šä¹‰ç½‘ç»œï¼Œå¦‚ä¸‹å›¾ï¼š
+
 ![Imgur](https://i.imgur.com/JkFmrph.png)
 
-È·¶¨ºó£¬ÔÚ°ÑÎÒÃÇµÄMFC TokenÖØĞÂ·¢²¼Ò»±é(²Î¼ûÉÏÒ»ÆªÎÄÕÂ)¡£
+ç¡®å®šåï¼Œåœ¨æŠŠæˆ‘ä»¬çš„ MFC Token é‡æ–°å‘å¸ƒä¸€é (å‚è§ä¸Šä¸€ç¯‡æ–‡ç« )ã€‚
 
-ºÃÁË£¬ÎÒÃÇÒÑ¾­°ÑToken·¢²¼µ½ÁË±¾µØÍøÂçÁË¡£½ÓÏÂÀ´Ê¹ÓÃweb3.jsÀ´µ÷ÓÃ±¾µØ²âÊÔÍøÂç¡£
+å¥½äº†ï¼Œæˆ‘ä»¬å·²ç»æŠŠ Token å‘å¸ƒåˆ°äº†æœ¬åœ°ç½‘ç»œäº†ã€‚æ¥ä¸‹æ¥ä½¿ç”¨ web3.js æ¥è°ƒç”¨æœ¬åœ°æµ‹è¯•ç½‘ç»œã€‚
 
-ÎªÁË·½±ã²âÊÔ£¬ÎÒÊÇÖ±½ÓÔÚÒ³ÃæÉÏµ÷ÓÃ±¾µØ²âÊÔÍøÂç£¬ÕæÕıµÄ×ö·¨Ó¦¸ÃÊÇµ÷ÓÃ·şÎñÆ÷½Ó¿Ú£¬·şÎñÆ÷ÄÚÓĞÏàÓ¦µÄ·şÎñµ÷ÓÃÒÔÌ«·»ÍøÂç¡£ÕâÀïÖ»ÊÇÎªÁË·½±ãÕ¹Ê¾²ÅÕâÑù×öµÄ£¬´ó¼Ò²»ÒªÒÔÕâÑùµÄ·½Ê½ÉÏÏß¡£
+ä¸ºäº†æ–¹ä¾¿æµ‹è¯•ï¼Œæˆ‘æ˜¯ç›´æ¥åœ¨é¡µé¢ä¸Šè°ƒç”¨æœ¬åœ°æµ‹è¯•ç½‘ç»œï¼ŒçœŸæ­£çš„åšæ³•åº”è¯¥æ˜¯è°ƒç”¨æœåŠ¡å™¨æ¥å£ï¼ŒæœåŠ¡å™¨å†…æœ‰ç›¸åº”çš„æœåŠ¡è°ƒç”¨ä»¥å¤ªåŠç½‘ç»œã€‚è¿™é‡Œåªæ˜¯ä¸ºäº†æ–¹ä¾¿å±•ç¤ºæ‰è¿™æ ·åšçš„ï¼Œå¤§å®¶ä¸è¦ä»¥è¿™æ ·çš„æ–¹å¼ä¸Šçº¿ã€‚
 
-ÎÒÃÇ¿ÉÒÔ×Ü½á³ö¼¸¸ö±ØĞëÓĞµÄ¹¦ÄÜ£º 1 ²éÑ¯Óà¶î£¬ 2 TokenÌáÏÖ£¬3 ³äToken£¬4 ÕË»§Ö®¼ä×ªÒÔÌ«¡£ 
+æˆ‘ä»¬å¯ä»¥æ€»ç»“å‡ºå‡ ä¸ªå¿…é¡»æœ‰çš„åŠŸèƒ½ï¼š 1 æŸ¥è¯¢ä½™é¢ï¼Œ 2 Token æç°ï¼Œ3 å…… Tokenï¼Œ4 è´¦æˆ·ä¹‹é—´è½¬ä»¥å¤ªã€‚
 
-### ´úÂëÊµÏÖ
+### ä»£ç å®ç°
+***
 
-#### ²éÓà¶î
-Ê×ÏÈÊµÏÖÈçºÎ²éÑ¯ÕË»§Óà¶îµÄ¹¦ÄÜ£¬°üÀ¨ÒÔÌ«·»Óà¶îºÍMFCÓà¶î¡£¿´ÈçÏÂ´úÂë¡£
+#### æŸ¥ä½™é¢
+***
 
-```
-// Ê×ÏÈÔÚÒ³ÃæÒıÈëÎÒÃÇĞèÒªÊ¹ÓÃµÄjs
+é¦–å…ˆå®ç°å¦‚ä½•æŸ¥è¯¢è´¦æˆ·ä½™é¢çš„åŠŸèƒ½ï¼ŒåŒ…æ‹¬ä»¥å¤ªåŠä½™é¢å’Œ MFC ä½™é¢ã€‚çœ‹å¦‚ä¸‹ä»£ç ã€‚
+
+``` js
+// é¦–å…ˆåœ¨é¡µé¢å¼•å…¥æˆ‘ä»¬éœ€è¦ä½¿ç”¨çš„ js
 <script src="./web3.min.js"></script>
 <script src="./ethereumjs-wallet-0.6.0.min.js"></script>
 
 <script>
-// ³õÊ¼»¯web3 ¶ÔÏó
-if (typeof web3 !== 'undefined') {
+// åˆå§‹åŒ– web3 å¯¹è±¡
+f (typeof web3 !== 'undefined') {
   web3 = new Web3(web3.currentProvider);
 } else {
   // set the provider you want from Web3.providers
   web3 = new Web3(new  Web3.providers.HttpProvider("http://localhost:8545"));
 }
-// Ê¹ÓÃ±¾µØ²âÊÔÍøÂçµÄµÚÒ»¸öÕË»§ÎªÄ¬ÈÏÕË»§
-web3.eth.defaultAccount = web3.eth.accounts[0];
+// ä½¿ç”¨æœ¬åœ°æµ‹è¯•ç½‘ç»œçš„ç¬¬ä¸€ä¸ªè´¦æˆ·ä¸ºé»˜è®¤è´¦æˆ·
+eb3.eth.defaultAccount = web3.eth.accounts[0];
 
-// ´Óremix compile tabÒ³ÖĞMyFreeCoinµÄ detailÖĞ¸´ÖÆ abiĞÅÏ¢µ½ contract() ·½·¨ÄÚ£¬²»¶®remixµÄÇë¿´Ç°ÃæÄÇ±ßÎÄÕÂ
-var mfcContract = web3.eth.contract([{...}]);
+// ä» remix compile tab é¡µä¸­ MyFreeCoin çš„ detail ä¸­å¤åˆ¶ abi ä¿¡æ¯åˆ° contract() æ–¹æ³•å†…ï¼Œä¸æ‡‚ remix çš„è¯·çœ‹å‰é¢é‚£è¾¹æ–‡ç« 
+ar mfcContract = web3.eth.contract([{...}]);
 
-//  ´Óremix run tabÒ³·¢²¼µÄºÏÔ¼ÉÏ¸´ÖÆºÏÔ¼µØÖ·
-var contractAddress = '0x09901f8fdf2265d9be48c7877161a2f6c2e503e8';
-// ³õÊ¼»¯ÎÒÃÇµÄºÏÔ¼¶ÔÏó
-var contract = mfcContract.at(contractAddress);
+//  ä» remix run tab é¡µå‘å¸ƒçš„åˆçº¦ä¸Šå¤åˆ¶åˆçº¦åœ°å€
+ar contractAddress = '0x09901f8fdf2265d9be48c7877161a2f6c2e503e8';
+// åˆå§‹åŒ–æˆ‘ä»¬çš„åˆçº¦å¯¹è±¡
+ar contract = mfcContract.at(contractAddress);
 
-// »ñÈ¡ÎÒÃÇĞèÒª²éÑ¯µÄÒÔÌ«·»µØÖ·
-var address = document.getElementById('address').value;
-if(!web3.isAddress(address)){ // ¼ì²âµØÖ·ÊÇºÏ·¨µÄÒÔÌ«·»µØÖ·
-	alert("Invalid address!");
+// è·å–æˆ‘ä»¬éœ€è¦æŸ¥è¯¢çš„ä»¥å¤ªåŠåœ°å€
+ar address = document.getElementById('address').value;
+if(!web3.isAddress(address)){ // æ£€æµ‹åœ°å€æ˜¯åˆæ³•çš„ä»¥å¤ªåŠåœ°å€
+   alert("Invalid address!");
 	return ;
 }
-// ²éÑ¯ÒÔÌ«·»µØÖ·µÄ ethÓà¶î
-web3.eth.getBalance(address, function(err, resp){
+// æŸ¥è¯¢ä»¥å¤ªåŠåœ°å€çš„ eth ä½™é¢
+eb3.eth.getBalance(address, function(err, resp){
 	if(!err){
 		eth.innerHTML = web3.fromWei(resp, 'ether').toNumber();
 	}else{
@@ -81,31 +95,33 @@ web3.eth.getBalance(address, function(err, resp){
 	}
 
 });
-// ²éÑ¯MFCµÄÓà¶î
-contract.balanceOf(address, (err, tkns) => {
+// æŸ¥è¯¢ MFC çš„ä½™é¢
+ontract.balanceOf(address, (err, tkns) => {
     if (!err) {
       mfc.innerHTML = web3.fromWei(tkns, 'ether').toNumber()
     }else{
     	console.log(err)
     }
-    
+
   })
 </script>
 ```
 
-#### ÌáToken
-ÌáTokenµÄ²Ù×÷ÊÇ£¬ÎÒÃÇÌá¹©×Ô¼ºµÄÒÔÌ«·»µØÖ·¸øÆ½Ì¨£¬Æ½Ì¨¸øÕâ¸öµØÖ·´ò Token¡£ ÊµÏÖ´úÂëÈçÏÂ£º
+#### æ Token
+***
 
-```
-// »ñÈ¡ÌátokenµÄÒÔÌ«·»µØÖ·
-var reciver = document.getElementById('reciver').value;
-// ÌátokenÊıÁ¿
-var amount = document.getElementById('amount').value;
-if(!web3.isAddress(reciver)){ // ¼ì²âµØÖ·ÊÇ·ñºÏ·¨
-	alert("reciver: Invalid address!");
+æ Token çš„æ“ä½œæ˜¯ï¼Œæˆ‘ä»¬æä¾›è‡ªå·±çš„ä»¥å¤ªåŠåœ°å€ç»™å¹³å°ï¼Œå¹³å°ç»™è¿™ä¸ªåœ°å€æ‰“ Tokenã€‚ å®ç°ä»£ç å¦‚ä¸‹ï¼š
+
+``` js
+// è·å–æ token çš„ä»¥å¤ªåŠåœ°å€
+ar reciver = document.getElementById('reciver').value;
+// æ token æ•°é‡
+ar amount = document.getElementById('amount').value;
+if(!web3.isAddress(reciver)){ // æ£€æµ‹åœ°å€æ˜¯å¦åˆæ³•
+   alert("reciver: Invalid address!");
 	return ;
 }
-// ·¢ËÍtoken£¬×¢ÒâÕâÀïÄ¬ÈÏÊÇ´Ó±¾µØ²âÊÔÍøÂçµÄµÚÒ»¸öÕË»§×ªtoken¹ıÈ¥£¬ÒòÎªÎÒÃÇµÄÄ¬ÈÏÕË»§¾ÍÊÇËü web3.eth.defaultAccount = web3.eth.accounts[0]; Í¬Ê±ÔÚremix·¢²¼ºÏÔ¼µÄÊ±ºò£¬ÎÒÃÇÊÇÊ¹ÓÃµÚÒ»¸öÕË»§·¢²¼µÄ£¬Ò²¾ÍÊÇËµµÚÒ»¸öÕË»§¿ªÊ¼ÓµÓĞËùÓĞµÄMFC Token
+// å‘é€ tokenï¼Œæ³¨æ„è¿™é‡Œé»˜è®¤æ˜¯ä»æœ¬åœ°æµ‹è¯•ç½‘ç»œçš„ç¬¬ä¸€ä¸ªè´¦æˆ·è½¬ token è¿‡å»ï¼Œå› ä¸ºæˆ‘ä»¬çš„é»˜è®¤è´¦æˆ·å°±æ˜¯å®ƒ web3.eth.defaultAccount = web3.eth.accounts[0]; åŒæ—¶åœ¨ remix å‘å¸ƒåˆçº¦çš„æ—¶å€™ï¼Œæˆ‘ä»¬æ˜¯ä½¿ç”¨ç¬¬ä¸€ä¸ªè´¦æˆ·å‘å¸ƒçš„ï¼Œä¹Ÿå°±æ˜¯è¯´ç¬¬ä¸€ä¸ªè´¦æˆ·å¼€å§‹æ‹¥æœ‰æ‰€æœ‰çš„ MFC Token
 contract.transfer(reciver, web3.toWei(amount), function(err, resp){
 	if(!err){
 		console.log(resp);
@@ -115,28 +131,27 @@ contract.transfer(reciver, web3.toWei(amount), function(err, resp){
 	}
 })
 ```
-Õâ¾ÍÊµÏÖÁË´Ó·¢²¼ºÏÔ¼µÄÄ¬ÈÏÕË»§×ªtokenµ½ÓÃ»§µØÖ·µÄ¹¦ÄÜ¡£µ«ÊÇÕâÃ´×öÊÇ±È½ÏÎ£ÏÕµÄ£¬ÒòÎªÄú°ÑËùÓĞµÄtoken¶¼·Åµ½ÁËÒ»¸öÁªÍøµÄÕË»§ÖĞ£¬Èç¹ûÆ½Ì¨±»ºÚ¿ÍÈëÇÖ£¬¾ÍÓĞ¿ÉÄÜ°ÑÄúËùÓĞµÄToken×ª×ß£¬·çÏÕ»á±È½Ï´ó
-¡£ËùÒÔÕı³£µÄ×ö·¨Ó¦¸ÃÊÇ£¬°Ñ°üº¬´óÁ¿tokenµÄÕË»§±£´æÔÚÀäÇ®°üÀïÃæ£¬Ö»ÔÚĞèÒªÊ¹ÓÃµÄÊ±ºò²Å´ÓÀäÇ®°üÀïÃæÌáTokenµ½ÔËÓªµÄÕË»§µØÖ·ÖĞ¡£ÄÇ¾ÍÊÇËµÎÒÃÇĞèÒªÊµÏÖÁ½¸öµØÖ·Ö®¼ä×ªtokenµÄ¹¦ÄÜ£¬²»ÄÜÏñÉÏÃæÄÇÑùÄ¬ÈÏÊ¹ÓÃ·¢TokenµÄÕË»§À´×ªTokenÁË¡£ÄÇÃ´ÎÒÃÇÓ¦¸ÃÔõÃ´À´ÊµÏÖÄØ£¿¿´ÏÂÃæµÄ´úÂë
 
-```
+è¿™å°±å®ç°äº†ä»å‘å¸ƒåˆçº¦çš„é»˜è®¤è´¦æˆ·è½¬ token åˆ°ç”¨æˆ·åœ°å€çš„åŠŸèƒ½ã€‚ä½†æ˜¯è¿™ä¹ˆåšæ˜¯æ¯”è¾ƒå±é™©çš„ï¼Œå› ä¸ºæ‚¨æŠŠæ‰€æœ‰çš„ token éƒ½æ”¾åˆ°äº†ä¸€ä¸ªè”ç½‘çš„è´¦æˆ·ä¸­ï¼Œå¦‚æœå¹³å°è¢«é»‘å®¢å…¥ä¾µï¼Œå°±æœ‰å¯èƒ½æŠŠæ‚¨æ‰€æœ‰çš„ Token è½¬èµ°ï¼Œé£é™©ä¼šæ¯”è¾ƒå¤§ã€‚æ‰€ä»¥æ­£å¸¸çš„åšæ³•åº”è¯¥æ˜¯ï¼ŒæŠŠåŒ…å«å¤§é‡ token çš„è´¦æˆ·ä¿å­˜åœ¨å†·é’±åŒ…é‡Œé¢ï¼Œåªåœ¨éœ€è¦ä½¿ç”¨çš„æ—¶å€™æ‰ä»å†·é’±åŒ…é‡Œé¢æ Token åˆ°è¿è¥çš„è´¦æˆ·åœ°å€ä¸­ã€‚é‚£å°±æ˜¯è¯´æˆ‘ä»¬éœ€è¦å®ç°ä¸¤ä¸ªåœ°å€ä¹‹é—´è½¬ token çš„åŠŸèƒ½ï¼Œä¸èƒ½åƒä¸Šé¢é‚£æ ·é»˜è®¤ä½¿ç”¨å‘ Token çš„è´¦æˆ·æ¥è½¬ Token äº†ã€‚é‚£ä¹ˆæˆ‘ä»¬åº”è¯¥æ€ä¹ˆæ¥å®ç°å‘¢ï¼Ÿçœ‹ä¸‹é¢çš„ä»£ç 
 
-// ¼ÙÉèÕâ¸öÊÇÎÒÃÇµÄÔËÓªÇ®°üµØÖ·
-var from = '0x009ddafb6dd10f2ed72dd0d0c7f291b5a0cea9eb';
-// ×ªtokenµÄÊıÁ¿
-var amount = document.getElementById('mAmount').value;
-// ÌátokenµÄµØÖ·
-var to = document.getElementById('mTo').value;
+``` js
+// å‡è®¾è¿™ä¸ªæ˜¯æˆ‘ä»¬çš„è¿è¥é’±åŒ…åœ°å€
+ar from = '0x009ddafb6dd10f2ed72dd0d0c7f291b5a0cea9eb';
+// è½¬ token çš„æ•°é‡
+ar amount = document.getElementById('mAmount').value;
+// æ token çš„åœ°å€
+ar to = document.getElementById('mTo').value;
 
 if(!web3.isAddress(to)){
 	alert("Invalid to address");
 	return ;
 }
 
-// »ñÈ¡µ±Ç°½»Ò×Êı£¬µ±nonceÊ¹ÓÃ
-web3.eth.getTransactionCount(from, function(err, count){
+// è·å–å½“å‰äº¤æ˜“æ•°ï¼Œå½“ nonce ä½¿ç”¨
+eb3.eth.getTransactionCount(from, function(err, count){
 	if(!err){
 		var tcount = count;
-		// ÏÈ¼ì²éµ±Ç°ÔËÓªÕË»§µÄÓà¶î¹»²»¹»×ªtoken
+		// å…ˆæ£€æŸ¥å½“å‰è¿è¥è´¦æˆ·çš„ä½™é¢å¤Ÿä¸å¤Ÿè½¬ token
 		contract.balanceOf(from, (err, tkns) => {
 	        if (!err) {
 	           var balance = web3.fromWei(tkns, 'ether').toNumber();
@@ -145,8 +160,8 @@ web3.eth.getTransactionCount(from, function(err, count){
 	           		return ;
 	           }
 	           amount = web3.toWei(amount);
-	           // ½»Ò×ĞÅÏ¢
-	           var rawTransaction = {
+	           // äº¤æ˜“ä¿¡æ¯
+              var rawTransaction = {
 			      "from": from,
 			      "nonce": "0x" + tcount.toString(16),
 			      "gasPrice": "0x003B9ACA00",
@@ -155,16 +170,16 @@ web3.eth.getTransactionCount(from, function(err, count){
 			      "value": "0x0",
 			      "data": contract.transfer(to, amount).encodeABI()
 			  };
-			  
-			  // ÔËÓªÇ®°üµØÖ·µÄË½Ô¿£¬ĞèÒªÓÃËüÀ´Ç©Ãû½»Ò×
-			  var privKey = new Buffer("0x811502c101ae015b658dccbdb6626840b734c40ba229ce78877826c27ca07513", 'hex');
-			  // ¶Ô½»Ò×Ç©Ãû
-			  var tx = new ethereumjs.Tx(rawTransaction);
+
+			  // è¿è¥é’±åŒ…åœ°å€çš„ç§é’¥ï¼Œéœ€è¦ç”¨å®ƒæ¥ç­¾åäº¤æ˜“
+   		  var privKey = new Buffer("0x811502c101ae015b658dccbdb6626840b734c40ba229ce78877826c27ca07513", 'hex');
+			  // å¯¹äº¤æ˜“ç­¾å
+   		  var tx = new ethereumjs.Tx(rawTransaction);
 			  tx.sign(privKey);
 			  var serializedTx = tx.serialize();
-			  
-			  // ·¢ËÍ½»Ò×µ½ÒÔÌ«·»
-			  web3.eth.sendSignedTransaction('0x' + serializedTx.toString('hex'),function(err, result){
+
+			  // å‘é€äº¤æ˜“åˆ°ä»¥å¤ªåŠ
+   		  web3.eth.sendSignedTransaction('0x' + serializedTx.toString('hex'),function(err, result){
 			  	if(!err){
 			  		console.log(result);
 			  	}else{
@@ -174,46 +189,49 @@ web3.eth.getTransactionCount(from, function(err, count){
 	        }else{
 	        	console.log(err)
 	        }
-	        
+
       	})
 	}else{
 		console.log(error);
 	}
 ```
 
-ÕâÑù¾Í¿ÉÒÔÊµÏÖ²»Í¬ÕË»§Ö®¼äµÄ×ªToken²Ù×÷ÁË¡£
+è¿™æ ·å°±å¯ä»¥å®ç°ä¸åŒè´¦æˆ·ä¹‹é—´çš„è½¬ Token æ“ä½œäº†ã€‚
 
-#### ³äToken
-³äToken¡£Ê×ÏÈÎÒÃÇÒªÀí½âÏÂ³äToken£¬ÊÇÓÃ»§´ÓËûÇ®°üµØÖ·×ªTokenµ½ÎÒÃÇÆ½Ì¨µÄÕË»§µØÖ·¡£ËùÒÔÊ×ÏÈÎÒÃÇµÃ¸øÓÃ»§Ìá¹©Ò»¸ö¸úËû¶ÔÓ¦µÄÇ®°üµØÖ·£¬Í¬Ê±Òª¼à¿ØÓÃ»§µÄ×ªTokenÊÂ¼ş£¬µ±ÓÃ»§×ªToken¹ıÀ´ÁË£¬ÎÒÃÇĞèÒª¼ÇÂ¼£¬Í¬Ê±ÔÚÊı¾İ¿âÖĞ°ÑÓÃ»§µÄTokenÓà¶îÔö¼Ó¡£ËùÒÔÎÒÃÇµÃÏÈ¸ã¶¨¸øÓÃ»§Ìá¹©Ò»¸öÇ®°üµØÖ·£¬ÕâÀïÎÒÃÇÊ¹ÓÃµ½ÁË`Ethereum-Wallet`À´°ïÎÒÃÇÉú³ÉµØÖ·£¬¹«Ô¿£¬Ë½Ô¿¡£´úÂëÈçÏÂ£º
+#### å…… Token
+***
 
+å…… Tokenã€‚é¦–å…ˆæˆ‘ä»¬è¦ç†è§£ä¸‹å…… Tokenï¼Œæ˜¯ç”¨æˆ·ä»ä»–é’±åŒ…åœ°å€è½¬ Token åˆ°æˆ‘ä»¬å¹³å°çš„è´¦æˆ·åœ°å€ã€‚æ‰€ä»¥é¦–å…ˆæˆ‘ä»¬å¾—ç»™ç”¨æˆ·æä¾›ä¸€ä¸ªè·Ÿä»–å¯¹åº”çš„é’±åŒ…åœ°å€ï¼ŒåŒæ—¶è¦ç›‘æ§ç”¨æˆ·çš„è½¬ Token äº‹ä»¶ï¼Œå½“ç”¨æˆ·è½¬ Token è¿‡æ¥äº†ï¼Œæˆ‘ä»¬éœ€è¦è®°å½•ï¼ŒåŒæ—¶åœ¨æ•°æ®åº“ä¸­æŠŠç”¨æˆ·çš„ Token ä½™é¢å¢åŠ ã€‚æ‰€ä»¥æˆ‘ä»¬å¾—å…ˆæå®šç»™ç”¨æˆ·æä¾›ä¸€ä¸ªé’±åŒ…åœ°å€ï¼Œè¿™é‡Œæˆ‘ä»¬ä½¿ç”¨åˆ°äº† `Ethereum-Wallet` æ¥å¸®æˆ‘ä»¬ç”Ÿæˆåœ°å€ï¼Œå…¬é’¥ï¼Œç§é’¥ã€‚ä»£ç å¦‚ä¸‹ï¼š
+
+``` js
+// ä¸Šé¢å·²ç»å¼•å…¥äº† Ethereum-Wallet ç›¸åº”çš„ js
+
+// ç”¨æˆ·ç”Ÿæˆåœ°å€çš„å¯†ç 
+ar password = document.getElementById('password').value;
+// åˆå§‹åŒ–é’±åŒ…å¯¹è±¡
+ar wallet = ethereumjs.Wallet.generate(password);
+
+// è·å–ç§é’¥
+ocument.getElementById('gPrikey').innerHTML = "private key:" + wallet.getPrivateKeyString();
+// è·å–å…¬é’¥
+ocument.getElementById('gPubkey').innerHTML = "public key:" + wallet.getPublicKeyString();
+// è·å–åœ°å€
+ocument.getElementById('gAddress').innerHTML = "address:" + wallet.getAddressString();
 ```
-// ÉÏÃæÒÑ¾­ÒıÈëÁËEthereum-WalletÏàÓ¦µÄjs
 
-// ÓÃ»§Éú³ÉµØÖ·µÄÃÜÂë
-var password = document.getElementById('password').value;
-// ³õÊ¼»¯Ç®°ü¶ÔÏó
-var wallet = ethereumjs.Wallet.generate(password);
+ä½†æ˜¯è¿˜æœ‰ä¸€ä¸ªé—®é¢˜ï¼Œå½“ç”¨æˆ·è½¬ token è¿‡æ¥ï¼Œæˆ‘ä»¬æ€ä¹ˆçŸ¥é“ä»–æœ‰è½¬å‘¢ï¼Ÿåœ¨æˆ‘ä»¬çš„ Token åªèƒ½åˆçº¦é‡Œé¢æ¯æ¬¡è½¬ Token çš„éƒ½ä¼šè§¦å‘ Transfer äº‹ä»¶ï¼ˆsolidity çŸ¥è¯†ï¼‰ï¼Œæˆ‘ä»¬åªéœ€è¦ç›‘å¬è¿™ä¸ªäº‹ä»¶å°±å¯ä»¥äº†ï¼Œä»£ç å¦‚ä¸‹ï¼š
 
-// »ñÈ¡Ë½Ô¿
-document.getElementById('gPrikey').innerHTML = "private key:" + wallet.getPrivateKeyString();
-//»ñÈ¡¹«Ô¿
-document.getElementById('gPubkey').innerHTML = "public key:" + wallet.getPublicKeyString();
-// »ñÈ¡µØÖ·
-document.getElementById('gAddress').innerHTML = "address:" + wallet.getAddressString();
-```
-µ«ÊÇ»¹ÓĞÒ»¸öÎÊÌâ£¬µ±ÓÃ»§×ªtoken¹ıÀ´£¬ÎÒÃÇÔõÃ´ÖªµÀËûÓĞ×ªÄØ£¿ÔÚÎÒÃÇµÄTokenÖ»ÄÜºÏÔ¼ÀïÃæÃ¿´Î×ªTokenµÄ¶¼»á´¥·¢TransferÊÂ¼ş£¨solidityÖªÊ¶£©£¬ÎÒÃÇÖ»ĞèÒª¼àÌıÕâ¸öÊÂ¼ş¾Í¿ÉÒÔÁË£¬´úÂëÈçÏÂ£º
-
-```
-// ¼àÌı ×ªtokenÊÂ¼ş
-contract.Transfer( function(err, res) {
+``` js
+// ç›‘å¬ è½¬ token äº‹ä»¶
+ontract.Transfer(function(err, res) {
 	if(!err){
 		console.log(res);
-		// ·¢ËÍTokenµÄµØÖ·
-		var from =  res.args._from;
-		// ½ÓÊÜTokenµÄµØÖ· ËùÒÔÎÒÃÇÖ»ĞèÒª¶Ô±ÈÏÂ ½ÓÊÜTokenµÄµØÖ·£¬ÊÇÎÒÃÇ×Ô¼ºµÄµØÖ·£¬ÄÇ¾Í¿ÉÒÔ¸øÏàÓ¦µÄÓÃ»§Ôö¼Ó³ätoken¼ÇÂ¼ÁË¡£
+		// å‘é€ Token çš„åœ°å€
+   	var from =  res.args._from;
+		// æ¥å— Token çš„åœ°å€ æ‰€ä»¥æˆ‘ä»¬åªéœ€è¦å¯¹æ¯”ä¸‹ æ¥å— Token çš„åœ°å€ï¼Œæ˜¯æˆ‘ä»¬è‡ªå·±çš„åœ°å€ï¼Œé‚£å°±å¯ä»¥ç»™ç›¸åº”çš„ç”¨æˆ·å¢åŠ å…… token è®°å½•äº†ã€‚
 		var to = res.args._to;
 		var amount = web3.fromWei(res.args._value).toNumber();
-		var html = '<p>From: '+ from+';To: '+ to+';Amount: '+amount+'</p>';
+		var html = '<p>From:'+ from+';To:'+ to+';Amount:'+amount+'</p>';
 		document.getElementById('logs').insertAdjacentHTML('beforeend', html);
 	}else{
 		console.log(err);
@@ -221,18 +239,20 @@ contract.Transfer( function(err, res) {
 })
 ```
 
-### ×ªETH
-ÕË»§Ö®¼ä·¢ËÍeth¡£ÓĞÒ»Ğ©ĞÂÉú³ÉµÄÕË»§¿ªÊ¼ÊÇÃ»ÓĞethµÄ£¬ÎÒÃÇĞèÒª¸øËü×ªµÄeth£¬ÒÔ¹©ËüÊ¹ÓÃ£¬´úÂëÈçÏÂ£º
+### è½¬ ETH
+***
 
-```
-// ½ÓÊÜethµØÖ·
-var etherAdress = document.getElementById('etherAdress').value;
+è´¦æˆ·ä¹‹é—´å‘é€ ethã€‚æœ‰ä¸€äº›æ–°ç”Ÿæˆçš„è´¦æˆ·å¼€å§‹æ˜¯æ²¡æœ‰ eth çš„ï¼Œæˆ‘ä»¬éœ€è¦ç»™å®ƒè½¬çš„ ethï¼Œä»¥ä¾›å®ƒä½¿ç”¨ï¼Œä»£ç å¦‚ä¸‹ï¼š
+
+``` js
+// æ¥å— eth åœ°å€
+ar etherAdress = document.getElementById('etherAdress').value;
 if(!web3.isAddress(etherAdress)){
 	alert('Invalid address');
 	return ;
 }
-// ·¢ËÍ½»Ò×£¬ ×ªeth£¬ÕâÀïÊ¹ÓÃµÄÄ¬ÈÏÕË»§×ªeth£¬Èç¹ûÏëÊ¹ÓÃÁíÍâµÄµØÖ·×ªÒ²¸ú ×ªtokenÒ»Ñù£¬Ê¹ÓÃË½Ô¿À´Ç©Ãû½»Ò×¼´¿É
-web3.eth.sendTransaction({
+// å‘é€äº¤æ˜“ï¼Œ è½¬ ethï¼Œè¿™é‡Œä½¿ç”¨çš„é»˜è®¤è´¦æˆ·è½¬ ethï¼Œå¦‚æœæƒ³ä½¿ç”¨å¦å¤–çš„åœ°å€è½¬ä¹Ÿè·Ÿ è½¬ token ä¸€æ ·ï¼Œä½¿ç”¨ç§é’¥æ¥ç­¾åäº¤æ˜“å³å¯
+eb3.eth.sendTransaction({
     to: etherAdress,
     value: '1000000000000000000'
 },function(err, result){
@@ -244,62 +264,55 @@ web3.eth.sendTransaction({
 })
 ```
 
-ÕâÑùTokenÖ®¼äµÄÁ÷Í¨´úÂëÊµÏÖÒÑ¾­Íê³ÉÁË£¬¾ßÌåµÄ´úÂëÊµÏÖ¿ÉÒÔÔÚ[GitHub](https://github.com/Rhain/testeth)ÉÏ²é¿´¡£
+è¿™æ · Token ä¹‹é—´çš„æµé€šä»£ç å®ç°å·²ç»å®Œæˆäº†ï¼Œå…·ä½“çš„ä»£ç å®ç°å¯ä»¥åœ¨ [GitHub](https://github.com/Rhain/testeth) ä¸ŠæŸ¥çœ‹ã€‚
 
-ÉÏÃæÌáµ½µÄ¿Ï¶¨»¹ÓĞ²»×ãµÄµØ·½£¬¿ÉÄÜÎÒÀí½âÒ²ÊÇ´íÎóµÄ£¬Ò²Çë´ó¼ÒÖ¸³ö´íÎóµÄµØ·½¡£´ó¼Ò¹²Í¬½ø²½¡£
+ä¸Šé¢æåˆ°çš„è‚¯å®šè¿˜æœ‰ä¸è¶³çš„åœ°æ–¹ï¼Œå¯èƒ½æˆ‘ç†è§£ä¹Ÿæ˜¯é”™è¯¯çš„ï¼Œä¹Ÿè¯·å¤§å®¶æŒ‡å‡ºé”™è¯¯çš„åœ°æ–¹ã€‚å¤§å®¶å…±åŒè¿›æ­¥ã€‚
 
-TokenÒÑ¾­ÖªµÀÁËÈçºÎÁ÷Í¨ÁË£¬µ«ÊÇ°¬Î÷Å·ÓÖÊÇÔõÃ´Ò»»ØÊÂÄØ£¿ÎªºÎ¸øÒ»¸öµØÖ·×ªeth¾Í¿ÉÒÔµÃµ½TokenÄØ£¿ÈçºÎ·¢²¼Ò»¸ö°¬Î÷Å·ºÏÔ¼ÄØ£¿ÕâÒ²ÊÇºóÃæÎÒ»á¼ÌĞøÑĞ¾¿µÄ£¬×Ô¼º·¢ĞĞÒ»¸ö°¬Î÷Å·À´ÍæÍæ£¬µ±È»ÊÇÔÚ²âÊÔ»·¾³£¡
+Token å·²ç»çŸ¥é“äº†å¦‚ä½•æµé€šäº†ï¼Œä½†æ˜¯è‰¾è¥¿æ¬§åˆæ˜¯æ€ä¹ˆä¸€å›äº‹å‘¢ï¼Ÿä¸ºä½•ç»™ä¸€ä¸ªåœ°å€è½¬ eth å°±å¯ä»¥å¾—åˆ° Token å‘¢ï¼Ÿå¦‚ä½•å‘å¸ƒä¸€ä¸ªè‰¾è¥¿æ¬§åˆçº¦å‘¢ï¼Ÿè¿™ä¹Ÿæ˜¯åé¢æˆ‘ä¼šç»§ç»­ç ”ç©¶çš„ï¼Œè‡ªå·±å‘è¡Œä¸€ä¸ªè‰¾è¥¿æ¬§æ¥ç©ç©ï¼Œå½“ç„¶æ˜¯åœ¨æµ‹è¯•ç¯å¢ƒï¼
 
 ----
-¸üĞÂ
+ æ›´æ–°
 
-ÓĞÍ¬Ñ§Ö¸³öÕË»§¼äµÄ×ªÕËÓĞÎÊÌâ£¬¾­¹ıÎÒµÄ²âÊÔ·¢ÏÖÈ·ÊµÊÇ´æÔÚÒ»¸öÎÊÌâ£¬¾ÍÊÇÕË»§Ö®¼ä×ªÕËµÄÊ±ºò£¬Ä¬ÈÏ×ªµÄ»¹ÊÇweb3.eth.defaultAccout ÕË»§µÄtoken£¬¶øÃ»ÓĞ×ª¾­¹ıË½Ô¿Ç©ÃûµÄÕË»§¡£
+æœ‰åŒå­¦æŒ‡å‡ºè´¦æˆ·é—´çš„è½¬è´¦æœ‰é—®é¢˜ï¼Œç»è¿‡æˆ‘çš„æµ‹è¯•å‘ç°ç¡®å®æ˜¯å­˜åœ¨ä¸€ä¸ªé—®é¢˜ï¼Œå°±æ˜¯è´¦æˆ·ä¹‹é—´è½¬è´¦çš„æ—¶å€™ï¼Œé»˜è®¤è½¬çš„è¿˜æ˜¯ web3.eth.defaultAccout è´¦æˆ·çš„ tokenï¼Œè€Œæ²¡æœ‰è½¬ç»è¿‡ç§é’¥ç­¾åçš„è´¦æˆ·ã€‚
 
-ºóÃæ²é¿´web3.js µÄÎÄµµ£¬ÎÄµµµÄweb3.js ¶ÔÓ¦µÄ°æ±¾ÊÇ1.0£¬µ«ÊÇÎÒÃÇÊ¹ÓÃµÄ»¹ÊÇ0.x°æ±¾¡£ ¶øÇÒ1.0°æ±¾µÄapi ¸úÖ®Ç°µÄ°æ±¾±ä»¯·Ç³£´ó¡£
+åé¢æŸ¥çœ‹ web3.js çš„æ–‡æ¡£ï¼Œæ–‡æ¡£çš„ web3.js å¯¹åº”çš„ç‰ˆæœ¬æ˜¯ 1.0ï¼Œä½†æ˜¯æˆ‘ä»¬ä½¿ç”¨çš„è¿˜æ˜¯ 0.x ç‰ˆæœ¬ã€‚ è€Œä¸” 1.0 ç‰ˆæœ¬çš„ api è·Ÿä¹‹å‰çš„ç‰ˆæœ¬å˜åŒ–éå¸¸å¤§ã€‚
 
-ÎÒÖØĞÂÊ¹ÓÃweb3.js 1.x µÄ°æ±¾ÖØĞÂÊµÏÖÁËÒ»±é¡£ ²âÊÔÓÃ»§¼äµÄ×ªÕËÊÇÃ»ÓĞÎÊÌâµÄ¡£ĞŞ¸ÄºóµÄ´úÂëÒÑ¾­ÉÏ´«µ½[GitHub](https://github.com/Rhain/testeth), ²Î¿¼ÎÄ¼ş `mfc2.html`¡£
+æˆ‘é‡æ–°ä½¿ç”¨ web3.js 1.x çš„ç‰ˆæœ¬é‡æ–°å®ç°äº†ä¸€éã€‚ æµ‹è¯•ç”¨æˆ·é—´çš„è½¬è´¦æ˜¯æ²¡æœ‰é—®é¢˜çš„ã€‚ä¿®æ”¹åçš„ä»£ç å·²ç»ä¸Šä¼ åˆ° [GitHub](https://github.com/Rhain/testeth), å‚è€ƒæ–‡ä»¶ `mfc2.html`ã€‚
 
+ã€ŒåŒºå—é“¾æŠ€æœ¯æŒ‡åŒ—ã€åŒå ** çŸ¥è¯†æ˜Ÿçƒ **ï¼ŒäºŒç»´ç å¦‚ä¸‹ï¼Œæ¬¢è¿åŠ å…¥ã€‚BTWï¼Œ** æç¬‘æ¥è€å¸ˆä¹ŸåŠ å…¥äº† **ã€‚
 
-ÕâÊÇ¡¸Çø¿éÁ´¼¼ÊõÖ¸±±¡¹µÄµÚ x ÆªÎÄÕÂ¡£
+![åŒºå—é“¾æŠ€æœ¯æŒ‡åŒ—](https://i.imgur.com/pQxlDqF.jpg)
 
-> Èç¹û¶ÔÎÒ¸ĞĞËÈ¤£¬ÏëºÍÎÒ½»Á÷£¬ÎÒµÄÎ¢ĞÅºÅ£º**Wentasy**£¬¼ÓÎÒÊ±¼òµ¥½éÉÜÏÂ×Ô¼º£¬²¢×¢Ã÷À´×Ô¡¸Çø¿éÁ´¼¼ÊõÖ¸±±¡¹¡£Í¬Ê±ÎÒ»á°ÑÄãÀ­ÈëÎ¢ĞÅÈº¡¸Çø¿éÁ´¼¼ÊõÖ¸±±¡¹¡£BTW£¬ÀîĞ¦À´ÀÏÊ¦Ò²¼ÓÈëÁËÎÒÃÇµÄÖªÊ¶ĞÇÇò£¬ÎÄÄ©ÓĞ¼ÓÈë·½Ê½¡£
+ã€ŒåŒºå—é“¾æŠ€æœ¯æŒ‡åŒ—ã€ç›¸å…³èµ„è®¯æ¸ é“ï¼š
 
-> ÌâÍ¼À´×Ô: ? Preethi Kasireddy / Bitcoin, Ethereum, Blockchain, Tokens, ICOs / hackernoon.com
+* ã€ŒåŒºå—é“¾æŠ€æœ¯æŒ‡åŒ—ã€åŒåçŸ¥è¯†æ˜Ÿçƒï¼Œ[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
+* å®˜ç½‘ï¼Œ[https://chainone.xyz](https://chainone.xyz)
+* å®˜æ–¹åšå®¢ï¼Œ[https://blog.chainone.xyz](https://blog.chainone.xyz)
+* å®˜æ–¹ç¤¾åŒºï¼Œ[https://bcage.one](https://bcage.one)
+* Telegram Channelï¼Œ[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
+* Telegram Groupï¼Œ[https://t.me/bcage](https://t.me/bcage)
+* Twitterï¼Œ[https://twitter.com/bcageone](https://twitter.com/bcageone)
+* æ–°æµªå¾®åšï¼Œ[https://weibo.com/BlockchainAge](https://weibo.com/BlockchainAge)
 
-¡¸Çø¿éÁ´¼¼ÊõÖ¸±±¡¹Í¬Ãû **ÖªÊ¶ĞÇÇò**£¬¶şÎ¬ÂëÈçÏÂ£¬»¶Ó­¼ÓÈë¡£BTW£¬**ÀîĞ¦À´ÀÏÊ¦Ò²¼ÓÈëÁË**¡£
+ åŒæ—¶ï¼Œæœ¬ç³»åˆ—æ–‡ç« ä¼šåœ¨ä»¥ä¸‹æ¸ é“åŒæ­¥æ›´æ–°ï¼Œæ¬¢è¿å…³æ³¨ï¼š
 
-![Çø¿éÁ´¼¼ÊõÖ¸±±](https://i.imgur.com/pQxlDqF.jpg)
+* ã€ŒåŒºå—é“¾æŠ€æœ¯æŒ‡åŒ—ã€åŒåå¾®ä¿¡å…¬ä¼—å·ï¼ˆå¾®ä¿¡å·ï¼šBlockchainAgeï¼‰
+* å®˜æ–¹åšå®¢ï¼Œ[https://blog.chainone.xyz](https://blog.chainone.xyz)
+* çŸ¥ä¹ï¼Œ[https://zhuanlan.zhihu.com/robinwen](https://zhuanlan.zhihu.com/robinwen)
+* Steemitï¼Œ[https://steemit.com/@robinwen](https://steemit.com/@robinwen)
+* Mediumï¼Œ[https://medium.com/@robinwan](https://medium.com/@robinwan)
+* æ˜é‡‘ï¼Œ[robinwen@juejin.im](https://juejin.im/user/5673ccae60b2260ee435f89a/posts)
+* å¸ä¹ï¼Œ[https://bihu.com/people/12109](https://bihu.com/people/12109)
 
-¡¸Çø¿éÁ´¼¼ÊõÖ¸±±¡¹Ïà¹Ø×ÊÑ¶ÇşµÀ£º
-
-* ¡¸Çø¿éÁ´¼¼ÊõÖ¸±±¡¹Í¬ÃûÖªÊ¶ĞÇÇò£¬[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
-* ¹ÙÍø£¬[https://chainone.xyz](https://chainone.xyz)
-* ¹Ù·½²©¿Í£¬[https://blog.chainone.xyz](https://blog.chainone.xyz)
-* ¹Ù·½ÉçÇø£¬[https://bcage.one](https://bcage.one)
-* Telegram Channel£¬[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
-* Telegram Group£¬[https://t.me/bcage](https://t.me/bcage)
-* Twitter£¬[https://twitter.com/bcageone](https://twitter.com/bcageone)
-* ĞÂÀËÎ¢²©£¬[https://weibo.com/BlockchainAge](https://weibo.com/BlockchainAge)
-
-Í¬Ê±£¬±¾ÏµÁĞÎÄÕÂ»áÔÚÒÔÏÂÇşµÀÍ¬²½¸üĞÂ£¬»¶Ó­¹Ø×¢£º
-
-* ¡¸Çø¿éÁ´¼¼ÊõÖ¸±±¡¹Í¬ÃûÎ¢ĞÅ¹«ÖÚºÅ£¨Î¢ĞÅºÅ£ºBlockchainAge£©
-* ¹Ù·½²©¿Í£¬[https://blog.chainone.xyz](https://blog.chainone.xyz)
-* Öªºõ£¬[https://zhuanlan.zhihu.com/robinwen](https://zhuanlan.zhihu.com/robinwen)
-* Steemit£¬[https://steemit.com/@robinwen](https://steemit.com/@robinwen)
-* Medium£¬[https://medium.com/@robinwan](https://medium.com/@robinwan)
-* ¾ò½ğ£¬[robinwen@juejin.im](https://juejin.im/user/5673ccae60b2260ee435f89a/posts)
-* ±Òºõ£¬[https://bihu.com/people/12109](https://bihu.com/people/12109)
-
-Ô­´´²»Ò×£¬¶ÁÕß¿ÉÒÔÍ¨¹ıÈçÏÂÍ¾¾¶´òÉÍ£¬ĞéÄâ»õ±Ò¡¢ÃÀÔª¡¢·¨±Ò¾ùÖ§³Ö¡£
+ åŸåˆ›ä¸æ˜“ï¼Œè¯»è€…å¯ä»¥é€šè¿‡å¦‚ä¸‹é€”å¾„æ‰“èµï¼Œè™šæ‹Ÿè´§å¸ã€ç¾å…ƒã€æ³•å¸å‡æ”¯æŒã€‚
 
 * BTC: 1HRZ7og2KjqpP3v3jskgueNu64kJrFU8GD
 * ERC20 Token: 0x5c8DEB48dC08b5dC60A0290B718690a801509Dd1
 * PayPal: [https://www.paypal.me/robinwen](https://www.paypal.me/robinwen)
-* Î¢ĞÅ´òÉÍ¶şÎ¬Âë
+* å¾®ä¿¡æ‰“èµäºŒç»´ç 
 
 ![Imgur](https://i.imgur.com/JCMV4vL.jpg)
 
-¨CEOF¨C
+â€“EOFâ€“
 
-°æÈ¨ÉùÃ÷£º[×ÔÓÉ×ªÔØ-·ÇÉÌÓÃ-·ÇÑÜÉú-±£³ÖÊğÃû£¨´´Òâ¹²Ïí4.0Ğí¿ÉÖ¤£©](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
+ ç‰ˆæƒå£°æ˜ï¼š[è‡ªç”±è½¬è½½ - éå•†ç”¨ - éè¡ç”Ÿ - ä¿æŒç½²åï¼ˆåˆ›æ„å…±äº« 4.0 è®¸å¯è¯ï¼‰](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)

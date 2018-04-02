@@ -1,85 +1,91 @@
 ---
-title: "ÒÔÌ«·»·¢token½Ì³Ì"
-date: 2018-03-24 08:20:00
+title: "ä»¥å¤ªåŠå‘ token æ•™ç¨‹"
+date: 2018-04-02 08:20:00
 categories:
 - Blockchain
 tags:
 - Blockchain
-- ERC20
+- Ethereum
 ---
 
-ÕâÊÇ¡¸Çø¿éÁ´¼¼ÊõÖ¸±±¡¹µÄµÚ x ÆªÎÄÕÂ¡£
+è¿™æ˜¯ã€ŒåŒºå—é“¾æŠ€æœ¯æŒ‡åŒ—ã€çš„ç¬¬ 31 ç¯‡æ–‡ç« ã€‚
 
-> Èç¹û¶ÔÎÒ¸ĞĞËÈ¤£¬ÏëºÍÎÒ½»Á÷£¬ÎÒµÄÎ¢ĞÅºÅ£º**Wentasy**£¬¼ÓÎÒÊ±¼òµ¥½éÉÜÏÂ×Ô¼º£¬²¢×¢Ã÷À´×Ô¡¸Çø¿éÁ´¼¼ÊõÖ¸±±¡¹¡£Í¬Ê±ÎÒ»á°ÑÄãÀ­ÈëÎ¢ĞÅÈº¡¸Çø¿éÁ´¼¼ÊõÖ¸±±¡¹¡£BTW£¬ÀîĞ¦À´ÀÏÊ¦Ò²¼ÓÈëÁËÎÒÃÇµÄÖªÊ¶ĞÇÇò£¬ÎÄÄ©ÓĞ¼ÓÈë·½Ê½¡£
+> å¦‚æœå¯¹æˆ‘æ„Ÿå…´è¶£ï¼Œæƒ³å’Œæˆ‘äº¤æµï¼Œæˆ‘çš„å¾®ä¿¡å·ï¼š**Wentasy**ï¼ŒåŠ æˆ‘æ—¶ç®€å•ä»‹ç»ä¸‹è‡ªå·±ï¼Œå¹¶æ³¨æ˜æ¥è‡ªã€ŒåŒºå—é“¾æŠ€æœ¯æŒ‡åŒ—ã€ã€‚åŒæ—¶æˆ‘ä¼šæŠŠä½ æ‹‰å…¥å¾®ä¿¡ç¾¤ã€ŒåŒºå—é“¾æŠ€æœ¯æŒ‡åŒ—ã€ã€‚BTWï¼Œæç¬‘æ¥è€å¸ˆä¹ŸåŠ å…¥äº†æˆ‘ä»¬çš„çŸ¥è¯†æ˜Ÿçƒï¼Œæ–‡æœ«æœ‰åŠ å…¥æ–¹å¼ã€‚
 
-> ÌâÍ¼À´×Ô: ? Preethi Kasireddy / Bitcoin, Ethereum, Blockchain, Tokens, ICOs / hackernoon.com
+2017 å¹´å‡ºç°äº†éå¸¸å¤šçš„æ•°å­—è´§å¸ã€‚ä½†æ˜¯è¿™ç§è´§å¸æ˜¯å¦‚ä½•äº§ç”Ÿçš„ï¼Œä½œä¸ºä¸€ä¸ªç¨‹åºå‘˜ã€‚æ€€ç€å¯¹å‘å¸çš„å¥½å¥‡ï¼Œè‡ªå·±åŠ¨æ‰‹æŠŠå‘å¸çš„æµç¨‹ç»™èµ°äº†ä¸€éã€‚å†æ­¤è®°å½•ä¸‹ã€‚è¿™é‡Œå‘å¸ç‰¹æŒ‡ ERC20 tokenã€‚
 
-2017Äê³öÏÖÁË·Ç³£¶àµÄÊı×Ö»õ±Ò¡£µ«ÊÇÕâÖÖ»õ±ÒÊÇÈçºÎ²úÉúµÄ£¬×÷ÎªÒ»¸ö³ÌĞòÔ±¡£»³×Å¶Ô·¢±ÒµÄºÃÆæ£¬×Ô¼º¶¯ÊÖ°Ñ·¢±ÒµÄÁ÷³Ì¸ø×ßÁËÒ»±é¡£ÔÙ´Ë¼ÇÂ¼ÏÂ¡£ÕâÀï·¢±ÒÌØÖ¸ERC20 token¡£
+> é¢˜å›¾æ¥è‡ª: Preethi Kasireddy / Bitcoin, Ethereum, Blockchain, Tokens, ICOs / hackernoon.com
 
-### ×¼±¸¹¤×÷
-ÔÚ·¢TokenÇ°£¬ÄãÏÈµÄÈ·¶¨Ò»ÏÂ¼¸µã£º
-1. TokenµÄÃû³Æ
-2. TokenµÄ±êÊ¶
-3. TokenµÄĞ¡ÊıÎ»
-4. Token·¢ĞÍÁ¿
+### å‡†å¤‡å·¥ä½œ
+***
 
-ÎÒµÄÑ¡ÔñÊÇ£º
+åœ¨å‘ Token å‰ï¼Œä½ å…ˆçš„ç¡®å®šä¸€ä¸‹å‡ ç‚¹ï¼š
 
-1. Ãû³Æ£ºMyFreeCoin
-2. ±êÊ¶£ºMFC
-3. Ğ¡ÊıÎ»£º 18
-4. ·¢ĞĞÁ¿£º 10000
+1. Token çš„åç§°
+2. Token çš„æ ‡è¯†
+3. Token çš„å°æ•°ä½
+4. Token å‘å‹é‡
 
-Ğ¡ÊıÎ»ÊÇ18Î»£¬±íÊ¾MFCÕâ¸öToken×îĞ¡¿ÉÒÔµ½ .0000000000000000001¡£ 
+æˆ‘çš„é€‰æ‹©æ˜¯ï¼š
 
-### Token´úÂë
-±àĞ´ MFCµÄÖÇÄÜºÏÔ¼£º
-TokenµÄºÏÔ¼´úÂëÎÒÃÇ²Î¿¼[Token-Factory](https://github.com/ConsenSys/Token-Factory/tree/master/contracts)µÄ´úÂë¡£
+1. åç§°ï¼šMyFreeCoin
+2. æ ‡è¯†ï¼šMFC
+3. å°æ•°ä½ï¼š 18
+4. å‘è¡Œé‡ï¼š 10000
 
-```
+å°æ•°ä½æ˜¯ 18 ä½ï¼Œè¡¨ç¤º MFC è¿™ä¸ª Token æœ€å°å¯ä»¥åˆ° .0000000000000000001ã€‚
+
+### Token ä»£ç 
+***
+
+ç¼–å†™ MFC çš„æ™ºèƒ½åˆçº¦ï¼š
+
+Token çš„åˆçº¦ä»£ç æˆ‘ä»¬å‚è€ƒ [Token-Factory](https://github.com/ConsenSys/Token-Factory/tree/master/contracts) çš„ä»£ç ã€‚
+
+``` sol
 pragma solidity ^0.4.4;
 
 contract Token {
 
-    /// @return ·µ»ØtokenµÄ·¢ĞĞÁ¿
+    /// @return è¿”å› token çš„å‘è¡Œé‡
     function totalSupply() constant returns (uint256 supply) {}
 
-    /// @param _owner ²éÑ¯ÒÔÌ«·»µØÖ·tokenÓà¶î
-    /// @return The balance ·µ»ØÓà¶î
+    /// @param _owner æŸ¥è¯¢ä»¥å¤ªåŠåœ°å€ token ä½™é¢
+    /// @return The balance è¿”å›ä½™é¢
     function balanceOf(address _owner) constant returns (uint256 balance) {}
 
-    /// @notice msg.sender£¨½»Ò×·¢ËÍÕß£©·¢ËÍ _value£¨Ò»¶¨ÊıÁ¿£©µÄ token µ½ _to£¨½ÓÊÜÕß£©  
-    /// @param _to ½ÓÊÕÕßµÄµØÖ·
-    /// @param _value ·¢ËÍtokenµÄÊıÁ¿
-    /// @return ÊÇ·ñ³É¹¦
+    /// @notice msg.senderï¼ˆäº¤æ˜“å‘é€è€…ï¼‰å‘é€ _valueï¼ˆä¸€å®šæ•°é‡ï¼‰çš„ token åˆ° _toï¼ˆæ¥å—è€…ï¼‰
+    /// @param _to æ¥æ”¶è€…çš„åœ°å€
+    /// @param _value å‘é€ token çš„æ•°é‡
+    /// @return æ˜¯å¦æˆåŠŸ
     function transfer(address _to, uint256 _value) returns (bool success) {}
 
-    /// @notice ·¢ËÍÕß ·¢ËÍ _value£¨Ò»¶¨ÊıÁ¿£©µÄ token µ½ _to£¨½ÓÊÜÕß£©  
-    /// @param _from ·¢ËÍÕßµÄµØÖ·
-    /// @param _to ½ÓÊÕÕßµÄµØÖ·
-    /// @param _value ·¢ËÍµÄÊıÁ¿
-    /// @return ÊÇ·ñ³É¹¦
+    /// @notice å‘é€è€… å‘é€ _valueï¼ˆä¸€å®šæ•°é‡ï¼‰çš„ token åˆ° _toï¼ˆæ¥å—è€…ï¼‰
+    /// @param _from å‘é€è€…çš„åœ°å€
+    /// @param _to æ¥æ”¶è€…çš„åœ°å€
+    /// @param _value å‘é€çš„æ•°é‡
+    /// @return æ˜¯å¦æˆåŠŸ
     function transferFrom(address _from, address _to, uint256 _value) returns (bool success) {}
 
-    /// @notice ·¢ĞĞ·½ Åú×¼ Ò»¸öµØÖ··¢ËÍÒ»¶¨ÊıÁ¿µÄtoken
-    /// @param _spender ĞèÒª·¢ËÍtokenµÄµØÖ·
-    /// @param _value ·¢ËÍtokenµÄÊıÁ¿
-    /// @return ÊÇ·ñ³É¹¦
+    /// @notice å‘è¡Œæ–¹ æ‰¹å‡† ä¸€ä¸ªåœ°å€å‘é€ä¸€å®šæ•°é‡çš„ token
+    /// @param _spender éœ€è¦å‘é€ token çš„åœ°å€
+    /// @param _value å‘é€ token çš„æ•°é‡
+    /// @return æ˜¯å¦æˆåŠŸ
     function approve(address _spender, uint256 _value) returns (bool success) {}
 
-    /// @param _owner ÓµÓĞtokenµÄµØÖ·
-    /// @param _spender ¿ÉÒÔ·¢ËÍtokenµÄµØÖ·
-    /// @return »¹ÔÊĞí·¢ËÍµÄtokenµÄÊıÁ¿
+   /// @param _owner æ‹¥æœ‰ token çš„åœ°å€
+    /// @param _spender å¯ä»¥å‘é€ token çš„åœ°å€
+    /// @return è¿˜å…è®¸å‘é€çš„ token çš„æ•°é‡
     function allowance(address _owner, address _spender) constant returns (uint256 remaining) {}
 
-    /// ·¢ËÍTokenÊÂ¼ş
+   /// å‘é€ Token äº‹ä»¶
     event Transfer(address indexed _from, address indexed _to, uint256 _value);
-    /// Åú×¼ÊÂ¼ş
+   /// æ‰¹å‡†äº‹ä»¶
     event Approval(address indexed _owner, address indexed _spender, uint256 _value);
 }
 ```
 
-```
+``` sol
 /*
 This implements ONLY the standard functions and NOTHING else.
 For a token like you would want to deploy in something like Mist, see HumanStandardToken.sol.
@@ -87,9 +93,9 @@ For a token like you would want to deploy in something like Mist, see HumanStand
 If you deploy this, you won't have anything useful.
 
 Implements ERC 20 Token standard: https://github.com/ethereum/EIPs/issues/20
-
-ÊµÏÖERC20±ê×¼
 .*/
+
+// å®ç° ERC20 æ ‡å‡†
 
 pragma solidity ^0.4.4;
 
@@ -97,17 +103,17 @@ import "./Token.sol";
 
 contract StandardToken is Token {
 
-    // ·¢ËÍ½»Ò×·½ ×ªtoken¸ø ÄÄ¸öµØÖ·¡£
+    // å‘é€äº¤æ˜“æ–¹ï¼Œè½¬ token ç»™å“ªä¸ªåœ°å€
     function transfer(address _to, uint256 _value) returns (bool success) {
         if (balances[msg.sender] >= _value && _value > 0) {
             balances[msg.sender] -= _value;
             balances[_to] += _value;
             Transfer(msg.sender, _to, _value);
             return true;
-        } else { return false; }
+        } else {return false;}
     }
 
-    // ´ÓÒ»¸öµØÖ·×ªtokenµ½ÁíÒ»¸öµØÖ·
+    // ä»ä¸€ä¸ªåœ°å€è½¬ token åˆ°å¦ä¸€ä¸ªåœ°å€
     function transferFrom(address _from, address _to, uint256 _value) returns (bool success) {
         if (balances[_from] >= _value && allowed[_from][msg.sender] >= _value && _value > 0) {
             balances[_to] += _value;
@@ -115,7 +121,7 @@ contract StandardToken is Token {
             allowed[_from][msg.sender] -= _value;
             Transfer(_from, _to, _value);
             return true;
-        } else { return false; }
+        } else {return false;}
     }
 
     function balanceOf(address _owner) constant returns (uint256 balance) {
@@ -137,7 +143,8 @@ contract StandardToken is Token {
     uint256 public totalSupply;
 }
 ```
-```
+
+``` sol
 /*
 This Token Contract implements the standard token functionality (https://github.com/ethereum/EIPs/issues/20) as well as the following OPTIONAL extras intended for use by humans.
 
@@ -169,10 +176,10 @@ contract MyFreeCoin is StandardToken {
     They allow one to customise the token contract & in no way influences the core functionality.
     Some wallets/interfaces might not even bother to look at this information.
     */
-    string public name;                   //tokenÃû³Æ: MyFreeCoin 
-    uint8 public decimals;                //Ğ¡ÊıÎ»
-    string public symbol;                 //±êÊ¶
-    string public version = 'H0.1';       //°æ±¾ºÅ
+    string public name;                   //token åç§°: MyFreeCoin
+    uint8 public decimals;                // å°æ•°ä½
+    string public symbol;                 // æ ‡è¯†
+    string public version = 'H0.1';       // ç‰ˆæœ¬å·
 
     function MyFreeCoin(
         uint256 _initialAmount,
@@ -180,11 +187,11 @@ contract MyFreeCoin is StandardToken {
         uint8 _decimalUnits,
         string _tokenSymbol
         ) {
-        balances[msg.sender] = _initialAmount;               // ºÏÔ¼·¢²¼ÕßµÄÓà¶îÊÇ·¢ĞĞÊıÁ¿
-        totalSupply = _initialAmount;                        // ·¢ĞĞÁ¿
-        name = _tokenName;                                   // tokenÃû³Æ
-        decimals = _decimalUnits;                            // tokenĞ¡ÊıÎ»
-        symbol = _tokenSymbol;                               // token±êÊ¶
+        balances[msg.sender] = _initialAmount;               // åˆçº¦å‘å¸ƒè€…çš„ä½™é¢æ˜¯å‘è¡Œæ•°é‡
+        totalSupply = _initialAmount;                        // å‘è¡Œé‡
+        name = _tokenName;                                   // token åç§°
+        decimals = _decimalUnits;                            // token å°æ•°ä½
+        symbol = _tokenSymbol;                               // token æ ‡è¯†
     }
 
     function approveAndCall(address _spender, uint256 _value, bytes _extraData) returns (bool success) {
@@ -195,56 +202,94 @@ contract MyFreeCoin is StandardToken {
     }
 }
 ```
-Èç¹ûÏëÒª·¢ĞĞ×Ô¼ºµÄtoken£¬Ö»ĞèÒª°Ñ `MyFreeCoin`³öÏÖµÄµØ·½Ìæ»»ÎªÄãµÄtokenÃû³Æ¡£
 
-ĞèÒª×¢ÒâµÄÒ»µãÊÇ£¬Äã·¢ĞĞµÄÊıÁ¿ĞèÒªÏà¶ÔtokenĞ¡ÊıµãÀ´ÉèÖÃ¡£ÀıÈçÈç¹ûtokenµÄĞ¡ÊıµãÊÇ0£¬¶øÄãÒª·¢ĞĞ1000¸ötoken£¬ÄÇÃ´·¢ĞĞÊıÁ¿µÄÖµ1000¡£µ«ÊÇÈç¹ûtokenµÄĞ¡ÊıµãÊÇ18Î»£¬ÄãÒª·¢ĞĞ1000¸ötoken£¬ÄÇÃ´·¢ĞĞÊıÁ¿µÄÖµÊÇ1000000000000000000000£¨1000ºóÃæ¼ÓÉÏ18¸ö0£©¡£
+å¦‚æœæƒ³è¦å‘è¡Œè‡ªå·±çš„ tokenï¼Œåªéœ€è¦æŠŠ `MyFreeCoin` å‡ºç°çš„åœ°æ–¹æ›¿æ¢ä¸ºä½ çš„ token åç§°ã€‚
 
-`balances[msg.sender] = _initialAmount;  `
-ÕâĞĞ´úÂë£¬ÎÒÃÇ°ÑºÏÔ¼µÄ·¢²¼ÕßµÄÓà¶îÉèÖÃÎª·¢ĞĞÁ¿µÄÊıÁ¿¡£
+éœ€è¦æ³¨æ„çš„ä¸€ç‚¹æ˜¯ï¼Œä½ å‘è¡Œçš„æ•°é‡éœ€è¦ç›¸å¯¹ token å°æ•°ç‚¹æ¥è®¾ç½®ã€‚ä¾‹å¦‚å¦‚æœ token çš„å°æ•°ç‚¹æ˜¯ 0ï¼Œè€Œä½ è¦å‘è¡Œ 1000 ä¸ª tokenï¼Œé‚£ä¹ˆå‘è¡Œæ•°é‡çš„å€¼ 1000ã€‚ä½†æ˜¯å¦‚æœ token çš„å°æ•°ç‚¹æ˜¯ 18 ä½ï¼Œä½ è¦å‘è¡Œ 1000 ä¸ª tokenï¼Œé‚£ä¹ˆå‘è¡Œæ•°é‡çš„å€¼æ˜¯ 1000000000000000000000ï¼ˆ1000 åé¢åŠ ä¸Š 18 ä¸ª 0ï¼‰ã€‚
 
-### ·¢²¼Token
-ÔÚ²âÊÔÍøÂçÉÏ·¢ĞĞÎÒÃÇµÄtoken£º
+`balances[msg.sender] = _initialAmount;  ` è¿™è¡Œä»£ç ï¼Œæˆ‘ä»¬æŠŠåˆçº¦çš„å‘å¸ƒè€…çš„ä½™é¢è®¾ç½®ä¸ºå‘è¡Œé‡çš„æ•°é‡ã€‚
 
-1. °²×°[MetaMask](https://metamask.io/)Ç®°ü¡£
-2. °²×°MetaMaskÖ®ºó£¬µÇÂ½Metamask£¬ ×óÉÏ½ÇÑ¡ÔñRopsten¡£ÈçÏÂÍ¼£º
+### å‘å¸ƒ Token
+***
+
+åœ¨æµ‹è¯•ç½‘ç»œä¸Šå‘è¡Œæˆ‘ä»¬çš„ tokenï¼š
+
+1. å®‰è£… [MetaMask](https://metamask.io/) é’±åŒ…ã€‚
+
+2. å®‰è£… MetaMask ä¹‹åï¼Œç™»é™† Metamaskï¼Œ å·¦ä¸Šè§’é€‰æ‹© Ropstenã€‚å¦‚ä¸‹å›¾ï¼š
+
 ![Imgur](https://i.imgur.com/1HM1qLj.png)
 
-Õâ¸öÕËºÅ½«»áÊÇÎÒÃÇµÄÖÇÄÜºÏÔ¼µÄËùÓĞÕß£¬Ò²¾ÍÊÇËµtoken·¢ĞĞÊıÁ¿¶¼ÊÇ´æÈëµ½Õâ¸öÕËºÅ¡£
-3. ´ò¿ª[Solidity Remix Compiler ](https://remix.ethereum.org/),remix ÊÇÒ»¸öÔÚÏß±àÒëÆ÷¿ÉÒÔ°ïÎÒÃÇ°ÑÖÇÄÜºÏÔ¼Ö±½Ó·¢²¼µ½ÒÔÌ«·»ÉÏ¡£
-4. °ÑÉÏÃæÈı¸öÎÄ¼ş´úÂë¸´ÖÆµ½remix±à¼­Æ÷ÖĞ¡£¿ÉÒÔÏÈÉ¾³ıremixÖĞÄ¬ÈÏballot.sol ÎÄ¼ş£¬ÔÚĞÂ½¨ Token.sol , StandardToken.sol, MyFreeCoin.sol Èı¸öÎÄ¼ş£¬ ÏàÓ¦µÄ°Ñ´úÂë¸´ÖÆµ½ÎÄ¼şÖĞ£¬ÈçÏÂÍ¼£º
+è¿™ä¸ªè´¦å·å°†ä¼šæ˜¯æˆ‘ä»¬çš„æ™ºèƒ½åˆçº¦çš„æ‰€æœ‰è€…ï¼Œä¹Ÿå°±æ˜¯è¯´ token å‘è¡Œæ•°é‡éƒ½æ˜¯å­˜å…¥åˆ°è¿™ä¸ªè´¦å·ã€‚
+
+3. æ‰“å¼€ [Solidity Remix Compiler ](https://remix.ethereum.org/),remix æ˜¯ä¸€ä¸ªåœ¨çº¿ç¼–è¯‘å™¨å¯ä»¥å¸®æˆ‘ä»¬æŠŠæ™ºèƒ½åˆçº¦ç›´æ¥å‘å¸ƒåˆ°ä»¥å¤ªåŠä¸Šã€‚
+
+4. æŠŠä¸Šé¢ä¸‰ä¸ªæ–‡ä»¶ä»£ç å¤åˆ¶åˆ° remix ç¼–è¾‘å™¨ä¸­ã€‚å¯ä»¥å…ˆåˆ é™¤ remix ä¸­é»˜è®¤ ballot.sol æ–‡ä»¶ï¼Œåœ¨æ–°å»º Token.sol , StandardToken.sol, MyFreeCoin.sol ä¸‰ä¸ªæ–‡ä»¶ï¼Œ ç›¸åº”çš„æŠŠä»£ç å¤åˆ¶åˆ°æ–‡ä»¶ä¸­ï¼Œå¦‚ä¸‹å›¾ï¼š
+
 ![Imgur](https://i.imgur.com/G4TQbhr.png)
-5.  µã»÷ `start to compile` ±àÒë´úÂëÎÄ¼ş¡£
-6. ¸øÎÒÃÇµÄ²âÊÔÕËºÅÉêÇëµã ethÀ´²âÊÔ£¬ÈçÏÂÍ¼µã»÷ buy°´Å¥£¬ÔÙµã»÷`ropsten test faucet`¡£
+
+5.  ç‚¹å‡» `start to compile` ç¼–è¯‘ä»£ç æ–‡ä»¶ã€‚
+
+6. ç»™æˆ‘ä»¬çš„æµ‹è¯•è´¦å·ç”³è¯·ç‚¹ eth æ¥æµ‹è¯•ï¼Œå¦‚ä¸‹å›¾ç‚¹å‡» buy æŒ‰é’®ï¼Œå†ç‚¹å‡» `ropsten test faucet`ã€‚
+
 ![Imgur](https://i.imgur.com/LYVs0cH.png)
+
 ![Imgur](https://i.imgur.com/Lf5HqBH.png)
-7. »á´ò¿ª [faucet metamask](https://faucet.metamask.io/) ÍøÕ¾£¬µã»÷
-`request 1 eth from faucet`¡£³É¹¦ºó»áÉú³É ½»Ò×¼ÇÂ¼¡£
+
+7. ä¼šæ‰“å¼€ [faucet metamask](https://faucet.metamask.io/) ç½‘ç«™ï¼Œç‚¹å‡»
+`request 1 eth from faucet`ã€‚æˆåŠŸåä¼šç”Ÿæˆ äº¤æ˜“è®°å½•ã€‚
+
 ![Imgur](https://i.imgur.com/KOAx5rv.png)
+
 ![Imgur](https://i.imgur.com/XwQLpc8.png)
-8. ¿ÉÒÔ²é¿´µ½ÎÒÃÇµÄ²âÊÔÕË»§ÉÏÒÑ¾­ÓĞÁËeth¿ÉÒÔÓÃÁË¡£
+
+8. å¯ä»¥æŸ¥çœ‹åˆ°æˆ‘ä»¬çš„æµ‹è¯•è´¦æˆ·ä¸Šå·²ç»æœ‰äº† eth å¯ä»¥ç”¨äº†ã€‚
+
 ![Imgur](https://i.imgur.com/DyQLBuK.png)
-9. Ñ¡ÖĞremixÖĞµÄrun ²Ëµ¥£¬ÏÂÀ­¿òÖĞÑ¡ÔñMyFreeCoin, ÔÚcreate°´Å¥µÄ×ó±ßÊäÈë¿òÖĞÊäÈë `"10000000000000000000000","MyFreeCoin",18,"MFC"`, ÈçÏÂÍ¼
+
+9. é€‰ä¸­ remix ä¸­çš„ run èœå•ï¼Œä¸‹æ‹‰æ¡†ä¸­é€‰æ‹© MyFreeCoin, åœ¨ create æŒ‰é’®çš„å·¦è¾¹è¾“å…¥æ¡†ä¸­è¾“å…¥ `"10000000000000000000000","MyFreeCoin",18,"MFC"`, å¦‚ä¸‹å›¾
+
 ![Imgur](https://i.imgur.com/tsvbyWz.png)
-½ØÍ¼µÄÊ±ºò10000000000000000000000 Ã»ÓĞÓÃË«ÒıºÅÒıÆğÀ´ÊÇ´íÎóµÄ£¬ĞèÒª×¢ÒâÓÃË«ÒıºÅÒıÆğÀ´¡£
-10.  µã»÷create °´Å¥£¬ĞèÒª×¢ÒâµÄÊÇ·¢ĞĞÁ¿ĞèÒª°üº¬ÔÚ "" ÖĞ¡£ metamask»áµ¯³öÈ·ÈÏ¿ò¡£ÈçÏÂÍ¼£º
+
+æˆªå›¾çš„æ—¶å€™ 10000000000000000000000 æ²¡æœ‰ç”¨åŒå¼•å·å¼•èµ·æ¥æ˜¯é”™è¯¯çš„ï¼Œéœ€è¦æ³¨æ„ç”¨åŒå¼•å·å¼•èµ·æ¥ã€‚
+
+10.  ç‚¹å‡» create æŒ‰é’®ï¼Œéœ€è¦æ³¨æ„çš„æ˜¯å‘è¡Œé‡éœ€è¦åŒ…å«åœ¨ "" ä¸­ã€‚ metamask ä¼šå¼¹å‡ºç¡®è®¤æ¡†ã€‚å¦‚ä¸‹å›¾ï¼š
+
 ![Imgur](https://i.imgur.com/cdUbsnq.png)
-11. È·¶¨ºó£¬»á½øÈë¹ÒÆğ×´Ì¬£¬µÈ´ı¿ó¹¤´ò°ü½»Ò×¡£
-12. µÈÒ»¶ÎÊ±¼äºó£¬½»Ò×Íê³É£¬»áÏÔÊ¾MyFreeCoin ºÏÔ¼¡£
+
+11. ç¡®å®šåï¼Œä¼šè¿›å…¥æŒ‚èµ·çŠ¶æ€ï¼Œç­‰å¾…çŸ¿å·¥æ‰“åŒ…äº¤æ˜“ã€‚
+
+12. ç­‰ä¸€æ®µæ—¶é—´åï¼Œäº¤æ˜“å®Œæˆï¼Œä¼šæ˜¾ç¤º MyFreeCoin åˆçº¦ã€‚
+
 ![Imgur](https://i.imgur.com/s4Ko0ii.png)
-13. µã»÷MyFreeCoin µÄ¸´ÖÆ°´Å¥£¬¸´ÖÆºÏÔ¼µØÖ·ÔÚ [ropsten etherscan](https://ropsten.etherscan.io)ÖĞ²éÑ¯£¬¿ÉÒÔ²éÑ¯µ½ÎÒÃÇµÄºÏÔ¼Çé¿ö£¬ÈçÏÂÍ¼£º
+
+13. ç‚¹å‡» MyFreeCoin çš„å¤åˆ¶æŒ‰é’®ï¼Œå¤åˆ¶åˆçº¦åœ°å€åœ¨ [ropsten etherscan](https://ropsten.etherscan.io) ä¸­æŸ¥è¯¢ï¼Œå¯ä»¥æŸ¥è¯¢åˆ°æˆ‘ä»¬çš„åˆçº¦æƒ…å†µï¼Œå¦‚ä¸‹å›¾ï¼š
+
 ![Imgur](https://i.imgur.com/AcotJXf.png)
-14. ÑéÖ¤ÎÒÃÇ·¢²¼µÄtoken¡£ÔÚmetamaskµÄtokenÖĞµã»÷ add token °´Å¥¡£ÈçÏÂÍ¼£º
+
+14. éªŒè¯æˆ‘ä»¬å‘å¸ƒçš„ tokenã€‚åœ¨ metamask çš„ token ä¸­ç‚¹å‡» add token æŒ‰é’®ã€‚å¦‚ä¸‹å›¾ï¼š
+
 ![Imgur](https://i.imgur.com/j3eVjRq.png)
-15. ÔÚadd token µÄµØÖ·ÌîÈëÎÒÃÇ¸Õ²Å¸´ÖÆµÄºÏÔ¼µØÖ·£¬ÈçÏÂÍ¼£º
+
+15. åœ¨ add token çš„åœ°å€å¡«å…¥æˆ‘ä»¬åˆšæ‰å¤åˆ¶çš„åˆçº¦åœ°å€ï¼Œå¦‚ä¸‹å›¾ï¼š
+
 ![Imgur](https://i.imgur.com/M3akjPS.png)
-16. ¿ÉÒÔÔÚtokenÖĞ¿´µ½ÎÒÃÇĞÂ´´½¨µÄtoken¡£ÈçÏÂÍ¼£º
+
+16. å¯ä»¥åœ¨ token ä¸­çœ‹åˆ°æˆ‘ä»¬æ–°åˆ›å»ºçš„ tokenã€‚å¦‚ä¸‹å›¾ï¼š
+
 ![Imgur](https://i.imgur.com/fayqUVM.png)
-17. ÈÏÖ¤ÎÒÃÇµÄºÏÔ¼´úÂë¡£ ÔÚ¸Õ²Åropsten ethscan µÄºÏÔ¼µØÖ·Ò³ÃæÖĞ£¬µã»÷Contract code£¬ ÈçÏÂÍ¼£º
+
+17. è®¤è¯æˆ‘ä»¬çš„åˆçº¦ä»£ç ã€‚ åœ¨åˆšæ‰ ropsten ethscan çš„åˆçº¦åœ°å€é¡µé¢ä¸­ï¼Œç‚¹å‡» Contract codeï¼Œ å¦‚ä¸‹å›¾ï¼š
+
 ![Imgur](https://i.imgur.com/evRh8j7.png)
-18. µã»÷Verify and Publish£¬ »á½øÈëÈçÏÂÒ³Ãæ£º
+
+18. ç‚¹å‡» Verify and Publishï¼Œ ä¼šè¿›å…¥å¦‚ä¸‹é¡µé¢ï¼š
+
 ![Imgur](https://i.imgur.com/Hd2r0Xv.png)
-19. ÔÚ`Contract name:` µÄÊäÈë¿òÊäÈëtoken Ãû³ÆMyFreeCoin, Compiler Ñ¡ÔñÔÚremixµÄsttings ÖĞSolidity version ÏÔÊ¾µÄ°æ±¾ºÅ¡£Optimization Ñ¡Ôñ No¡£ È»ºóÔÚEnter the Solidity Contract Code below ÏÂÃæµÄÊäÈë¿òÖĞÌîÈë´úÂë£¬ÎÒÃÇµÄ´úÂëÓĞÈı¸öÎÄ¼ş£¬ĞèÒª°ÑËüÃÇºÏ²¢³ÉÒ»¸öÎÄ¼ş£¬ºÏ²¢µÄ¸ñÊ½ÊÇÕâÑù£º
-```
+
+19. åœ¨ `Contract name:` çš„è¾“å…¥æ¡†è¾“å…¥ token åç§° MyFreeCoin, Compiler é€‰æ‹©åœ¨ remix çš„ sttings ä¸­ Solidity version æ˜¾ç¤ºçš„ç‰ˆæœ¬å·ã€‚Optimization é€‰æ‹© Noã€‚ ç„¶ååœ¨ Enter the Solidity Contract Code below ä¸‹é¢çš„è¾“å…¥æ¡†ä¸­å¡«å…¥ä»£ç ï¼Œæˆ‘ä»¬çš„ä»£ç æœ‰ä¸‰ä¸ªæ–‡ä»¶ï¼Œéœ€è¦æŠŠå®ƒä»¬åˆå¹¶æˆä¸€ä¸ªæ–‡ä»¶ï¼Œåˆå¹¶çš„æ ¼å¼æ˜¯è¿™æ ·ï¼š
+
+``` sol
 pragma solidity ^0.4.4;
 contract Token {
 }
@@ -252,69 +297,73 @@ contract StandardToken is Token {
 }
 contract MyFreeCoin is StandardToken {
 }
-
 ```
-È¥µôÔ­À´´úÂëÎÄ¼şÖĞµÄ importÓï¾ä¡£×îºóÌá½»¡£³É¹¦ºó£¬»áÏÔÊ¾ÏÂÃæµÄÒ³Ãæ±íÊ¾ÑéÖ¤³É¹¦£º
+
+å»æ‰åŸæ¥ä»£ç æ–‡ä»¶ä¸­çš„ import è¯­å¥ã€‚æœ€åæäº¤ã€‚æˆåŠŸåï¼Œä¼šæ˜¾ç¤ºä¸‹é¢çš„é¡µé¢è¡¨ç¤ºéªŒè¯æˆåŠŸï¼š
+
 ![Imgur](https://i.imgur.com/1oJ8sKH.png)
 
-### ×ªÈÃToken
-×îºóÈÃÎÒÃÇÔÚ²»Í¬µØÖ·Ö®¼äÁ÷Í¨Õâ¸ötoken¡£ÎÒÃÇµÚÒ»¸öÕË»§ÒÑ¾­ÓĞ1000µÄMFCÁË¡£
+### è½¬è®© Token
+***
 
-ÏÈÈÃÎÒÃÇÔÚ´´½¨Ò»¸öĞÂµÄÕË»§£¬ÈçÏÂÍ¼£º
+æœ€åè®©æˆ‘ä»¬åœ¨ä¸åŒåœ°å€ä¹‹é—´æµé€šè¿™ä¸ª tokenã€‚æˆ‘ä»¬ç¬¬ä¸€ä¸ªè´¦æˆ·å·²ç»æœ‰ 1000 çš„ MFC äº†ã€‚
+
+å…ˆè®©æˆ‘ä»¬åœ¨åˆ›å»ºä¸€ä¸ªæ–°çš„è´¦æˆ·ï¼Œå¦‚ä¸‹å›¾ï¼š
+
 ![Imgur](https://i.imgur.com/l8e1DHW.png)
 
-¿ÉÒÔ¿´µ½ÎÒÃÇĞÂ´´½¨µÄÕË»§ MFCµÄÖµÊÇ0.
+å¯ä»¥çœ‹åˆ°æˆ‘ä»¬æ–°åˆ›å»ºçš„è´¦æˆ· MFC çš„å€¼æ˜¯ 0.
+
 ![Imgur](https://i.imgur.com/xNzm4SA.png)
 
-ÔÚÇĞ»ØÎÒÃÇµÄµÚÒ»¸öÕË»§£¬ÔÚtransfer ÖĞÌîÈëµÚ¶şÕË»§µÄµØÖ·ºÍ×ªÈëµÄÊıÁ¿("0xe4da4CBC744708A6656BeD252f49DF5exxxxxxC97","1000000000000000000")¡£ÈçÏÂÍ¼£º
+åœ¨åˆ‡å›æˆ‘ä»¬çš„ç¬¬ä¸€ä¸ªè´¦æˆ·ï¼Œåœ¨ transfer ä¸­å¡«å…¥ç¬¬äºŒè´¦æˆ·çš„åœ°å€å’Œè½¬å…¥çš„æ•°é‡ ("0xe4da4CBC744708A6656BeD252f49DF5exxxxxxC97","1000000000000000000")ã€‚å¦‚ä¸‹å›¾ï¼š
+
 ![Imgur](https://i.imgur.com/4roFpBF.png)
 
-µã»÷transfer »áµ¯³öµ¯¿òÈÃÄãÈ·¶¨£¬µã»÷sumbit£¬µÈ´ıÇø¿é´ò°ü¡£ÇĞ»»µ½µÚ¶ş¸öÕË»§£¬²é¿´MFCÓà¶î¡£¿ÉÒÔ¿´µ½ÒÑ¾­µ½×ª¹ıÀ´µÄ1MFCÁË¡£
+ç‚¹å‡» transfer ä¼šå¼¹å‡ºå¼¹æ¡†è®©ä½ ç¡®å®šï¼Œç‚¹å‡» sumbitï¼Œç­‰å¾…åŒºå—æ‰“åŒ…ã€‚åˆ‡æ¢åˆ°ç¬¬äºŒä¸ªè´¦æˆ·ï¼ŒæŸ¥çœ‹ MFC ä½™é¢ã€‚å¯ä»¥çœ‹åˆ°å·²ç»åˆ°è½¬è¿‡æ¥çš„ 1MFC äº†ã€‚
+
 ![Imgur](https://i.imgur.com/N2j8XOa.png)
 
-×îÖÕÎÒÃÇµÄ·¢tokenµÄÁ÷³ÌÒÑ¾­½áÊøÁË¡£µ«ÊÇÕâ»¹Ö»ÊÇµÚÒ»²½£¬ºóÃæÎÒÃÇ»¹ĞèÒª³ÌĞò»¯µÄÖ´ĞĞtokenµÄ³ä±Ò£¬Ìá±Ò²Ù×÷¡£Ò²ÊÇÒ»¸öÓ¦ÓÃÈôÏëÒıÈëtoken½øÀ´±ØĞëÒªÓĞµÄ¹¦ÄÜ¡£ºóÃæ»á¼ÌĞøÑĞ¾¿ÏÂÈ¥£¬ÊµÏÖÓÃ³ÌĞòÀ´²Ù×÷TokenµÄ×ªÈÃ¡£
+æœ€ç»ˆæˆ‘ä»¬çš„å‘ token çš„æµç¨‹å·²ç»ç»“æŸäº†ã€‚ä½†æ˜¯è¿™è¿˜åªæ˜¯ç¬¬ä¸€æ­¥ï¼Œåé¢æˆ‘ä»¬è¿˜éœ€è¦ç¨‹åºåŒ–çš„æ‰§è¡Œ token çš„å……å¸ï¼Œæå¸æ“ä½œã€‚ä¹Ÿæ˜¯ä¸€ä¸ªåº”ç”¨è‹¥æƒ³å¼•å…¥ token è¿›æ¥å¿…é¡»è¦æœ‰çš„åŠŸèƒ½ã€‚åé¢ä¼šç»§ç»­ç ”ç©¶ä¸‹å»ï¼Œå®ç°ç”¨ç¨‹åºæ¥æ“ä½œ Token çš„è½¬è®©ã€‚
 
-²Î¿¼ÎÄÕÂ£º
+å‚è€ƒæ–‡ç« ï¼š
+
 > [how-to-create-your-own-ethereum-token-in-an-hour-erc20-verified](https://steemit.com/ethereum/@maxnachamkin/how-to-create-your-own-ethereum-token-in-an-hour-erc20-verified)
 
-¡¸Çø¿éÁ´¼¼ÊõÖ¸±±¡¹Í¬Ãû **ÖªÊ¶ĞÇÇò**£¬¶şÎ¬ÂëÈçÏÂ£¬»¶Ó­¼ÓÈë¡£BTW£¬**ÀîĞ¦À´ÀÏÊ¦Ò²¼ÓÈëÁË**¡£
+ã€ŒåŒºå—é“¾æŠ€æœ¯æŒ‡åŒ—ã€åŒå ** çŸ¥è¯†æ˜Ÿçƒ **ï¼ŒäºŒç»´ç å¦‚ä¸‹ï¼Œæ¬¢è¿åŠ å…¥ã€‚BTWï¼Œ** æç¬‘æ¥è€å¸ˆä¹ŸåŠ å…¥äº† **ã€‚
 
-![Çø¿éÁ´¼¼ÊõÖ¸±±](https://i.imgur.com/pQxlDqF.jpg)
+![åŒºå—é“¾æŠ€æœ¯æŒ‡åŒ—](https://i.imgur.com/pQxlDqF.jpg)
 
-¡¸Çø¿éÁ´¼¼ÊõÖ¸±±¡¹Ïà¹Ø×ÊÑ¶ÇşµÀ£º
+ã€ŒåŒºå—é“¾æŠ€æœ¯æŒ‡åŒ—ã€ç›¸å…³èµ„è®¯æ¸ é“ï¼š
 
-* ¡¸Çø¿éÁ´¼¼ÊõÖ¸±±¡¹Í¬ÃûÖªÊ¶ĞÇÇò£¬[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
-* ¹ÙÍø£¬[https://chainone.xyz](https://chainone.xyz)
-* ¹Ù·½²©¿Í£¬[https://blog.chainone.xyz](https://blog.chainone.xyz)
-* ¹Ù·½ÉçÇø£¬[https://bcage.one](https://bcage.one)
-* Telegram Channel£¬[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
-* Telegram Group£¬[https://t.me/bcage](https://t.me/bcage)
-* Twitter£¬[https://twitter.com/bcageone](https://twitter.com/bcageone)
-* ĞÂÀËÎ¢²©£¬[https://weibo.com/BlockchainAge](https://weibo.com/BlockchainAge)
+* ã€ŒåŒºå—é“¾æŠ€æœ¯æŒ‡åŒ—ã€åŒåçŸ¥è¯†æ˜Ÿçƒï¼Œ[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
+* å®˜ç½‘ï¼Œ[https://chainone.xyz](https://chainone.xyz)
+* å®˜æ–¹åšå®¢ï¼Œ[https://blog.chainone.xyz](https://blog.chainone.xyz)
+* å®˜æ–¹ç¤¾åŒºï¼Œ[https://bcage.one](https://bcage.one)
+* Telegram Channelï¼Œ[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
+* Telegram Groupï¼Œ[https://t.me/bcage](https://t.me/bcage)
+* Twitterï¼Œ[https://twitter.com/bcageone](https://twitter.com/bcageone)
+* æ–°æµªå¾®åšï¼Œ[https://weibo.com/BlockchainAge](https://weibo.com/BlockchainAge)
 
-Í¬Ê±£¬±¾ÏµÁĞÎÄÕÂ»áÔÚÒÔÏÂÇşµÀÍ¬²½¸üĞÂ£¬»¶Ó­¹Ø×¢£º
+ åŒæ—¶ï¼Œæœ¬ç³»åˆ—æ–‡ç« ä¼šåœ¨ä»¥ä¸‹æ¸ é“åŒæ­¥æ›´æ–°ï¼Œæ¬¢è¿å…³æ³¨ï¼š
 
-* ¡¸Çø¿éÁ´¼¼ÊõÖ¸±±¡¹Í¬ÃûÎ¢ĞÅ¹«ÖÚºÅ£¨Î¢ĞÅºÅ£ºBlockchainAge£©
-* ¹Ù·½²©¿Í£¬[https://blog.chainone.xyz](https://blog.chainone.xyz)
-* Öªºõ£¬[https://zhuanlan.zhihu.com/robinwen](https://zhuanlan.zhihu.com/robinwen)
-* Steemit£¬[https://steemit.com/@robinwen](https://steemit.com/@robinwen)
-* Medium£¬[https://medium.com/@robinwan](https://medium.com/@robinwan)
-* ¾ò½ğ£¬[robinwen@juejin.im](https://juejin.im/user/5673ccae60b2260ee435f89a/posts)
-* ±Òºõ£¬[https://bihu.com/people/12109](https://bihu.com/people/12109)
+* ã€ŒåŒºå—é“¾æŠ€æœ¯æŒ‡åŒ—ã€åŒåå¾®ä¿¡å…¬ä¼—å·ï¼ˆå¾®ä¿¡å·ï¼šBlockchainAgeï¼‰
+* å®˜æ–¹åšå®¢ï¼Œ[https://blog.chainone.xyz](https://blog.chainone.xyz)
+* çŸ¥ä¹ï¼Œ[https://zhuanlan.zhihu.com/robinwen](https://zhuanlan.zhihu.com/robinwen)
+* Steemitï¼Œ[https://steemit.com/@robinwen](https://steemit.com/@robinwen)
+* Mediumï¼Œ[https://medium.com/@robinwan](https://medium.com/@robinwan)
+* æ˜é‡‘ï¼Œ[robinwen@juejin.im](https://juejin.im/user/5673ccae60b2260ee435f89a/posts)
+* å¸ä¹ï¼Œ[https://bihu.com/people/12109](https://bihu.com/people/12109)
 
-Ô­´´²»Ò×£¬¶ÁÕß¿ÉÒÔÍ¨¹ıÈçÏÂÍ¾¾¶´òÉÍ£¬ĞéÄâ»õ±Ò¡¢ÃÀÔª¡¢·¨±Ò¾ùÖ§³Ö¡£
+ åŸåˆ›ä¸æ˜“ï¼Œè¯»è€…å¯ä»¥é€šè¿‡å¦‚ä¸‹é€”å¾„æ‰“èµï¼Œè™šæ‹Ÿè´§å¸ã€ç¾å…ƒã€æ³•å¸å‡æ”¯æŒã€‚
 
 * BTC: 1HRZ7og2KjqpP3v3jskgueNu64kJrFU8GD
 * ERC20 Token: 0x5c8DEB48dC08b5dC60A0290B718690a801509Dd1
 * PayPal: [https://www.paypal.me/robinwen](https://www.paypal.me/robinwen)
-* Î¢ĞÅ´òÉÍ¶şÎ¬Âë
+* å¾®ä¿¡æ‰“èµäºŒç»´ç 
 
 ![Imgur](https://i.imgur.com/JCMV4vL.jpg)
 
-¨CEOF¨C
+â€“EOFâ€“
 
-°æÈ¨ÉùÃ÷£º[×ÔÓÉ×ªÔØ-·ÇÉÌÓÃ-·ÇÑÜÉú-±£³ÖÊğÃû£¨´´Òâ¹²Ïí4.0Ğí¿ÉÖ¤£©](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
-
-
-
-
+ ç‰ˆæƒå£°æ˜ï¼š[è‡ªç”±è½¬è½½ - éå•†ç”¨ - éè¡ç”Ÿ - ä¿æŒç½²åï¼ˆåˆ›æ„å…±äº« 4.0 è®¸å¯è¯ï¼‰](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
