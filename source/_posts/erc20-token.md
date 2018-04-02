@@ -14,7 +14,7 @@ tags:
 
 2017 年出现了非常多的数字货币。但是这种货币是如何产生的，作为一个程序员。怀着对发币的好奇，自己动手把发币的流程给走了一遍。再此记录下。这里发币特指 ERC20 token。
 
-> 题图来自: Preethi Kasireddy / Bitcoin, Ethereum, Blockchain, Tokens, ICOs / hackernoon.com
+> 题图来自: © ChainONE / Open Writing / chainone.xyz
 
 ### 准备工作
 ***
@@ -42,7 +42,7 @@ tags:
 
 Token 的合约代码我们参考 [Token-Factory](https://github.com/ConsenSys/Token-Factory/tree/master/contracts) 的代码。
 
-``` sol
+``` javascript
 pragma solidity ^0.4.4;
 
 contract Token {
@@ -85,7 +85,7 @@ contract Token {
 }
 ```
 
-``` sol
+``` javascript
 /*
 This implements ONLY the standard functions and NOTHING else.
 For a token like you would want to deploy in something like Mist, see HumanStandardToken.sol.
@@ -144,7 +144,7 @@ contract StandardToken is Token {
 }
 ```
 
-``` sol
+``` javascript
 /*
 This Token Contract implements the standard token functionality (https://github.com/ethereum/EIPs/issues/20) as well as the following OPTIONAL extras intended for use by humans.
 
@@ -289,7 +289,7 @@ contract MyFreeCoin is StandardToken {
 
 19. 在 `Contract name:` 的输入框输入 token 名称 MyFreeCoin, Compiler 选择在 remix 的 sttings 中 Solidity version 显示的版本号。Optimization 选择 No。 然后在 Enter the Solidity Contract Code below 下面的输入框中填入代码，我们的代码有三个文件，需要把它们合并成一个文件，合并的格式是这样：
 
-``` sol
+``` javascript
 pragma solidity ^0.4.4;
 contract Token {
 }

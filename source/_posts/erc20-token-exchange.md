@@ -56,7 +56,7 @@ tags:
 
 首先实现如何查询账户余额的功能，包括以太坊余额和 MFC 余额。看如下代码。
 
-``` js
+``` javascript
 // 首先在页面引入我们需要使用的 js
 <script src="./web3.min.js"></script>
 <script src="./ethereumjs-wallet-0.6.0.min.js"></script>
@@ -112,7 +112,7 @@ ontract.balanceOf(address, (err, tkns) => {
 
 提 Token 的操作是，我们提供自己的以太坊地址给平台，平台给这个地址打 Token。 实现代码如下：
 
-``` js
+``` javascript
 // 获取提 token 的以太坊地址
 ar reciver = document.getElementById('reciver').value;
 // 提 token 数量
@@ -134,7 +134,7 @@ contract.transfer(reciver, web3.toWei(amount), function(err, resp){
 
 这就实现了从发布合约的默认账户转 token 到用户地址的功能。但是这么做是比较危险的，因为您把所有的 token 都放到了一个联网的账户中，如果平台被黑客入侵，就有可能把您所有的 Token 转走，风险会比较大。所以正常的做法应该是，把包含大量 token 的账户保存在冷钱包里面，只在需要使用的时候才从冷钱包里面提 Token 到运营的账户地址中。那就是说我们需要实现两个地址之间转 token 的功能，不能像上面那样默认使用发 Token 的账户来转 Token 了。那么我们应该怎么来实现呢？看下面的代码
 
-``` js
+``` javascript
 // 假设这个是我们的运营钱包地址
 ar from = '0x009ddafb6dd10f2ed72dd0d0c7f291b5a0cea9eb';
 // 转 token 的数量
@@ -203,7 +203,7 @@ eb3.eth.getTransactionCount(from, function(err, count){
 
 充 Token。首先我们要理解下充 Token，是用户从他钱包地址转 Token 到我们平台的账户地址。所以首先我们得给用户提供一个跟他对应的钱包地址，同时要监控用户的转 Token 事件，当用户转 Token 过来了，我们需要记录，同时在数据库中把用户的 Token 余额增加。所以我们得先搞定给用户提供一个钱包地址，这里我们使用到了 `Ethereum-Wallet` 来帮我们生成地址，公钥，私钥。代码如下：
 
-``` js
+``` javascript
 // 上面已经引入了 Ethereum-Wallet 相应的 js
 
 // 用户生成地址的密码
@@ -221,7 +221,7 @@ ocument.getElementById('gAddress').innerHTML = "address:" + wallet.getAddressStr
 
 但是还有一个问题，当用户转 token 过来，我们怎么知道他有转呢？在我们的 Token 只能合约里面每次转 Token 的都会触发 Transfer 事件（solidity 知识），我们只需要监听这个事件就可以了，代码如下：
 
-``` js
+``` javascript
 // 监听 转 token 事件
 ontract.Transfer(function(err, res) {
 	if(!err){
@@ -244,7 +244,7 @@ ontract.Transfer(function(err, res) {
 
 账户之间发送 eth。有一些新生成的账户开始是没有 eth 的，我们需要给它转的 eth，以供它使用，代码如下：
 
-``` js
+``` javascript
 // 接受 eth 地址
 ar etherAdress = document.getElementById('etherAdress').value;
 if(!web3.isAddress(etherAdress)){
