@@ -14,6 +14,8 @@ tags:
 
 2017 年出现了非常多的数字货币。但是这种货币是如何产生的，作为一个程序员。怀着对发币的好奇，自己动手把发币的流程给走了一遍。再此记录下。这里发币特指 ERC20 token。
 
+![ChainONE Open Writing](https://i.imgur.com/smxzEPJ.png)
+
 > 题图来自: © ChainONE / Open Writing / chainone.xyz
 
 ### 准备工作
