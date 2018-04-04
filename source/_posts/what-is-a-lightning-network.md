@@ -56,9 +56,9 @@ tags:
 闪电网络目前正准备在 Litecoin（莱特币），Bitcoin（比特币）和 Vertcoin (绿币）上使用，现在仍处于测试阶段。开发人员仍在努力推出应用程序和界面，从而使系统更加直观易用。
 
 > via: https://steemit.com/cryptocurrency/@cryptoletter/what-is-a-lightning-network
-> 作者：[cryptoletter](https://steemit.com/cryptocurrency/@cryptoletter)
-> 译者：[FreddyHao](https://github.com/FreddyHao)
-> 校对：[dbarobin](https://github.com/dbarobin)
+> 作者：\[cryptoletter\]\(https://steemit.com/cryptocurrency/@cryptoletter)
+> 译者：\[FreddyHao\]\(https://github.com/FreddyHao)
+> 校对：\[dbarobin\]\(https://github.com/dbarobin)
 
 「区块链技术指北」同名 **知识星球**，二维码如下，欢迎加入。BTW，**李笑来老师也加入了**。
 
