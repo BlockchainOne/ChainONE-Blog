@@ -15,14 +15,14 @@ tags:
 
 > 题图来自: © Preethi Kasireddy / Bitcoin, Ethereum, Blockchain, Tokens, ICOs / hackernoon.com
 
-> via: https://medium.com/loom-network/why-you-should-learn-to-build-blockchain-apps-be9a92e8d08e
-> 作者：[Georgios Konstantopoulos](https://medium.com/@gakonst)
-> 译者：[Ashton](https://github.com/cdljsj)
-> 校对：[dbarobin](https://github.com/dbarobin)
+> via: https://steemit.com/cryptocurrency/@cryptoletter/what-is-a-lightning-network
+> 作者：\[cryptoletter\]\(https://steemit.com/cryptocurrency/@cryptoletter)
+> 译者：\[FreddyHao\]\(https://github.com/FreddyHao)
+> 校对：\[dbarobin\]\(https://github.com/dbarobin)
 
 「区块链技术指北」同名 **知识星球**，二维码如下，欢迎加入。BTW，**李笑来老师也加入了**。
 
-![区块链技术指北](https://i.imgur.com/pQxlDqF.jpg)
+![区块链技术指北](https://i.imgur.com/RBmpxTL.png)
 
 「区块链技术指北」相关资讯渠道：
 

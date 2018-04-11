@@ -17,7 +17,7 @@ tags:
 
 「区块链技术指北」同名 **知识星球**，二维码如下，欢迎加入。BTW，**李笑来老师也加入了**。
 
-![区块链技术指北](https://i.imgur.com/pQxlDqF.jpg)
+![区块链技术指北](https://i.imgur.com/RBmpxTL.png)
 
 「区块链技术指北」相关资讯渠道：
 
