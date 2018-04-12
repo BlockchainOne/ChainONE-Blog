@@ -54,7 +54,7 @@ Geth 是由[以太坊基金会](http://ethereum.org/)提供的官方客户端软
 
 Parity，用 Rust 语言编写，是另一个对以太坊协议很好的实现。这是一个由一家名为 [Parity Inc](https://parity.io/)的公司维护的非官方客户端。任何人都可以实现这样的客户端软件并加入以太坊网络。你可以按照这本[黄皮书](https://ethereum.github.io/yellowpaper/paper.pdf) 中的规范来实现自己的客户端！
 
-![](https://i.imgur.com/xQGGQr2.png)
+![](https://i.imgur.com/geDMPPt.png)
 
 ## 4. [Web3.js](https://github.com/ethereum/web3.js/)
 ***
@@ -144,11 +144,12 @@ IPFS（星际文件系统）在概念上与 Swarm 非常相似。它是一个去
 
 * 「区块链技术指北」同名微信公众号（微信号：BlockchainAge）
 * 官方博客，[https://blog.chainone.xyz](https://blog.chainone.xyz)
-* 知乎，[https://zhuanlan.zhihu.com/robinwen](https://zhuanlan.zhihu.com/robinwen)
+* 知乎专栏，[https://zhuanlan.zhihu.com/robinwen](https://zhuanlan.zhihu.com/robinwen)
+* 简书，[https://www.jianshu.com/c/a37698a12ba9](https://www.jianshu.com/c/a37698a12ba9)
 * Steemit，[https://steemit.com/@chainone](https://steemit.com/@chainone)
 * Medium，[https://medium.com/@chainone.org](https://medium.com/@chainone.org)
-* 掘金，[robinwen@juejin.im](https://juejin.im/user/5673ccae60b2260ee435f89a/posts)
 * 币乎，[https://bihu.com/people/345886](https://bihu.com/people/345886)
+* 掘金，[robinwen@juejin.im](https://juejin.im/user/5673ccae60b2260ee435f89a/posts)
 
 原创不易，读者可以通过如下途径打赏，虚拟货币、美元、法币均支持。
 

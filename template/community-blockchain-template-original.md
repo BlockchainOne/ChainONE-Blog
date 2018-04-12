@@ -34,11 +34,12 @@ tags:
 
 * 「区块链技术指北」同名微信公众号（微信号：BlockchainAge）
 * 官方博客，[https://blog.chainone.xyz](https://blog.chainone.xyz)
-* 知乎，[https://zhuanlan.zhihu.com/robinwen](https://zhuanlan.zhihu.com/robinwen)
+* 知乎专栏，[https://zhuanlan.zhihu.com/robinwen](https://zhuanlan.zhihu.com/robinwen)
+* 简书，[https://www.jianshu.com/c/a37698a12ba9](https://www.jianshu.com/c/a37698a12ba9)
 * Steemit，[https://steemit.com/@chainone](https://steemit.com/@chainone)
 * Medium，[https://medium.com/@chainone.org](https://medium.com/@chainone.org)
-* 掘金，[robinwen@juejin.im](https://juejin.im/user/5673ccae60b2260ee435f89a/posts)
 * 币乎，[https://bihu.com/people/345886](https://bihu.com/people/345886)
+* 掘金，[robinwen@juejin.im](https://juejin.im/user/5673ccae60b2260ee435f89a/posts)
 
 原创不易，读者可以通过如下途径打赏，虚拟货币、美元、法币均支持。
 
