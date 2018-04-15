@@ -49,7 +49,7 @@ tags:
 > PayPal: [https://www.paypal.me/robinwen](https://www.paypal.me/robinwen)
 > 微信打赏二维码
 
-![Wechat](https://i.imgur.com/SzoNl5b.jpg)
+![Wechat](https://i.imgur.com/hKyy9lI.jpg)
 
 –EOF–
 
