@@ -59,7 +59,7 @@ $ apt-get -y install mysql-client
 接下来我们安装 soci。soci 是 C++ 连接 MySQL 的 Library。Ubuntu 可以快速安装，命令如下：
 
 ``` bash
-apt-get -y install libsoci-dev
+$ apt-get -y install libsoci-dev
 ```
 
 当然，我们还可以源码编译，步骤如下：[1]
