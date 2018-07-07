@@ -1,0 +1,162 @@
+---
+title: "区块链技术指北（ChainONE）社区微信群价值信息汇总第 3 期"
+date: 2017-12-31 18:39:27
+categories:
+- Blockchain
+tags:
+- Blockchain
+- WeChat
+---
+区块链技术指北社区（ChainONE Community），社区的初衷是 构建优质社区，传播和分享区块链技术，探讨潜在价值，连接技术和商业。区块链技术指北社区（ChainONE Community）的 共识原则：自由，开放，平等，协作，分享。我们希望聚合众人的力量构建一个区块链技术社区。在有限的生命里 持续做有价值 的事情。优质产出，我们对社区的产出有严格苛刻的高标准要求。多中心化。去中心化永远只是个相对理论概念，究竟什么样的程度才算是去中心呢？我们希望社区每一位成员，每一位读者都是一个平等的节点，都可以为社区贡献自己的力量。「区块链技术指北」 最初的内容定位：常见价值虚拟货币的相关教程、区块链技术前沿信息、区块链技术好文品鉴和分享、区块链技术相关工具、区块链技术分析、区块链项目跟踪等。我们社区以后的内容还会包括但不限于：区块链资源共享、开源翻译计划、开源创作计划等。
+<!-- more -->
+
+> 如果对我感兴趣，想和我交流，我的微信号：**Wentasy**，加我时简单介绍下自己，并注明来自「区块链技术指北」。同时我会把你拉入微信群「区块链技术指北」。BTW，李笑来老师也加入了我们的知识星球，文末有加入方式。
+
+![](https://i.imgur.com/EFxCQjC.png)
+
+> 题图来自: © ChainONE / WeChat / chainone.xyz
+
+> 这里是「区块链技术指北」微信群 2017 年第 52 周（20171225-20171231）价值信息汇总。本汇总文章由群友集体贡献，感谢大家。
+
+## 文章
+***
+
+* [透视比特币狂欢背后的泡沫（上）](https://mp.weixin.qq.com/s/s7X-3yRVIPV9IeWXd1sVGg)
+* [给密码朋克信仰者布道的投机指南](https://steemit.com/cryptocurrency/@waterzeong/7uvvfz)
+* [我有一个梦想](https://mp.weixin.qq.com/s/w4bavu-o7UhNhjjm7IrLcA)
+* [漫谈平台类数字货币投资](https://mp.weixin.qq.com/s/FlcjX3PTgi7oaFieRkMZKw)
+* [区块链入门教程](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)
+* [币乎公开课 | 路印王东谈去中心化交易的未来：协议本身远超链的重要性](https://mp.weixin.qq.com/s/6COnjZ1qwetZKeB5JbLmkw)
+* [分布式事务的总结与思考](https://mp.weixin.qq.com/s/UKNK9UzdiZzrNCd5U_4Ytg)
+* [从薅羊毛到微风投，2017年空巢青年非典型小事记](https://busy.org/cn-2017/@waterzeong/2017)
+* [浅谈比特币的数学原理](https://mp.weixin.qq.com/s/vtx2izrYxrRQLqdx35TwSQ)
+* [聊聊 DAG 的共识和牛逼的 hashgraph](https://mp.weixin.qq.com/s/dz8RbBlEXfTZ9Ff-RHy4aw)
+* [译文 | 以太坊的演进之路](http://www.8btc.com/the-evolution-of-ethereum)
+* [原文 | 以太坊的演进之路](https://blog.ethereum.org/2015/09/28/the-evolution-of-ethereum)
+* [黑客、骗局和攻击 ：细数 2017 年最大的区块链灾难](http://www.8btc.com/hacks-scams-attacks-blockchains-biggest-2017-disasters)
+* [朝鲜的比特币修罗场](https://mp.weixin.qq.com/s/2m5v6ujydrKTp94qdUEm8A)
+
+***
+
+## 讨论
+***
+
+**话题 1、[【重磅】超人气美少女组合 Snh48 将用 PAI 公链推出全球首款明星人工智能](http://www.jinse.com/news/blockchain/119532.html)**
+
+1、简单看了下，Snh48 这个新闻，炒作归炒作，但是这个项目的出发点很有意思，利用大 IP 打造区块链平台，并且自带应用场景，或许会受到投资人的青睐。未来娱乐、游戏和区块链技术结合，这会有很大的市场。从基于以太坊的 CryptoKitties 可以看出一二，只是以太坊基础链暂时还没有达到大规模应用的要求，目前最大的价值在于智能合约。
+
+2、绝大多数区块链项目离落地还有很长的时间。还有就是，绝大多数目前看得到的项目，都会失败，这个比例有可能 90%，甚至 99%。夸张地说，现在投资区块链，除了 BTC、ETH 这些证明成功并且有价值的项目，都是空气。所以目前应该注意力集中在平台类、应用类项目，另外还有交易所代币，交易平台是不关心市场涨跌的。
+
+3、投资 BNB 的确定性很高，相比之下，到三年后很难说哪个基础架构平台一定能存活下来。
+
+4、对的，目前做基础链的项目一大堆。
+
+5、重要的一点是，投之前搞懂它是什么。
+
+6、还有一点就是，场外赚钱的能力更重要。马克思说「人的本质在其现实性上是一切社会关系的总和」，你的个人价值一定跟你能创造多少价值成正比。
+
+**话题 2、[区块链，为世界提供了一种可能](https://www.zaojiu.com/talks/1728)**
+
+1、区块链主要包含有五大类的技术：P2P 网络技术，共识算法技术，块链结构技术，智能合约和密码学。
+
+这些技术其实都不是什么新的技术，很多年前就存在了，但是它们组合在一起就形成了一种神奇的化学反应，它能够创造信任。
+
+好比十年前的乔布斯，将手机加上 iPod 再加上浏览器，就创造了神奇的 iPhone 一样。
+
+**话题 3、[OTCBTC 与李笑来先生事件始末](https://www.jianshu.com/p/655d555d1a3d)**
+
+1、我觉得里面把他们的代币写的很有吸引力的样子。
+
+2、都是套路 no publicity is bad publicity，就是做一个英雄的故事，有委屈，有反转。
+
+3、私以为，笑来老师的想法遇上执行力不佳或者没有资源推动事情前进的人，很容易使人浮躁。
+
+**话题 4、老猫谈以太坊地址**
+
+1、老 🐱 admin, [Dec 29, 2017 at 5:23:43 PM]:
+为什么以太坊地址中没有校验值？
+这是因为所谓的“以太坊地址”，也就是原始的16进制字符串中并无校验值信息。
+
+就拿比特币举个例子，你给某个比特币地址发送交易，
+1Q2TWHE3GMdB6BZKafqwxXtWAWgFt5Jvm3，实际的交易信息中并不包括“1Q2TWHE3GMdB6BZKafqwxXtWAWgFt5Jvm3”这个字符串，而是用“ 0xfc916f213a3d7f1369313d5fa30f6168f9446a2d”表示，这是它真正的地址，这个原始的用16进制字符串表示的地址中并不包含校验值信息，也没有版本号。
+
+事实上，有了原始表示地址的字符串，以太坊也完全可以做到像比特币那样，用BASE58编码出一个包含校验值和版本号的地址，这个地址完全不影响以太坊的使用。
+但是Vitalik本人曾提到过不必这么做的原因，表达以太坊原始地址有一个更具特色的方法，叫作ICAP协议,看上去就是“XE7338O073KYGTWWZN0F2WZ0R8PX5ZPPZS”，这种协议使用的字母数字字符的范围更大，可以节省空间。还有ICAP协议是一个有效的国际银行账户号码（IBAN），银行软件可以读取并与之通信。
+
+另外，2016年2月，Vitalik推出了一个过渡性校验方法。
+
+比特币不会出现这个情况
+
+ETH 本身有这个缺陷，只能自己小心
+
+位数并不是固定的
+
+2、老 🐱 admin, [Dec 29, 2017 at 5:26:12 PM]:
+关于以太坊地址，确实是地址中的奇葩。 说说我的理解，若不对大家说下。 大家有没有发现其地址是不区分大小写的，且只有0-9和ABCDEF 就是说其实以太地址，本质上只是40位的16进制的字串。前面加0x开头，即没有经过Base58Check编码之前的情况。 比如以太坊地址【0x8c75bc81434d17fba6994c30773bf8eabb509c81】 去掉0x，放入脑钱包转化工具，上面选择Hex，下面选择B58Check，即可以转化为比特币地址。 楼主说的对以太坊地址没有校验值，任意修改一处就是一个新的合法地址。至于后期改进，很简单，选择个版本号，进行B58Check编码 ...
+
+然而，目前并没有升级
+
+作为一个老手，都有把14个比特币发射天空的经历，所以，只能同情
+
+**话题 5、[Ethereum will be the next Facebook — A Fundamental Analysis](https://medium.com/@FundYourselfNow/ethereum-will-be-the-next-facebook-a-fundamental-analysis-bd484b2c2835)**
+
+1、个人认为 Ethereum 目前暂时无法适应高并发场景需求，技术的短板不是 V 神短时间可以解决的
+
+2、难道相信 ada
+
+***
+
+## 工具
+***
+
+* Fox.One，All Markets in One App，[https://fox.one](https://fox.one)
+
+***
+
+## 资源
+***
+
+* [部分项目白皮书](https://git.io/vbQyx)
+* [区块链导航](https://icepy.me/blockchain-navigate/)
+
+***
+
+「区块链技术指北」同名 **知识星球**，二维码如下，欢迎加入。BTW，**李笑来老师也加入了**。
+
+![区块链技术指北](https://i.imgur.com/RBmpxTL.png)
+
+「区块链技术指北」相关资讯渠道：
+
+> 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
+> 官网，[https://chainone.xyz](https://chainone.xyz)
+> 官方博客，[https://blog.chainone.xyz](https://blog.chainone.xyz)
+> 官方社区，[https://bcage.one](https://bcage.one)
+> Telegram Channel，[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
+> Telegram Group，[https://t.me/bcage](https://t.me/bcage)
+> Twitter，[https://twitter.com/bcageone](https://twitter.com/bcageone)
+> Facebook，[https://www.facebook.com/chainone.org](https://www.facebook.com/chainone.org)
+> 新浪微博，[https://weibo.com/BlockchainAge](https://weibo.com/BlockchainAge)
+
+同时，本系列文章会在以下渠道同步更新，欢迎关注：
+
+> 「区块链技术指北」同名微信公众号（微信号：BlockchainAge）
+> 官方博客，[https://blog.chainone.xyz](https://blog.chainone.xyz)
+> 知乎专栏，[https://zhuanlan.zhihu.com/robinwen](https://zhuanlan.zhihu.com/robinwen)
+> 简书，[https://www.jianshu.com/c/a37698a12ba9](https://www.jianshu.com/c/a37698a12ba9)
+> Steemit，[https://steemit.com/@chainone](https://steemit.com/@chainone)
+> Medium，[https://medium.com/@chainone.org](https://medium.com/@chainone.org)
+> 币乎，[https://bihu.com/people/345886](https://bihu.com/people/345886)
+> 掘金，[robinwen@juejin.im](https://juejin.im/user/5673ccae60b2260ee435f89a/posts)
+
+原创不易，读者可以通过如下途径打赏，虚拟货币、美元、法币均支持。
+
+> BTC: 1HRZ7og2KjqpP3v3jskgueNu64kJrFU8GD
+> ERC20 Token: 0x5c8DEB48dC08b5dC60A0290B718690a801509Dd1
+> PayPal: [https://www.paypal.me/robinwen](https://www.paypal.me/robinwen)
+> 微信打赏二维码
+
+![Wechat](https://i.imgur.com/hKyy9lI.jpg)
+
+–EOF–
+
+版权声明：[自由转载-非商用-非衍生-保持署名（创意共享4.0许可证）](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
