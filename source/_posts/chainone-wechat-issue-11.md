@@ -2,7 +2,7 @@
 title: "区块链技术指北（ChainONE）社区微信群价值信息汇总第 11 期"
 date: 2018-02-25 18:39:27
 categories:
-- Blockchain
+- WeChat
 tags:
 - Blockchain
 - WeChat

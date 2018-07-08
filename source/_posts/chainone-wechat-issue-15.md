@@ -2,7 +2,7 @@
 title: "区块链技术指北（ChainONE）社区微信群价值信息汇总第 15 期"
 date: 2018-03-25 20:00:00
 categories:
-- Blockchain
+- WeChat
 tags:
 - Blockchain
 - WeChat
