@@ -41,7 +41,7 @@ $ apt-get -y install php7.1-redis
 
 需要注意的是，PHP 需要 7.1 版本，所以按照如上的命令执行即可。
 
-接着安装 PHP comsoer，命令如下：
+接着安装 PHP composer，命令如下：
 
 ``` bash
 $ php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
