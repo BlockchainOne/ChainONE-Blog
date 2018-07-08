@@ -2,7 +2,7 @@
 title: "EOS 区块链数据实时异构到 MySQL"
 date: 2018-07-06 18:26:27
 categories:
-- Blockchain
+- EOS
 tags:
 - Blockchain
 - EOS
