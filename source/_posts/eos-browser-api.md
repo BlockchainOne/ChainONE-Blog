@@ -28,6 +28,7 @@ tags:
 本文讲解如何使用开源的 [EOSTracke-API](https://github.com/EOSEssentials/EOSTracker-API.git) 构建区块链浏览器 API。
 
 ## 0x01 部署
+***
 
 EOSTracke-API 使用 PHP 编写，为了能让它正确地运行，我们需要安装 PHP 相关依赖，命令如下：
 
@@ -73,6 +74,7 @@ $ nohup php bin/console server:run 0.0.0.0:8000 > api.log 2>&1 &
 ```
 
 ## 0x02 测试
+***
 
 浏览器访问 http://xxx.xxx.xxx.xxx:8000 即可访问 API，在 http://xxx.xxx.xxx.xxx:8000/_profiler/ac3944?panel=router 即可看到所有的 router，读者可以访问如下的连接测试 API 是否能够正常读取 MySQL 数据。
 
