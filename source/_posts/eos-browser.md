@@ -102,7 +102,7 @@ $ vim src/environments/environment.prod.ts
 
 * 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
 * 官网，[https://chainone.xyz](https://chainone.xyz)
-* 官方博客，[https://blog.chainone.xyz](https://blog.chainone.xyz)
+* 官方博客，[https://blog.chainon.io](https://blog.chainon.io)
 * 官方社区，[https://bcage.one](https://bcage.one)
 * Telegram Channel，[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
 * Telegram Group，[https://t.me/bcage](https://t.me/bcage)

@@ -245,7 +245,7 @@ Tendermint，和 Algorand，则是选出或是随机选择一个人提出解决�
 
 > 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
 > 官网，[https://chainone.xyz](https://chainone.xyz)
-> 官方博客，[https://blog.chainone.xyz](https://blog.chainone.xyz)
+> 官方博客，[https://blog.chainon.io](https://blog.chainon.io)
 > 官方社区，[https://bcage.one](https://bcage.one)
 > Telegram Channel，[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
 > Telegram Group，[https://t.me/bcage](https://t.me/bcage)
@@ -256,7 +256,7 @@ Tendermint，和 Algorand，则是选出或是随机选择一个人提出解决�
 同时，本系列文章会在以下渠道同步更新，欢迎关注：
 
 > 「区块链技术指北」同名微信公众号（微信号：BlockchainAge）
-> 官方博客，[https://blog.chainone.xyz](https://blog.chainone.xyz)
+> 官方博客，[https://blog.chainon.io](https://blog.chainon.io)
 > 知乎专栏，[https://zhuanlan.zhihu.com/robinwen](https://zhuanlan.zhihu.com/robinwen)
 > 简书，[https://www.jianshu.com/c/a37698a12ba9](https://www.jianshu.com/c/a37698a12ba9)
 > Steemit，[https://steemit.com/@chainone](https://steemit.com/@chainone)
