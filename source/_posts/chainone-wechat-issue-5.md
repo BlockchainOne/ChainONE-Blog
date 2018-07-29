@@ -14,7 +14,7 @@ tags:
 
 ![](https://i.imgur.com/EFxCQjC.png)
 
-> 题图来自: © ChainONE / WeChat / chainone.xyz
+> 题图来自: © ChainONE / WeChat / chainon.io
 
 > 这里是「区块链技术指北」微信群 2018 年第 2 周（20180108-20180114）价值信息汇总。本汇总文章由群友集体贡献，感谢大家。
 
@@ -42,17 +42,17 @@ tags:
 ## 讨论
 ***
 
-### bcage.one 体验
+### bbs.chainon.io 体验
 ***
 
 1、想请大家帮个忙，回复下「区块链技术指北」社区访问速度、ping 值、用户体验和意见与建议。
 
-网址： [https://bcage.one](https://bcage.one)
+网址： [https://bbs.chainon.io](https://bbs.chainon.io)
 
 **回复格式：**
 
 > 运营商：
-> ping 值：建议执行 ping -c 10 bcage.one（若不懂怎么执行 ping 命令可忽略此项）
+> ping 值：建议执行 ping -c 10 bbs.chainon.io（若不懂怎么执行 ping 命令可忽略此项）
 > 用户体验：
 > 意见与建议：
 
@@ -60,7 +60,7 @@ tags:
 
 运营商：广州电信
 ping 值：
---- bcage.one ping statistics ---
+--- bbs.chainon.io ping statistics ---
 10 packets transmitted, 10 packets received, 0.0% packet loss
 round-trip min/avg/max/stddev = 192.502/218.115/269.316/26.122 ms
 用户体验：界面简洁，响应速度快
@@ -68,9 +68,9 @@ round-trip min/avg/max/stddev = 192.502/218.115/269.316/26.122 ms
 
 感谢支持！
 
-微信群不方便收集，建议到 [https://bcage.one/d/16--](https://bcage.one/d/16--) 提交
+微信群不方便收集，建议到 [https://bbs.chainon.io/d/16--](https://bbs.chainon.io/d/16--) 提交
 
-2、部分地区确实超时很严重，http://tool.chinaz.com/speedtest/bcage.one
+2、部分地区确实超时很严重，http://tool.chinaz.com/speedtest/bbs.chainon.io
 
 ### [CYBEREITS 完成 5000 万元 A 轮融资 整套不动产 Token 化 打通链上链下不动产交易](https://mp.weixin.qq.com/s/B9o7ZgDYdw0UhmACjWrdYw)
 
@@ -90,7 +90,7 @@ round-trip min/avg/max/stddev = 192.502/218.115/269.316/26.122 ms
 
 * Steem 账号干啥的呢
     - Steem 账号用来登录 steemit, busy, dtube, utopian 等网站的。
-* [cnsteem](https://bcage.one/d/29-cnsteem)
+* [cnsteem](https://bbs.chainon.io/d/29-cnsteem)
 
 ### 国内目前对虚拟货币监管的政策
 ***
@@ -193,7 +193,7 @@ round-trip min/avg/max/stddev = 192.502/218.115/269.316/26.122 ms
 ***
 
 * [从个人需求而来的小工具](https://github.com/icepy/blockchain-navigate-code/issues/1)
-* [Blockchain Navigate - 区块链导航](https://bcage.one/d/25-blockchain-navigate)
+* [Blockchain Navigate - 区块链导航](https://bbs.chainon.io/d/25-blockchain-navigate)
 * [Cryptokitties 加密猫搜索工具](http://jiamimao.wanbuzhe.com/)
 
 ***
@@ -201,7 +201,7 @@ round-trip min/avg/max/stddev = 192.502/218.115/269.316/26.122 ms
 ## 资源
 ***
 
-* [新一轮币问邀请码进行时](https://bcage.one/d/14-bitask)
+* [新一轮币问邀请码进行时](https://bbs.chainon.io/d/14-bitask)
 * [EtherAddressLookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
 * [Mysterium foundation](https://mysterium.network/)
 * [项目白皮书 GitHub Repo](https://github.com/dbarobin/blockchain-whitepaper)
@@ -304,9 +304,9 @@ round-trip min/avg/max/stddev = 192.502/218.115/269.316/26.122 ms
 「区块链技术指北」相关资讯渠道：
 
 > 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
-> 官网，[https://chainone.xyz](https://chainone.xyz)
+> 官网，[https://chainon.io](https://chainon.io)
 > 官方博客，[https://blog.chainon.io](https://blog.chainon.io)
-> 官方社区，[https://bcage.one](https://bcage.one)
+> 官方社区，[https://bbs.chainon.io](https://bbs.chainon.io)
 > Telegram Channel，[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
 > Telegram Group，[https://t.me/bcage](https://t.me/bcage)
 > Twitter，[https://twitter.com/bcageone](https://twitter.com/bcageone)

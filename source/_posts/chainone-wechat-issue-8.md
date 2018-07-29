@@ -14,7 +14,7 @@ tags:
 
 ![](https://i.imgur.com/EFxCQjC.png)
 
-> 题图来自: © ChainONE / WeChat / chainone.xyz
+> 题图来自: © ChainONE / WeChat / chainon.io
 
 > 这里是「区块链技术指北」微信群 2018 年第 5 周（20180129-20180204）价值信息汇总。本汇总文章由群友集体贡献，感谢大家。
 
@@ -111,9 +111,9 @@ tags:
 * 也体验了下在 etherscan 上验证合约代码，需要选对编译器版本及是否启用优化的选项
 * [ICO 导航](http://www.52ico.com)
 
-**刚和一个英国人聊天，他关注的项目集中在物联网、存储、AI，我把它提到的项目放到 bcage.one 了。大家怎么看？**
+**刚和一个英国人聊天，他关注的项目集中在物联网、存储、AI，我把它提到的项目放到 bbs.chainon.io 了。大家怎么看？**
 
-* [https://bcage.one/t/project](https://bcage.one/t/project)，可以点开链接看看
+* [https://bbs.chainon.io/t/project](https://bbs.chainon.io/t/project)，可以点开链接看看
 * AI 感觉是未来大方向
 * 也有人说 AI 泡沫
 * 区块链是生产关系的进步，AI 是生产力的进步
@@ -522,7 +522,7 @@ tags:
 ## 工具
 ***
 
-* [bcage.one](https://bcage.one/t/tools)
+* [bbs.chainon.io](https://bbs.chainon.io/t/tools)
 
 ***
 
@@ -638,9 +638,9 @@ tags:
 「区块链技术指北」相关资讯渠道：
 
 > 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
-> 官网，[https://chainone.xyz](https://chainone.xyz)
+> 官网，[https://chainon.io](https://chainon.io)
 > 官方博客，[https://blog.chainon.io](https://blog.chainon.io)
-> 官方社区，[https://bcage.one](https://bcage.one)
+> 官方社区，[https://bbs.chainon.io](https://bbs.chainon.io)
 > Telegram Channel，[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
 > Telegram Group，[https://t.me/bcage](https://t.me/bcage)
 > Twitter，[https://twitter.com/bcageone](https://twitter.com/bcageone)

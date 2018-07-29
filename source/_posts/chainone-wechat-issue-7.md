@@ -14,7 +14,7 @@ tags:
 
 ![](https://i.imgur.com/EFxCQjC.png)
 
-> 题图来自: © ChainONE / WeChat / chainone.xyz
+> 题图来自: © ChainONE / WeChat / chainon.io
 
 > 这里是「区块链技术指北」微信群 2018 年第 4 周（20180122-20180128）价值信息汇总。本汇总文章由群友集体贡献，感谢大家。
 
@@ -219,7 +219,7 @@ tags:
 ## 工具
 ***
 
-* [Blockchain Demo](https://bcage.one/d/58-blockchain-demo)，作者 Anders Brownworth（Chief Evangelist @CirclePay，Co-taught the Blockchain class at MIT）
+* [Blockchain Demo](https://bbs.chainon.io/d/58-blockchain-demo)，作者 Anders Brownworth（Chief Evangelist @CirclePay，Co-taught the Blockchain class at MIT）
 * [Crypto Code Watch](https://cryptocodewatch.com/)
 * [Top 10 ETH Contracts By Transaction Count](https://ethgasstation.info/gasguzzlers.php)
 * [Dead Coins](http://deadcoins.com)
@@ -229,7 +229,7 @@ tags:
 ## 资源
 ***
 
-* [币问邀请码](https://bcage.one/d/59-bitask-2nd)
+* [币问邀请码](https://bbs.chainon.io/d/59-bitask-2nd)
 * [区块先锋](http://ipfser.org)
 * [飞向未来](https://www.ipfschina.io/author/dty/)，这个是飞向未来的网站，许多文章的出处都来自这里，他对ipfs了解很深。我的知识来源于他。
 * [Using the compiler](http://solidity.readthedocs.io/en/develop/using-the-compiler.html?highlight=ABI)
@@ -421,9 +421,9 @@ tags:
 「区块链技术指北」相关资讯渠道：
 
 > 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
-> 官网，[https://chainone.xyz](https://chainone.xyz)
+> 官网，[https://chainon.io](https://chainon.io)
 > 官方博客，[https://blog.chainon.io](https://blog.chainon.io)
-> 官方社区，[https://bcage.one](https://bcage.one)
+> 官方社区，[https://bbs.chainon.io](https://bbs.chainon.io)
 > Telegram Channel，[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
 > Telegram Group，[https://t.me/bcage](https://t.me/bcage)
 > Twitter，[https://twitter.com/bcageone](https://twitter.com/bcageone)

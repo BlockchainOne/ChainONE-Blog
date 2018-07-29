@@ -58,7 +58,7 @@ tags:
 
 [Wechat](https://i.imgur.com/EFxCQjC.png)
 
-> 题图来自: © ChainONE / WeChat / chainone.xyz
+> 题图来自: © ChainONE / WeChat / chainon.io
 
 ## 讨论
 
@@ -124,7 +124,7 @@ tags:
 ## 资源
 
 * [猿哥的区块链博客](http://yuanlian.io)
-* [区块链技术指北 | ChainONE 社区官网](https://chainone.xyz)
+* [区块链技术指北 | ChainONE 社区官网](https://chainon.io)
 * [阿里云区块链解决方案](https://help.aliyun.com/document_detail/60755.html)
 * [京东区块链技术白皮书](https://yadi.sk/i/iLxroTZa3TjBTG)
 * [区块链谜恋猫 CryptoKitties 剖析-崔广斌](https://yadi.sk/i/WU39l6nt3TjDgZ)
@@ -154,9 +154,9 @@ tags:
 「区块链技术指北」相关资讯渠道：
 
 * 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
-* 官网，[https://chainone.xyz](https://chainone.xyz)
+* 官网，[https://chainon.io](https://chainon.io)
 * 官方博客，[https://blog.chainon.io](https://blog.chainon.io)
-* 官方社区，[https://bcage.one](https://bcage.one)
+* 官方社区，[https://bbs.chainon.io](https://bbs.chainon.io)
 * Telegram Channel，[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
 * Telegram Group，[https://t.me/bcage](https://t.me/bcage)
 * Twitter，[https://twitter.com/bcageone](https://twitter.com/bcageone)

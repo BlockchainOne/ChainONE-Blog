@@ -385,7 +385,7 @@ Paxos、Raft、Zab 和 VR 都是解决一致性问题的协议，Paxos 协议原
 「区块链技术指北」相关资讯渠道：
 
 * 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
-* 官方社区，[https://bcage.one](https://bcage.one)
+* 官方社区，[https://bbs.chainon.io](https://bbs.chainon.io)
 * Telegram Channel，[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
 * Telegram Group，[https://t.me/bcage](https://t.me/bcage)
 * Twitter，[https://twitter.com/bcageone](https://twitter.com/bcageone)

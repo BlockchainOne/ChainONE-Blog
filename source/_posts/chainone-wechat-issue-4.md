@@ -14,7 +14,7 @@ tags:
 
 ![](https://i.imgur.com/EFxCQjC.png)
 
-> 题图来自: © ChainONE / WeChat / chainone.xyz
+> 题图来自: © ChainONE / WeChat / chainon.io
 
 > 这里是「区块链技术指北」微信群 2018 年第 1 周（20180101-20180107）价值信息汇总。本汇总文章由群友集体贡献，感谢大家。
 
@@ -33,8 +33,8 @@ tags:
 * [区块链将如何改变软件业](http://blog.eosdata.io/index.php/2017/12/28/qu-kuai-lian-jiang-ru-he-gai-bian-ruan-jian-ye/)
 * [为什么我不会买 Ripple](http://mp.weixin.qq.com/s/QNIAl4cIa2XkITwg_bXt-A)
 * [核爆级收藏项，2018 年十大最令人期待项目](https://mp.weixin.qq.com/s/fe0JJ3a92b5Jvd1S1ergTA)
-* [「区块链技术指北」官方社区 bcage.one 上线](https://mp.weixin.qq.com/s/OUW4K5C4C1IN0Pld5UScdw)
-    - FAQ 在这里，[https://bcage.one/d/5-faq](https://bcage.one/d/5-faq)
+* [「区块链技术指北」官方社区 bbs.chainon.io 上线](https://mp.weixin.qq.com/s/OUW4K5C4C1IN0Pld5UScdw)
+    - FAQ 在这里，[https://bbs.chainon.io/d/5-faq](https://bbs.chainon.io/d/5-faq)
 
 ***
 
@@ -167,9 +167,9 @@ tags:
 「区块链技术指北」相关资讯渠道：
 
 > 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
-> 官网，[https://chainone.xyz](https://chainone.xyz)
+> 官网，[https://chainon.io](https://chainon.io)
 > 官方博客，[https://blog.chainon.io](https://blog.chainon.io)
-> 官方社区，[https://bcage.one](https://bcage.one)
+> 官方社区，[https://bbs.chainon.io](https://bbs.chainon.io)
 > Telegram Channel，[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
 > Telegram Group，[https://t.me/bcage](https://t.me/bcage)
 > Twitter，[https://twitter.com/bcageone](https://twitter.com/bcageone)

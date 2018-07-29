@@ -14,7 +14,7 @@ tags:
 
 ![](https://i.imgur.com/EFxCQjC.png)
 
-> 题图来自: © ChainONE / WeChat / chainone.xyz
+> 题图来自: © ChainONE / WeChat / chainon.io
 
 > 这里是「区块链技术指北」微信群 2018 年第 3 周（20180115-20180121）价值信息汇总。本汇总文章由群友集体贡献，感谢大家。
 
@@ -106,7 +106,7 @@ tags:
 * [Love2.io：全新的开源技术文档分享平台](https://mp.weixin.qq.com/s/oKCfTFUJTIXTwqVmiODHRQ)
 * [免费课程 | 吴老师教你如何快速入门区块链](https://mp.weixin.qq.com/s/xJH286WIp1nXppmfYKVfHw)
 * [比特币背后的价格操纵](http://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_21.pdf)
-* [066. 『乱槽之癫』区块链是个好东西，但别玩脱了](https://bcage.one/d/46-066)
+* [066. 『乱槽之癫』区块链是个好东西，但别玩脱了](https://bbs.chainon.io/d/46-066)
 * [透彻解析区块链、比特币、ICO](https://m.igetget.com/share/igettv/id/163?)
 * [一堂课弄懂区块链、比特币、ICO](https://pan.baidu.com/s/1htYPwtm)
 * [加密货币领域最有影响力的100人](https://cryptoweekly.co/100/)
@@ -230,9 +230,9 @@ tags:
 「区块链技术指北」相关资讯渠道：
 
 > 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
-> 官网，[https://chainone.xyz](https://chainone.xyz)
+> 官网，[https://chainon.io](https://chainon.io)
 > 官方博客，[https://blog.chainon.io](https://blog.chainon.io)
-> 官方社区，[https://bcage.one](https://bcage.one)
+> 官方社区，[https://bbs.chainon.io](https://bbs.chainon.io)
 > Telegram Channel，[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
 > Telegram Group，[https://t.me/bcage](https://t.me/bcage)
 > Twitter，[https://twitter.com/bcageone](https://twitter.com/bcageone)

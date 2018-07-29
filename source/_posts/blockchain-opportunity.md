@@ -69,7 +69,7 @@ Fenng 早已是数据库行业的 [专家](http://dbanotes.net/siteinfo.html)，
 
 **希望我们在区块链时代自由地行走。**
 
-「区块链技术指北」官方社区 [bcage.one](https://bcage.one) 现已开放注册，欢迎分享。
+「区块链技术指北」官方社区 [bbs.chainon.io](https://bbs.chainon.io) 现已开放注册，欢迎分享。
 
 「区块链技术指北」同名 **知识星球**，二维码如下，欢迎加入。BTW，**李笑来老师也加入了**。
 
@@ -78,7 +78,7 @@ Fenng 早已是数据库行业的 [专家](http://dbanotes.net/siteinfo.html)，
 「区块链技术指北」相关资讯渠道：
 
 * 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
-* 官方社区，[https://bcage.one](https://bcage.one)
+* 官方社区，[https://bbs.chainon.io](https://bbs.chainon.io)
 * Telegram Channel，[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
 * Telegram Group，[https://t.me/bcage](https://t.me/bcage)
 * Twitter，[https://twitter.com/bcageone](https://twitter.com/bcageone)

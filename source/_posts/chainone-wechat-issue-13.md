@@ -14,7 +14,7 @@ tags:
 
 ![](https://i.imgur.com/EFxCQjC.png)
 
-> 题图来自: © ChainONE / WeChat / chainone.xyz
+> 题图来自: © ChainONE / WeChat / chainon.io
 
 > 这里是「区块链技术指北」微信群 2018 年第 10 周（20180305-20180311）价值信息汇总。本汇总文章由群友集体贡献，感谢大家。
 
@@ -73,8 +73,8 @@ tags:
 
 * 可以自己做映射，也可以使用工具。6 月之前，一定有无数的工具支持。
 * 比如我了解到的，有 MEET、AntWallet 都可以做。不过做之前最好去研究他们的实现，没有开源映射方案的谨慎
-* [https://bcage.one/d/145-eos-generate-and-mapping](https://bcage.one/d/145-eos-generate-and-mapping)
-* [https://bcage.one/d/152-antwallet](https://bcage.one/d/152-antwallet)
+* [https://bbs.chainon.io/d/145-eos-generate-and-mapping](https://bbs.chainon.io/d/145-eos-generate-and-mapping)
+* [https://bbs.chainon.io/d/152-antwallet](https://bbs.chainon.io/d/152-antwallet)
 * 到时候  imtoken2.0 上线就好了，肯定有 eos 映射的工具
 * 各个钱包都在抢占先机
 * eos 项目落地了吗？
@@ -150,7 +150,7 @@ tags:
 
 * [Blockchain Demo](https://anders.com/blockchain/)
 * [Yogh Blockchain Reader](http://srv1.yogh.io/#mine:last)
-* [EOS Countdown](https://bcage.one/d/175-eos-countdown)
+* [EOS Countdown](https://bbs.chainon.io/d/175-eos-countdown)
 
 ***
 
@@ -159,7 +159,7 @@ tags:
 
 * [Interview with Dan Larimer - EOS, Cardano, Ethereum, DPoS, Steemit, Crypto Bubble, Future of Crypto](https://youtu.be/o7HQlcl-LlQ)
 * [bitcoineum](https://github.com/bitcoineum/bitcoineum)
-* [ipfs-tutorial](https://bcage.one/d/173-ipfs-tutorial)
+* [ipfs-tutorial](https://bbs.chainon.io/d/173-ipfs-tutorial)
 * [恒生研究院](http://rdc.hundsun.com/portal/article/859.html)
 
 ***
@@ -189,9 +189,9 @@ tags:
 「区块链技术指北」相关资讯渠道：
 
 > 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
-> 官网，[https://chainone.xyz](https://chainone.xyz)
+> 官网，[https://chainon.io](https://chainon.io)
 > 官方博客，[https://blog.chainon.io](https://blog.chainon.io)
-> 官方社区，[https://bcage.one](https://bcage.one)
+> 官方社区，[https://bbs.chainon.io](https://bbs.chainon.io)
 > Telegram Channel，[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
 > Telegram Group，[https://t.me/bcage](https://t.me/bcage)
 > Twitter，[https://twitter.com/bcageone](https://twitter.com/bcageone)

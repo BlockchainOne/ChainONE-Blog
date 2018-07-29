@@ -16,7 +16,7 @@ tags:
 
 ![Open Translating](https://i.imgur.com/3z7XcrB.png)
 
-> 题图来自: © ChainONE / Open Translating / chainone.xyz
+> 题图来自: © ChainONE / Open Translating / chainon.io
 
 ## 闪电网络
 ***
@@ -67,9 +67,9 @@ tags:
 「区块链技术指北」相关资讯渠道：
 
 * 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
-* 官网，[https://chainone.xyz](https://chainone.xyz)
+* 官网，[https://chainon.io](https://chainon.io)
 * 官方博客，[https://blog.chainon.io](https://blog.chainon.io)
-* 官方社区，[https://bcage.one](https://bcage.one)
+* 官方社区，[https://bbs.chainon.io](https://bbs.chainon.io)
 * Telegram Channel，[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
 * Telegram Group，[https://t.me/bcage](https://t.me/bcage)
 * Twitter，[https://twitter.com/bcageone](https://twitter.com/bcageone)

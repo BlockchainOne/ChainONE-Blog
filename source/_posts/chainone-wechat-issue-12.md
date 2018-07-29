@@ -14,7 +14,7 @@ tags:
 
 ![](https://i.imgur.com/EFxCQjC.png)
 
-> 题图来自: © ChainONE / WeChat / chainone.xyz
+> 题图来自: © ChainONE / WeChat / chainon.io
 
 > 这里是「区块链技术指北」微信群 2018 年第 9 周（20180226-20180304）价值信息汇总。本汇总文章由群友集体贡献，感谢大家。
 
@@ -202,7 +202,7 @@ Tendermint，和 Algorand，则是选出或是随机选择一个人提出解决�
 
 * [Yandex.Disk 资源备份](https://github.com/BlockchainOne/Resources/issues/1)
 * [灰袍推送](https://t.me/greypush)
-* [Blockchain Tutorial](https://bcage.one/d/151-blockchain-tutorial)
+* [Blockchain Tutorial](https://bbs.chainon.io/d/151-blockchain-tutorial)
 * [《解码区块链》套装共 6 册，作者徐明星, 田颖等](https://mp.weixin.qq.com/s?__biz=MzI5MDM4NTYwOA==&mid=2247484053&idx=1&sn=59efc370a7c09154f97e50470338aba0&chksm=ec21f932db5670242f7ac91aced373f726836362bd146521b792888217b56230fb84d82d46e9&mpshare=1&scene=1&srcid=0304XqNHM49x4mRLUD2RmDg7#rd)
 * [区块链行业词典](https://git.io/vAHki)
 * [Machine Learning Crash Course](https://developers.google.cn/machine-learning/crash-course/)
@@ -244,9 +244,9 @@ Tendermint，和 Algorand，则是选出或是随机选择一个人提出解决�
 「区块链技术指北」相关资讯渠道：
 
 > 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
-> 官网，[https://chainone.xyz](https://chainone.xyz)
+> 官网，[https://chainon.io](https://chainon.io)
 > 官方博客，[https://blog.chainon.io](https://blog.chainon.io)
-> 官方社区，[https://bcage.one](https://bcage.one)
+> 官方社区，[https://bbs.chainon.io](https://bbs.chainon.io)
 > Telegram Channel，[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
 > Telegram Group，[https://t.me/bcage](https://t.me/bcage)
 > Twitter，[https://twitter.com/bcageone](https://twitter.com/bcageone)
