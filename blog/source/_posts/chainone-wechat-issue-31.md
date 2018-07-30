@@ -1,0 +1,157 @@
+---
+title: "区块链技术指北（ChainONE）社区微信群价值信息汇总第 31 期"
+date: 2018-07-15 18:39:27
+categories:
+- WeChat
+tags:
+- Blockchain
+- WeChat
+---
+区块链技术指北社区（ChainONE Community），社区的初衷是 构建优质社区，传播和分享区块链技术，探讨潜在价值，连接技术和商业。区块链技术指北社区（ChainONE Community）的 共识原则：自由，开放，平等，协作，分享。我们希望聚合众人的力量构建一个区块链技术社区。在有限的生命里 持续做有价值 的事情。优质产出，我们对社区的产出有严格苛刻的高标准要求。多中心化。去中心化永远只是个相对理论概念，究竟什么样的程度才算是去中心呢？我们希望社区每一位成员，每一位读者都是一个平等的节点，都可以为社区贡献自己的力量。「区块链技术指北」 最初的内容定位：常见价值虚拟货币的相关教程、区块链技术前沿信息、区块链技术好文品鉴和分享、区块链技术相关工具、区块链技术分析、区块链项目跟踪等。我们社区以后的内容还会包括但不限于：区块链资源共享、开源翻译计划、开源创作计划等。
+<!-- more -->
+
+> 如果对我感兴趣，想和我交流，我的微信号：**Wentasy**，加我时简单介绍下自己，并注明来自「区块链技术指北」。同时我会把你拉入微信群「区块链技术指北」。BTW，李笑来老师也加入了我们的知识星球，文末有加入方式。
+
+![](https://i.imgur.com/EFxCQjC.png)
+
+> 题图来自: © ChainONE / WeChat / chainon.io
+
+> 这里是「区块链技术指北」微信群 2018 年第 28 周（20180709-20180715）价值信息汇总。本汇总文章由群友集体贡献，感谢大家。
+
+## 文章
+
+* [区块链的信任从何而来？](https://bbs.chainon.io/d/799-blockchain)
+* [Cardano (ADA) — better than Bitcoin, but can it be best?](https://bbs.chainon.io/d/802-cardano-ada-better-than-bitcoin-but-can-it-be-best)
+* [关于 DynamoDB](https://bbs.chainon.io/d/807-dynamodb)
+* [专访 Wyre 聂尔：区块链在工业界的应用是 “病态” 的！](https://bbs.chainon.io/d/808-wyre)
+* [分布式系统的一致性协议之 2PC 和 3PC](https://bbs.chainon.io/d/810-2pc-3pc)
+* [What is Substrate?](https://bbs.chainon.io/d/812-what-is-substrate)
+* [程序员懂业务有多重要？](https://bbs.chainon.io/d/814-programmer)
+* [通过链下逻辑扩展区块链智能合约](https://bbs.chainon.io/d/815-smart-contract)
+* [In cryptoland, trust can be costly](https://bbs.chainon.io/d/816-in-cryptoland-trust-can-be-costly)
+* [Exploring the landscape of Go testing frameworks](https://bbs.chainon.io/d/817-exploring-the-landscape-of-go-testing-frameworks)
+* [Create your own EOS account easily using the non-service-fee DApp](https://bbs.chainon.io/d/818-create-your-own-eos-account-easily-using-the-non-service-fee-dapp)
+* [The RAM Conundrum](https://bbs.chainon.io/d/819-the-ram-conundrum)
+* [Proposal: A different EOS RAM Market Model](https://bbs.chainon.io/d/820-proposal-a-different-eos-ram-market-model)
+* [以太坊 “假充值” 漏洞技术分析](https://bbs.chainon.io/d/822-ether)
+* [Redis 开发设计规范及案例分析](https://bbs.chainon.io/d/823-redis)
+* [HPB34：P2P 网络及节点发现机制](https://bbs.chainon.io/d/826-hpb34-p2p)
+* [Microsoft Azure 以太坊节点自动化部署方案漏洞分析](https://bbs.chainon.io/d/827-microsoft-azure)
+* [The Bitcoin Way](https://bbs.chainon.io/d/833-the-bitcoin-way)
+* [Episode #34: The Real Slim Satoshi](https://bbs.chainon.io/d/834-episode-34-the-real-slim-satoshi)
+* [The Future of Byteball — The Byteball Foundation](https://bbs.chainon.io/d/835-the-future-of-byteball-the-byteball-foundation)
+* [以太坊智能合约 OPCODE 逆向之理论基础篇](https://bbs.chainon.io/d/838-opcode)
+* [A pattern for limiting the number of goroutines in execution.](https://bbs.chainon.io/d/842-a-pattern-for-limiting-the-number-of-goroutines-in-execution)
+* [LosAngelETH Hackathon Setup Prep](https://bbs.chainon.io/d/843-losangeleth-hackathon-setup-prep)
+* [ETH 区块链 - 以太坊转账离线签名](https://bbs.chainon.io/d/844-eth)
+* [A Three Step Plan for Lowering EOS Account Creation Costs](https://bbs.chainon.io/d/845-a-three-step-plan-for-lowering-eos-account-creation-costs)
+* [【源码解读】EOS 测试插件：txn_test_gen_plugin.cpp](https://bbs.chainon.io/d/847-eos-txn-test-gen-plugin-cpp)
+* [构造形式化证明，解决智能合约安全问题——你的合约亟待证明](https://mp.weixin.qq.com/s?__biz=MzUxNTgyNDk5NQ==&mid=2247483887&idx=1&sn=d912d1ae8062868660d11b165c0eac01&chksm=f9b18de3cec604f5afb1dc3bf4ad462416d77b98463c92a209f8c327e3707fb80a33a90684d5&mpshare=1&scene=1&srcid=0708R21gD14WcIjzJlN5TbdX#rd)
+* [和 EOS RAM 买卖相关的《Bancor Protocol》 文章翻译](https://mp.weixin.qq.com/s?__biz=MzU3NjQxMTcyNQ==&mid=2247483684&idx=1&sn=9d634044f25bcabd0d4b3fcc1f63ab77&chksm=fd150006ca628910d0929badf498d329ba6ee62df116c4e55abeba9eabbc38f4c1287ba73a09&mpshare=1&scene=1&srcid=0709fdOszlhv18rw6FuLLmIH#rd)
+* [区块链的预言机](https://mp.weixin.qq.com/s?__biz=MzI2NjkzNjYzNw==&mid=2247483845&idx=1&sn=4a56e77e82ad725ce430b67cda509fea&chksm=ea87c997ddf04081de2e068173157dc20ae3e43295dd97c4b610f8a557fe19ee0a7b70193fc1&mpshare=1&scene=1&srcid=0712l7y2OIFDR5t70Qp64081#rd)
+* [如果 EOS 在主网启动时 RAM 供应量是现在的两倍，价格会是什么样？](https://mp.weixin.qq.com/s?__biz=MzU3NjQxMTcyNQ==&mid=2247483692&idx=1&sn=1609d37ca4356541c125b2322e01ee27&chksm=fd15000eca628918e82b25af580e1ace047e32729e184e2b0a783a423078b8c47fe70d7b6151&mpshare=1&scene=1&srcid=0712cfIIlcPSbezlw0EzVWII#rd)
+* [以太坊标准接纳中国团队安全建议 -- EIP827 安全事件跟踪](https://mp.weixin.qq.com/s?__biz=MzUxNTgyNDk5NQ==&mid=2247483912&idx=1&sn=6777f302831a59126b7bf25cadce6e70&chksm=f9b18e04cec6071287f643465190897eb9d10a4e51405fdb0ed2ea5add3291089438cc395057&mpshare=1&scene=1&srcid=0714MGAl1ubnnBJJg09MSZhw#rd)
+* [以太坊代币 “假充值” 漏洞细节披露及修复方案](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247483877&idx=1&sn=245963d250754c6045cf2ee3d4886d4d&chksm=fddd7f62caaaf674e8f55d17987264173cd146cf11e9ccb8c72cb2e01dccb0b0aeb76c6fde2d&mpshare=1&scene=1&srcid=0711QTeneLlapD6AzpsVQUi8#rd)
+* [P2P 模块架构设计及部分细节实现](https://mp.weixin.qq.com/s?__biz=MzUzODg4ODkwNA==&mid=2247483678&idx=1&sn=7f43dac281e00d66cf2d2a4710afefde&chksm=fad19eb9cda617af248b13a59002b8a7643235b5accdd5ddc42c8c62f4fda353626745368909&mpshare=1&scene=1&srcid=0713lJZ2soFbNMD2gyhci0Xy#rd)
+* [Bancor 危机：Token 背后潜伏的 “上帝之手”](https://mp.weixin.qq.com/s?__biz=MzUxNTgyNDk5NQ==&mid=2247483945&idx=1&sn=a427ee788b27a4e9498c64813eb99973&chksm=f9b18e25cec60733c4b7442af537e5c83dd808df277f4ca4d2cc38f1349305abf181305326d0&mpshare=1&scene=1&srcid=0714fb2pi0YBiIswpMrPiKD0#rd)
+
+***
+
+## 资讯
+
+* [四川洪灾波及数字货币挖矿](https://bbs.chainon.io/d/800-hashrate)
+* [單一公鏈能否符合實際需求 以太坊並不擔心未來](https://bbs.chainon.io/d/805-chain)
+* [Hyperledger: 革命即將開始 但早期是隱而不見的](https://bbs.chainon.io/d/806-hyperledger)
+* [去中心化交易所就牢不可破？ Bancor 遭駭 24,984 個 ETH](https://bbs.chainon.io/d/813-bancor-24-984-eth)
+* [反諷 Vitalik 是產業之王 趙長鵬：我們不應期待他人消失](https://bbs.chainon.io/d/824-vitalik)
+* [Ledger Launches Ledger Live App For Desktop](https://bbs.chainon.io/d/825-ledger-launches-ledger-live-app-for-desktop)
+* [Opera 瀏覽器內建以太坊錢包 開創一鍵交易](https://bbs.chainon.io/d/836-opera)
+* [Vitalik Buterin: PoW 會讓富者更富現象加倍](https://bbs.chainon.io/d/837-vitalik-buterin-pow)
+* [迅雷发布为区块链而生的文件系统 TCFS](https://bbs.chainon.io/d/840-tcfs)
+* [以太坊共同創辦人 Joe Lubin：將在今年進入第二階段](https://bbs.chainon.io/d/846-joe-lubin)
+
+***
+
+## 讨论
+
+NULL
+
+***
+
+## 播客
+
+* [How to build blockchain from scratch?](https://bbs.chainon.io/d/803-how-to-build-blockchain-from-scratch)
+
+***
+
+## 工具
+
+* [savemyeosram](https://bbs.chainon.io/d/801-savemyeosram)
+* [EOSweb](https://bbs.chainon.io/d/804-eosweb)
+* [Southex](https://bbs.chainon.io/d/811-southex)
+* [EOSRescuer](https://bbs.chainon.io/d/821-eosrescuer)
+* [eosram-trading-robot](https://bbs.chainon.io/d/830-eosram-trading-robot)
+* [eoskeeper](https://bbs.chainon.io/d/832-eoskeeper)
+* [Blockchain Activity Matrix](https://bbs.chainon.io/d/841-blockchain-activity-matrix)
+
+***
+
+## 资源
+
+* [BTM VM OPS 智能合约 ops 指令说明](https://bbs.chainon.io/d/828-btm-vm-ops-ops)
+* [EOS 导航](https://bbs.chainon.io/d/829-eos)
+* [evm-opcodes](https://bbs.chainon.io/d/839-evm-opcodes)
+
+***
+
+## DApp
+
+* [eosio-hackathon-starter](https://bbs.chainon.io/d/809-eosio-hackathon-starter)
+
+***
+
+## Q&A
+
+NULL
+
+***
+
+「区块链技术指北」同名 **知识星球**，二维码如下，欢迎加入。BTW，**李笑来老师也加入了**。
+
+<div align=center><img width="50%" height="50%" src="https://raw.githubusercontent.com/BlockchainOne/WeChat/master/images/ZSXQ.jpg"/></div>
+
+「区块链技术指北」相关资讯渠道：
+
+> 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
+> 官网，[https://chainon.io](https://chainon.io)
+> 官方博客，[https://blog.chainon.io](https://blog.chainon.io)
+> 官方社区，[https://bbs.chainon.io](https://bbs.chainon.io)
+> Telegram Channel，[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
+> Telegram Group，[https://t.me/bcage](https://t.me/bcage)
+> Twitter，[https://twitter.com/bcageone](https://twitter.com/bcageone)
+> Facebook，[https://www.facebook.com/chainone.org](https://www.facebook.com/chainone.org)
+> 新浪微博，[https://weibo.com/BlockchainAge](https://weibo.com/BlockchainAge)
+
+同时，本系列文章会在以下渠道同步更新，欢迎关注：
+
+> 「区块链技术指北」同名微信公众号（微信号：BlockchainAge）
+> 官方博客，[https://blog.chainon.io](https://blog.chainon.io)
+> 知乎专栏，[https://zhuanlan.zhihu.com/robinwen](https://zhuanlan.zhihu.com/robinwen)
+> 简书，[https://www.jianshu.com/c/a37698a12ba9](https://www.jianshu.com/c/a37698a12ba9)
+> Steemit，[https://steemit.com/@chainone](https://steemit.com/@chainone)
+> Medium，[https://medium.com/@chainone.org](https://medium.com/@chainone.org)
+> 币乎，[https://bihu.com/people/345886](https://bihu.com/people/345886)
+> 掘金，[robinwen@juejin.im](https://juejin.im/user/5673ccae60b2260ee435f89a/posts)
+
+原创不易，读者可以通过如下途径打赏，虚拟货币、美元、法币均支持。
+
+> BTC: 1HRZ7og2KjqpP3v3jskgueNu64kJrFU8GD
+> ERC20 Token: 0x5c8DEB48dC08b5dC60A0290B718690a801509Dd1
+> PayPal: [https://www.paypal.me/robinwen](https://www.paypal.me/robinwen)
+> 微信打赏二维码
+
+<div align=center><img width="50%" height="50%" src="https://raw.githubusercontent.com/BlockchainOne/WeChat/master/images/WeChat.jpg"/></div>
+
+–EOF–
+
+版权声明：[自由转载-非商用-非衍生-保持署名（创意共享4.0许可证）](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)

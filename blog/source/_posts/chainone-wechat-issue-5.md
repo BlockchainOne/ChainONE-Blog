@@ -1,0 +1,319 @@
+---
+title: "区块链技术指北（ChainONE）社区微信群价值信息汇总第 5 期"
+date: 2018-01-14 18:39:27
+categories:
+- WeChat
+tags:
+- Blockchain
+- WeChat
+---
+区块链技术指北社区（ChainONE Community），社区的初衷是 构建优质社区，传播和分享区块链技术，探讨潜在价值，连接技术和商业。区块链技术指北社区（ChainONE Community）的 共识原则：自由，开放，平等，协作，分享。我们希望聚合众人的力量构建一个区块链技术社区。在有限的生命里 持续做有价值 的事情。优质产出，我们对社区的产出有严格苛刻的高标准要求。多中心化。去中心化永远只是个相对理论概念，究竟什么样的程度才算是去中心呢？我们希望社区每一位成员，每一位读者都是一个平等的节点，都可以为社区贡献自己的力量。「区块链技术指北」 最初的内容定位：常见价值虚拟货币的相关教程、区块链技术前沿信息、区块链技术好文品鉴和分享、区块链技术相关工具、区块链技术分析、区块链项目跟踪等。我们社区以后的内容还会包括但不限于：区块链资源共享、开源翻译计划、开源创作计划等。
+<!-- more -->
+
+> 如果对我感兴趣，想和我交流，我的微信号：**Wentasy**，加我时简单介绍下自己，并注明来自「区块链技术指北」。同时我会把你拉入微信群「区块链技术指北」。BTW，李笑来老师也加入了我们的知识星球，文末有加入方式。
+
+![](https://i.imgur.com/EFxCQjC.png)
+
+> 题图来自: © ChainONE / WeChat / chainon.io
+
+> 这里是「区块链技术指北」微信群 2018 年第 2 周（20180108-20180114）价值信息汇总。本汇总文章由群友集体贡献，感谢大家。
+
+## 文章
+
+* [李笑来的录音剪辑造假，这件事一点也不好笑](https://www.jianshu.com/p/c5da820a04c0)
+* [Three Thoughts Relevant To Crypto (A.K.A. The World’s First Global Casino)](https://hackernoon.com/three-thoughts-relevant-to-crypto-a-k-a-the-worlds-first-global-casino-45a076362512)
+    - According to Investopedia, Investing is “The act of committing money to an endeavor with the expectation of obtaining an additional income or profit.” Warren Buffett defines investing as “… the process of laying out money now to receive more money in the future.” Interestingly, you can use those same definitions for gambling. So what’s the difference between the two? I believe the fundamental difference between the two is that gambling involves random chance while investing requires RESEARCH.
+    - 投资和赌博的区别，:)
+* [知名比特币轻钱包 Electrum 曝出漏洞，请及时更新到 3.0.5](https://mp.weixin.qq.com/s/zoYD03MptGgwqA10a65frQ)
+* [全国很多网络公司都在进军区块链, 你还在等什么？](https://mp.weixin.qq.com/s/erga6Pv1tdVmgCkDVGNHtQ)
+* [Telegram 入局加密货币](http://techcrunch.cn/2018/01/10/telegram-open-network/)
+* [Testnet Is So Boring’: TorGuard Accepts Bitcoin Mainnet Lightning Payments](https://www.ccn.com/testnet-is-so-boring-torguard-accepts-mainnet-lightning-payments/)
+* [翻译《What Crypto Didn't Give Us in 2017》](https://mp.weixin.qq.com/s/NDo3f5kmtEsxIMsoH9kp6g)
+    - 去年底开始翻译该行业的咨询短新闻，这周大部分课余时间翻译了一篇长文。水平有限能力一般，本着接受指正的心态来发布。这篇回望 2017 的文章和思考应该有点启示帮助。也请行业的朋友多指正。
+* [A Crypto Miner for your Website](https://mp.weixin.qq.com/s/lFWg_6B2Hmuta1F2oixCOA)
+* [笑来老师糖果地址竟然有这么多币！](https://www.jianshu.com/p/2c61c6ff336f)
+* [关于防范变相 ICO 活动的风险提示](https://mp.weixin.qq.com/s/XILudvu47Lx4g4wrel7Img)
+* [IOST 项目评测发觉的机构新套路](https://www.jianshu.com/p/4dcd2221630f)
+* [交易全世界](https://mp.weixin.qq.com/s/Il9SSedzT80WZcaA8YUR9w)
+
+***
+
+## 讨论
+
+### bbs.chainon.io 体验
+
+1、想请大家帮个忙，回复下「区块链技术指北」社区访问速度、ping 值、用户体验和意见与建议。
+
+网址： [https://bbs.chainon.io](https://bbs.chainon.io)
+
+**回复格式：**
+
+> 运营商：
+> ping 值：建议执行 ping -c 10 bbs.chainon.io（若不懂怎么执行 ping 命令可忽略此项）
+> 用户体验：
+> 意见与建议：
+
+**如：**
+
+运营商：广州电信
+ping 值：
+--- bbs.chainon.io ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 192.502/218.115/269.316/26.122 ms
+用户体验：界面简洁，响应速度快
+意见与建议：中文搜索优化。
+
+感谢支持！
+
+微信群不方便收集，建议到 [https://bbs.chainon.io/d/16--](https://bbs.chainon.io/d/16--) 提交
+
+2、部分地区确实超时很严重，http://tool.chinaz.com/speedtest/bbs.chainon.io
+
+### [CYBEREITS 完成 5000 万元 A 轮融资 整套不动产 Token 化 打通链上链下不动产交易](https://mp.weixin.qq.com/s/B9o7ZgDYdw0UhmACjWrdYw)
+
+* 原咔咔买房团队，曾经是已经落地的项目。后来一合计，区块链的技术不正好用到这么，然后就上线了这个项目。
+* 咔咔不是 ICO 项目，你可以用 RMB 买房的。是做的资产证券化，传统天使领域。
+* [CYBEREITS 增长空间把我吓死，虽抢救过来，但是不是我理解错误了？](https://steemit.com/ico/@gaoyuze/cybereits)
+
+### 徐小平言论
+
+* 徐小平分享泄密这件事不会是他本人的一场营销吧？
+* 不大会，因为并没有宣传他的哪个项目，只是坚定看好区块链行业。而且公开宣传带 ICO 关键词的信息，是很忌讳的，后面他自己也出来解释了。
+* 以后这些都是敏感词了：爱惜欧，ic0、simu，zhongchou，daitou，各位尽量避开这些话题，多分享讨论技术、项目，另外 fanqiang 一直都是，大家注意下。腾讯爸爸在监控，各位珍重。
+
+### Steem
+
+* Steem 账号干啥的呢
+    - Steem 账号用来登录 steemit, busy, dtube, utopian 等网站的。
+* [cnsteem](https://bbs.chainon.io/d/29-cnsteem)
+
+### 国内目前对虚拟货币监管的政策
+
+* [七部门关于防范代币发行融资风险的公告](http://www.miit.gov.cn/n1146290/n4388791/c5781140/content.html)
+* [证券区块链的应用探索、问题挑战与监管对策](http://www.cbrc.gov.cn/chinese/files/2017/355591F79E5743CE86F0F765F0573454.pdf)
+* 监管政策在政府网站上搜索，其他的以政府网站公布的为准。
+* 简单讲就是国家要斩断 ICO，关闭人民币直接交易加密货币通道，至于近期传出的矿场问题，国家暂时还没有相关政策出台
+* ICO 他们都跑到境外去了，然后在国内开展工作
+* 要我说：是禁止不掉的，最终只能是逐步达成博弈平衡，或者旧体系被迭代
+* 国内禁止资金外流，所以币安只做币币交易
+* 币币交易，场外其实还是有蛮高政策风险
+* 场外平台，目前我知道较为靠谱的，是 OTCBTC
+* 如果场外有风险，大家的币就没法变现了吧，成本还是蛮高的。
+* 加密货币到人民币之间的转换是没有任何问题的，国家是禁不掉的，反而给其他国家肥肉。因为没法直接通过人民币买卖以太坊，可以通过其他途径，目前主要是场外（OTC）、USDT、BITCNY。OTCBTC 是点对点，和人进行交易。 USDT 是 Tether 公司推出的基于稳定价值货币美元（USD）的代币。使用 USDT 流程：人民币--->USDT--->加密货币。BITCNY 是 BitShares 平台上的一种合约，可以通过 BitShares 钱包转账和交易。中文叫做比特元，本质上它是在比特股系统上的一种合约。1BITCNY = 1 人民币，1 BITCNY 的持有者能在任意时候从市场上换取价值 1 元人民币的比特股（BTS）。使用 BITCNY 流程：人民币--->BITCNY--->加密货币。至于什么交易所支持，可以自行研究下。
+* 法币兑换 bitcny 有溢价吗
+    - 主要是中间承兑商的手续费
+* 现在场外溢价都很高
+* OKEx 交易所支持法币交易
+* 火币上面可以用法币买比特币，然后再进行币币交易。另外OTCBTC现在不仅有场外交易，也有币币交易了
+    - 火币其实还是 OTC，点对点，跟人进行交易
+
+### [区块链技术与其在旅游行业的应用](https://blog.ymfe.org/the-use-of-block-chain-technology-in-tourism-industry/)
+
+* 旅游行业搞区块链感觉有点牵强，我觉得租房，二手房买卖特别适合区块链的适用场景。
+* 二手房交易，流程特别麻烦，用区块链保障交易。
+* 目前很多流程都是线下的  政府定的政策，我还没想明白在交易环节使用区块链。
+* 比如说租房，房源信息，和押金经常容易被坑。把房源信息写到区块链上，押金也走区块链。通过智能合约进行约束。
+
+### [不要试图挑战人性](https://mp.weixin.qq.com/s/_3QLtKxVLOwvzjlSprGKVQ)
+
+* 我感觉对待一个新鲜事物，只要有利于社会的进步，有很多人都认同，就可以去尝试参与一下，这个里面包含的东西，并不是一句话，一篇文章就能下结论
+* 主要是现在 ICO、私募市场太混乱了，多点这种文章给普通人降降火也好，不然一窝蜂冲进来就是送钱
+* 不能和实体挂钩是痛点，不能创造价值，均为炒作的对象
+* 这东西的价值不用说了吧，那么多巨头不是傻子，非要进来凑个热闹集体造粪
+* 落地少是个痛点，需要时间打磨，接下来的几年，客观应用场景的出现才有意义。
+
+### EOS 空投
+
+* [震惊：一个朋友被骗走将近 400 万的区块链资产](https://mp.weixin.qq.com/s/LNloEsGHzw2_Bgz14vVfQQ)
+* 趁着昨天 EOS 在韩国发布会，骗子做了个钓鱼网站声称空投，钓鱼网站要求输入私钥，结果中招。记住一条，除了钱包之外，其他网站没有理由需要你输入私钥
+* [区块链资产安全攻略](https://mp.weixin.qq.com/s/zwRFYTmjljHzUYKcqJjDWQ)
+* 昨天还说空投的事儿 今天就有人被骗这么多。
+* 那个网站我昨天看见了，一看要填私钥，就知道是骗子了，然后去电报群了看，还是有人中招。
+
+### 监管
+
+* 不说多了，不放心交易所，把数字货币放到自己钱包，然后该干嘛干嘛。我的看法是交易所总想得到办法的，有买卖就有平台，不会消失。况且还有这么多去中心化交易所。
+* 我倒是不担心币币交易，我担心法币通道。
+* 国家是不太可能禁止得了数字货币交易的，别忘了数字货币的初衷。
+* 所以还是提升自己，多探讨和分享区块链技术吧。
+* 只能说目前国家的法律很难做风险约束，被骗了也基本无法维权。
+* 没有百万货币资产在数字货币的，不用担心什么法律风险。
+* 国家一方面扶持区块链技术，另一方面打击加密货币交易以及 ICO，其中的关系非常微妙。
+* 区块链技术，能否不使用加密货币交易、融资，单独在传统企业的框架下运营？不过，直觉告诉我，区块链本身是去中心化的。如果不能搭上全世界这张网，那么单机版的区块链，并不能产生信用。
+* 当然可以啊，除了公链，还有联盟链、私有链。以后的场景很有可能是，某些企业联合，结合业务场景，使用区块链技术，让数据产生价值，这需要政府背书。
+* 私有链不是相当于被高度控盘吗？
+    - 在中国做事离不开政府的，那去中心化很有可能是相对的去中心化。链圈和币圈完全是两个世界啊。区块链不一定需要产生代币的，而且现在的项目大多有代币，然后大多数代币都没有价值的。
+* 区块链本质，还是这个去中心的区块，节点足够多、足够分散，才能够实现信用的价值。
+* 如果腾讯自己搞了个链，然后全节点运行在自己的机房里，那不产生去中心的信用，还是腾讯自己的信用背书。如果，腾讯链运行在每个人的 QQ 上。
+* [声明：腾讯区块链从未与任何机构就代币发行或交易进行合作](https://mp.weixin.qq.com/s/HpMz6rt0M2rJpgfyLHU07g)
+* 好，大致理顺了，确实可以脱离代币融资存在。
+    - ICO 只是融资的一种方式，极大的加速了融资。而传统 VC 也照样在运作啊。
+    - 至少应用层的链，不存在被禁止的可能了，只要不发行 ICO 融资
+* 比如刚才被踢的那个小伙伴，发了个产品，币乎，别人就没有 ICO，照样在打磨产品。以德上币乎代币 KEY 的交易都是自发的，并且他们也没有暂时上交易所的诉求。还有另一位朋友提到的币乎跟传销类似，目前哪个产品初期不是这样变相的营销，[Facepalm]。了解一个产品最好的方式就是去看下白皮书哈。
+* 同感，币乎原先我没好感，14 万 KEY 时没注册，后来他们把李俊等人拉过来授课，我发现这个团队还是在做事，打磨品牌，扩大影响力。
+* 聊聊国家对区块链的监管，一旦出现，怎么办？
+
+> 蒙戴尔不可能三角告诉我们：1、独立的货币政策（印钞权）2、汇率稳定 3、资本的自由跨国流动。
+
+> 任何国家，只能三选其二，否则就会被市场分分钟教做人……（索罗斯们会迅速行动起来）进一步看：因为区块链货币的存在，资本自由流动实质上已经打破了，且不可逆；于是，最终国家是选择放弃印钞权、还是汇率稳定呢？不知道。但有一点是肯定的：国家必然会首先去努力维持现状，也就是保住印钞权；于是持有 BTC 非法、商家使用 BTC 非法，是很可能的事情（虽然实质上仍然不可逆，但决策机构有可能要试过之后，被市场教训后才会意识到不可行）。于是，对于 Mixin，短期我确实没太想清楚，会怎么走，会出现一堆不同领域的 Steem 吗？我的策略：面对一个实质上不可逆的、降低交易成本的金融创新，我只能说：长期持有，等待政策被市场打败（如果有），藏好你的私钥，选好去中心化的钱包，耐心等待。
+
+### [99.9% 的人应该远离区块链](https://mp.weixin.qq.com/s/blRRw3k_D70498gXKx2K2A)
+
+* 我觉得那篇 99% 的文章主要观点是“公有链”没有未来，因为众所周知的原因。这个观点没有价值。这篇文章基本上是在宣泄情绪。
+* 本质上这是一种中心化和去中心化的较量。
+* 本质上是新兴力量对原有力量的对抗，没有什么去中心化。每一股力量为了对抗原有力量，都是借说一个去中心化的故事。
+* 这篇文章只是在笼统的反对组织形式的去中心化，其反对理由不是说这个事情本身不好，而是在说1. 中心化组织不喜欢 2. 他也不知道去中心化的结果会怎样。等于没有反驳。
+* 看看中国历代王朝，所谓分权和去中心化都是幌子。
+* 还是多讨论下“去中心化”这个概念本身是什么意思吧。其实现有的概念都模糊不清。
+* V 神有一段神解读，他认为现有的概念都很乱套，他自己分了个类别，他觉得最牛逼。
+* 其实 EOS 也不是彻底的去中心化。
+* BM 之前的两个项目（BTS、Steem）都不是。
+* 只有 ETH 一直在坚守。这个和 V 神的哲学理念分不开。别看他是技术天才很逗逼的穿一些奇怪的 T 恤，我觉得他还是个哲学家。
+* 数字货币的市场谁会胜出，要看项目背后的理念。我觉得这个市场最后就是理念之争。最合适的理念指向人类未来最先进的合作方式。当然理论再先进也要看形势，马列主义在中国才发扬光大，在西方就是不行。我觉得这个角度去做推演是一个看（平台类）币的比较好的思路。
+* eth 2.0 的设计叹为观止。我看了两遍演讲视频觉得还是觉得只能看懂一点点，但是不明觉厉。简单的说 V 神在弄一个平行宇宙。一套区块链，两个系统。
+* 现在很多区块链的项目的市场营销能力也是叹为观止的。
+* 这个世界刚刚从一个普通投资者只能投资经历了天使 PE 投 行IPO 层层官卡的发行股票的项目，马上跃进到可以投资任何项目……
+* 你说这个是红利也好，是混乱也好，但是不可否认赌徒，投资者的范围扩大了。原来骗子不够用的市场状况也发生了明显的改善。
+* 原来几百万跑断腿，现在几千万抢着来。所以嘛，还是要看技术本身和背后的理念。
+
+***
+
+## 工具
+
+* [从个人需求而来的小工具](https://github.com/icepy/blockchain-navigate-code/issues/1)
+* [Blockchain Navigate - 区块链导航](https://bbs.chainon.io/d/25-blockchain-navigate)
+* [Cryptokitties 加密猫搜索工具](http://jiamimao.wanbuzhe.com/)
+
+***
+
+## 资源
+
+* [新一轮币问邀请码进行时](https://bbs.chainon.io/d/14-bitask)
+* [EtherAddressLookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
+* [Mysterium foundation](https://mysterium.network/)
+* [项目白皮书 GitHub Repo](https://github.com/dbarobin/blockchain-whitepaper)
+* [CryptoList](https://github.com/coinpride/CryptoList)
+* [百度开放 BAAS 服务](https://chain.baidu.com/)
+* [密码（一 凯撒移位 · 阿拉伯人破之）](http://www.ximalaya.com/2039067/sound/63879638/)
+* [区块链公司列表_2017-10-05.xlsx](https://git.io/vNcfe)
+* [Binance_WhitePaper_cn.pdf](https://git.io/vNcfJ)
+* [mysterium-whitepaper.pdf](https://git.io/vNcfU)
+* [写给人类的机器学习.pdf](https://git.io/vNcfk)
+
+***
+
+## 活动
+
+* [DoraHacks&ValueBank 区块链 Hackathon@北京](https://mp.weixin.qq.com/s/zIp8Q2fEJ6EtOZqcWXKPEw)
+* [活动报名 |【老虎证券 & 比特派钱包 --- 比特币和区块链概念股】](https://mp.weixin.qq.com/s/aMtCFM7iEdLcImWF1QmOZg)
+    - 老虎证券和比特派钱包联手举办的活动，北京的朋友可以关注下。
+    - 最近貌似没有，上海、广州都比较少，北京、深圳、杭州较多，特别是北京
+* [EOS.IO Special Announcements in Seoul, South Korea](https://www.youtube.com/watch?v=zE_QRexLeco)
+
+***
+
+## Q&A
+
+### 群主是链圈的还是币圈的，给大家点建议
+
+* 区块链底层技术的提升，会加速区块链应用场景的实现。以后几年，有戏看了。
+* [「开篇」区块链技术指北](https://mp.weixin.qq.com/s/Kd8LzZJi-MHdqD5I5GYDNw)
+* 个人建议：
+    - 如果不是特别看好的项目，谨慎 ICO，况且现在 ICO 成本已经很高了。
+    - 好的项目一定是落地的，经过应用场景和用户检验的，如果只是一味地传销，而没有产品产出，最终只会淘汰。产品也是需要时间打磨的。
+    - 投资基础链、优质应用链、优质交易所代币，这些才有可能给你带来极高的收益，项目不用太多，参考巴菲特的价值投资原则。
+    - 剩下的就是好好工作，好好生活，如果有能力可以研究区块链技术，或者有相应的工具产出。新兴行业机会非常多，就看自己能否抓住。
+* 现在的虚拟货币交易处于博傻行情，后面可能是一地鸡毛。
+* 看下真格基金徐小平先生的布局就知道了，可以看下这些投资人的逻辑是什么。
+* [徐小平梭哈区块链？其实他入场比你们大部分人都要早！](https://mp.weixin.qq.com/s/Y81jAni5P-1rvAQDvZy9YA)
+* 现在什么公司搭上区块链，股价就要飞一波。
+* [关于区块链的一则声明](https://mp.weixin.qq.com/s/JN3cRrpiGxoo6_sQFA397Q)
+    - Fenng 在用心打磨产品。
+    - Fenng 很早就是数据库专家，而对区块链，他是这样看的，值得反思。
+* 近日某互联网前辈就区块链去中心化问题有如下的言论：
+    - 完全去中心化的技术一定是小众且难以商业化的，技术人的理想，与赤裸的人性和利益对抗，从来没赢过，以后也不会。
+
+### 群主怎么看币安这样的交易平台
+
+* 币安用得不是特别多，但就使用经验来说，体验是不错。币安确实是一匹黑马，目前最新排名全球第一。作为火爆的交易所，其代币 BNB 自然就有价值。体现在优惠抵扣币安平台交易手续费、回购机制、去中心化交易燃料、上币费用等。怎么样理解代币呢，简单讲可以理解成其产业生态的股票。但币安存在的问题，一是安全问题，这是所有交易所的核心命题；二是系统架构怎么样支撑海量用户和高并发交易，之前网站卡顿、白天维护、暂停用户注册，这些都说明了网站出现了瓶颈。供参考。感兴趣的可以看下白皮书。
+* 币安的出现代表了币圈的集中爆发。我有十几个交易员，对币安的体验感赞不绝口。
+* 关于交易所代币，我的看法是： 用户迁移成本低， 如果有其它交易所性能更好，币种更多，手续费更低， 用户是很容易转移的。所以交易所代币价格可能会波动非常大，投资需谨慎。关于交易所，还有一个很重要的参数，挂单的深度。
+* 对，功能局限在交易所本身，这跟去中心化交易所 0x 就不同了，0x 是通用代币
+* 交易所更迭的速度很快。
+* 嗯，去中心化将来是趋势。
+* 关于去中心化交易所，可以关注下 DEW。DEW 还是个谜。
+* 现在成熟的去中心化交易所只有 BTS 吧。
+* 大错特错，交易所是呈现马太效应的领域，大者恒大。交易深度几乎决定了双边的用户体验；就像比微信功能更强大的 x 信，a 信。几乎没有崛起机会。交易所是头部市场。DEW 是差异化的交易所，与币安是差异化竞争，提供美股合约、其它衍生品交易。以这两天的交易量估算，当前币安的市盈率在7左右。增长率也很可怕哦，几乎是板上钉钉的翻倍品种；我配置了总资产的 20% 在币安上。DEW 12%，我期待他的金融合约交易，这能够极大的增加区块链世界可交易的边界。
+* 去中心化交易所是什么意思？
+* 我的理解，就是没有客服，没有官方推广的交易所。
+* 全靠社区内的玩家自发贡献。
+
+### 以德
+
+* [以德（EtherDelta）以太坊交易系统简介](http://ethfans.org/posts/EtherDelta)
+* 基于以太坊的去中心化交易所，我自己还没体验过，体验过的朋友可以说说。
+* ERC20 代币最多的交易所，没有账号概念。我用过，体验不是很好。
+* 可以看下 Bitcoin Forum 上的讨论，[https://bitcointalk.org/index.php?topic=2302529](https://bitcointalk.org/index.php?topic=2302529)
+* 用户把 ETH 及代币先打到上面合约，然后合约负责撮合交易？
+    - 不是，买卖双发直接发起交易，选中哪笔，交易哪笔。
+* 相当于所有 ERC20 代币，都可以拿到上面买卖了吧？
+    - 可以这样理解，比如币乎（KEY）没有上交易所，但是可以在以德交易。
+* 也挺好， 有它的价值， 合约代码开源，只要合约没 Bug 的话，不用担心被盗。适合小币种，挺好。
+* 以德出过两次问题吧。一次因为一个合约名字被写入恶意代码 还有一次 DNS 污染吧。
+* [以德交易所受黑客攻击，去中心化≠绝对安全](http://dy.163.com/v2/article/detail/D66OF3110511PITA.html)
+* [以德交易所DNS遭黑客劫持 已损失超过266万美元](http://www.loodns.com/zz1138.html)
+* 让用户直接操作智能合约不太现实，还需要做个网站，网站的话，就不可避免受到攻击。
+* 看了上面这 2 个事故，都是外围问题，不是智能合约的 Bug。
+* 赞，有入口就会提高攻击的概率，特别是网站。其实网站就是一个中心化系统。
+* 作为网站，最好还是借助第三方专业机构，构建安全。
+
+### 请教个问题，为啥最近云养猫，比如网易的那个区块链猫会开始火起来？
+
+* 没有一个合适的理由，哪里种得来那么多韭菜。
+* 那为啥不是别的？可以云养狗啊，说不定网易抄完之后，再抄个猫就不合适了，动物那么多。
+* 云养猫是物权的概念，可以应用到游戏装备等。同时有一个新的 eip erc721 非可替换代币，非同质币。比如，你的以太和我的以太是一样的可以互换的，但是你的猫和我的猫不一样。属性不一样，基因不一样。
+* 如何衡量一个只猫的价值？以及增值是通过何种方式产生的。
+    - 大家的共识
+* 猫的价格在跌，gen0 猫上限 5 万个，他们公司靠卖 gen0 猫、生猫手续费、买卖猫交易手续费赚钱。目前编号在前 100 的猫都比较贵。
+
+***
+
+「区块链技术指北」同名 **知识星球**，二维码如下，欢迎加入。BTW，**李笑来老师也加入了**。
+
+![区块链技术指北](https://i.imgur.com/RBmpxTL.png)
+
+「区块链技术指北」相关资讯渠道：
+
+> 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
+> 官网，[https://chainon.io](https://chainon.io)
+> 官方博客，[https://blog.chainon.io](https://blog.chainon.io)
+> 官方社区，[https://bbs.chainon.io](https://bbs.chainon.io)
+> Telegram Channel，[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
+> Telegram Group，[https://t.me/bcage](https://t.me/bcage)
+> Twitter，[https://twitter.com/bcageone](https://twitter.com/bcageone)
+> Facebook，[https://www.facebook.com/chainone.org](https://www.facebook.com/chainone.org)
+> 新浪微博，[https://weibo.com/BlockchainAge](https://weibo.com/BlockchainAge)
+
+同时，本系列文章会在以下渠道同步更新，欢迎关注：
+
+> 「区块链技术指北」同名微信公众号（微信号：BlockchainAge）
+> 官方博客，[https://blog.chainon.io](https://blog.chainon.io)
+> 知乎专栏，[https://zhuanlan.zhihu.com/robinwen](https://zhuanlan.zhihu.com/robinwen)
+> 简书，[https://www.jianshu.com/c/a37698a12ba9](https://www.jianshu.com/c/a37698a12ba9)
+> Steemit，[https://steemit.com/@chainone](https://steemit.com/@chainone)
+> Medium，[https://medium.com/@chainone.org](https://medium.com/@chainone.org)
+> 币乎，[https://bihu.com/people/345886](https://bihu.com/people/345886)
+> 掘金，[robinwen@juejin.im](https://juejin.im/user/5673ccae60b2260ee435f89a/posts)
+
+原创不易，读者可以通过如下途径打赏，虚拟货币、美元、法币均支持。
+
+> BTC: 1HRZ7og2KjqpP3v3jskgueNu64kJrFU8GD
+> ERC20 Token: 0x5c8DEB48dC08b5dC60A0290B718690a801509Dd1
+> PayPal: [https://www.paypal.me/robinwen](https://www.paypal.me/robinwen)
+> 微信打赏二维码
+
+![Wechat](https://i.imgur.com/hKyy9lI.jpg)
+
+–EOF–
+
+版权声明：[自由转载-非商用-非衍生-保持署名（创意共享4.0许可证）](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
