@@ -21,7 +21,6 @@ tags:
 > 题图来自: © ChainONE / Original / chainon.io
 
 ## 0x00 背景
-***
 
 早在 6 月 7 日，[kesar](https://github.com/kesar) 在 [EOSIO](https://github.com/EOSIO/eos) 提交了一个编号为 [#3882](https://github.com/EOSIO/eos/pull/3882) 的 PR，但直至目前仍处于未合并状态。团队做一些开发需要取 EOS 链上数据，但无法直接从 EOS 区块链中获取。#3882 提供 EOS 链上数据导入 MySQL，可以很方便的读取历史数据。但问题来了，该 PR 未合并，EOSIO 也没有一个 sql_db_plugin 相关的 branch 或 tag，所以无法使用 git 自动合并。
 
@@ -191,12 +190,10 @@ account: eosio
 ```
 
 ## 0x03 小结
-***
 
 目前 #3882 暂未合并，具体原因未从得知。EOS 链上数据和传统的关系型数据库结合，将会大大降低开发者成本。待 #3882 merge 之后，读者将会更便利的使用到这个功能。
 
 ## 0x04 参考
-***
 
 * [1] SOCI (2018-07-06). SOCI Installation. Retrieved from [http://soci.sourceforge.net/doc/master/installation](http://soci.sourceforge.net/doc/master/installation).
 * [2] 太上绝情 (2016-07-14). soci-mysq 编译. Retrieved from [https://blog.csdn.net/bjrxyz/article/details/51912676](https://blog.csdn.net/bjrxyz/article/details/51912676).
