@@ -21,14 +21,12 @@ tags:
 > 题图来自: © ChainONE / Original / chainon.io
 
 ## 快速构建 Fullnode
-***
 
 截止目前，EOS 主网区块数量达到 1093 万，区块数据达到数十 G，备份数据也达到了 16G。如果从头开始同步区块数据，需要数天的时间。随着区块不断累加，同步的时间越来越长。如何快速构建 Fullnode，这成为每一个 BP、DApp 开发者等用户需要考量的问题。
 
 **本文给出根据区块备份数据快速构建 Fullnode 的方法。**
 
 ## 备份服务
-***
 
 这里给出两个 EOS 区块数据备份服务，一是由 **EOS Store** 提供，二是由 **EOS Cleaner** 提供。
 
@@ -46,7 +44,6 @@ $ wget https://s3-ap-northeast-1.amazonaws.com/eosstorebp/2018-08-13-12_30_20.ta
 EOS Cleaner 提供的服务比较友好，访问 [https://s3-ap-northeast-1.amazonaws.com/data.eos/index.html](https://s3-ap-northeast-1.amazonaws.com/data.eos/index.html) 可以看到一个文件下载链接，如果不想本地下载，浏览器右键拷贝下载链接即可。
 
 ## 编译
-***
 
 本文以 `EOS-Mainnet` 为例。
 
@@ -64,7 +61,6 @@ $ ./eosio_build.sh
 关于如何加速 GitHub，可以参考 [GitHub 加速最佳实践](https://dbarobin.com/2017/01/24/github-acceleration-best-practices)。
 
 ## 启动
-***
 
 接着我们启动 nodeos，主网 Fullnode 相关的配置文件可以访问如下链接下载：
 
@@ -100,7 +96,6 @@ $ bash start.sh
 ```
 
 ## 测试
-***
 
 使用如下命令查看同步进度。
 
@@ -109,7 +104,6 @@ $ /data/eos/build/programs/cleos/cleos get info
 ```
 
 ## 小结
-***
 
 快速构建 Fullnode 对 BP、DApp 开发者等都非常有帮助，希望本文能够给读者一个指引。
 
