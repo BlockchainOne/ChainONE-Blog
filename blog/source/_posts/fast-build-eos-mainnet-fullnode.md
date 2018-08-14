@@ -1,14 +1,14 @@
 ---
-published: true
-author: Robin Wen
-layout: post
 title: "快速构建 EOS 主网 Fullnode"
-category: Blockchain
-summary: "截止目前，EOS 主网区块数量达到 1093 万，区块数据达到数十 G，备份数据也达到了 16G。如果从头开始同步区块数据，需要数天的时间。随着区块不断累加，同步的时间越来越长。如何快速构建 Fullnode，这成为每一个 BP、DApp 开发者等用户需要考量的问题。本文给出根据区块备份数据快速构建 Fullnode 的方法。"
+date: 2018-08-13 23:59:27
+categories:
+- Blockchain
 tags:
 - Blockchain
 - EOS
 ---
+截止目前，EOS 主网区块数量达到 1093 万，区块数据达到数十 G，备份数据也达到了 16G。如果从头开始同步区块数据，需要数天的时间。随着区块不断累加，同步的时间越来越长。如何快速构建 Fullnode，这成为每一个 BP、DApp 开发者等用户需要考量的问题。本文给出根据区块备份数据快速构建 Fullnode 的方法。
+<!-- more -->
 
 `文/温国兵`
 
