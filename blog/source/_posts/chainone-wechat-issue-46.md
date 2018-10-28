@@ -1,6 +1,6 @@
 ---
-title: "区块链技术指北（ChainONE）社区微信群价值信息汇总第 45 期"
-date: 2018-10-21 18:39:27
+title: "区块链技术指北（ChainONE）社区微信群价值信息汇总第 46 期"
+date: 2018-10-28 18:39:27
 categories:
 - WeChat
 tags:
