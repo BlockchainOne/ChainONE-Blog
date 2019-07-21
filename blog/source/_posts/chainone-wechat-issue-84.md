@@ -1,6 +1,6 @@
 ---
-title: "区块链技术指北（ChainONE）社区微信群价值信息汇总第 83 期"
-date: 2019-07-14 18:39:27
+title: "区块链技术指北（ChainONE）社区微信群价值信息汇总第 84 期"
+date: 2019-07-21 18:39:27
 categories:
 - WeChat
 tags:
