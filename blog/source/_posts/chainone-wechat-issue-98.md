@@ -1,5 +1,5 @@
 ---
-title: "区块链技术指北（ChainONE）社区微信群价值信息汇总第 98 期"
+title: "区块链技术指北（ChainONE）社区价值信息汇总第 98 期"
 date: 2019-10-27 18:39:27
 categories:
 - WeChat
