@@ -1,6 +1,6 @@
 ---
-title: "区块链技术指北（ChainONE）社区价值信息汇总第 109 期"
-date: 2020-01-12 18:39:27
+title: "区块链技术指北（ChainONE）社区价值信息汇总第 110 期"
+date: 2020-01-19 18:39:27
 categories:
 - WeChat
 tags:
@@ -16,7 +16,7 @@ tags:
 
 > 题图来自: © ChainONE / WeChat / chainon.io
 
-> 这里是「区块链技术指北」2020 年第 2 周（20200106-20200112）价值信息汇总。本汇总内容由群友集体贡献，感谢大家。
+> 这里是「区块链技术指北」2020 年第 3 周（20200113-20200119）价值信息汇总。本汇总内容由群友集体贡献，感谢大家。
 
 ***
 
@@ -29,38 +29,36 @@ tags:
 
 ## 文章
 
-* [预测 2020 | Harmony 首席技术官兰荣坚：公链走向 PoS 大势所趋，隐私技术将是今年大热点](https://bbs.chainon.io/d/5067)
-* [What will happen to cryptocurrency in the 2020s](https://bbs.chainon.io/d/5072)
-* [CW 澳本聪发文抨击比特大陆：他们误导了整个社区](https://bbs.chainon.io/d/5073)
-* [为 2019 年的密码世界划重点](https://bbs.chainon.io/d/5076)
-* [Bitcoin 伊朗比特币价格暴涨？真实情况可能恰恰相反](https://bbs.chainon.io/d/5077)
-* [Introducing ZRX Portal](https://bbs.chainon.io/d/5078)
-* [動手實做零知識](https://bbs.chainon.io/d/5081)
-* [How gas works on the Libra blockchain](https://bbs.chainon.io/d/5082)
-* [共识网络 BFT-SMaRt：理论与实践](https://bbs.chainon.io/d/5085)
-* [Blockchain 最佳实践：创建成功的区块链应用程序](https://bbs.chainon.io/d/5086)
-* [比特币大涨背后：如何帮助印度实现 5 万亿美元的经济规模？](https://bbs.chainon.io/d/5087)
-* [Blockchain 区块链开发现状：花了几千万的链，就等程序员使用了](https://bbs.chainon.io/d/5088)
-* [Blockchain 聊聊区块链中的几个技术点](https://bbs.chainon.io/d/5089)
-* [An Introduction to the Efficient Market Hypothesis for Bitcoiners](https://bbs.chainon.io/d/5090)
-* [chai.money](https://bbs.chainon.io/d/5091)
-* [The Origin of BitShares](https://bbs.chainon.io/d/5092)
-* [纯币，积分，股票，三种简单易行的 token 估值模型](https://bbs.chainon.io/d/5093)
-* [How Zero Knowledge Proofs Are Changing Blockchain (in non-technical terms)](https://bbs.chainon.io/d/5094)
-* [Crypto Commons](https://bbs.chainon.io/d/5095)
-* [Currency 观点 | 货币的信息理论](https://bbs.chainon.io/d/5096)
-* [【万向区块链蜂巢学院第十二期】刘毅：从 Web2.0 到 Web3.0](https://bbs.chainon.io/d/5097)
+* [動手實做零知識 — circom](https://bbs.chainon.io/d/5098)
+* [Validated, staking on eth2: #1](https://bbs.chainon.io/d/5099)
+* [Polkadot’s Messaging Scheme](https://bbs.chainon.io/d/5102)
+* [Blockchain 区块链周报：国务院总理李克强强调大力发展数字经济；北京本周公布首批监管沙箱项目；央行数字货币顶层项目已完成](https://bbs.chainon.io/d/5104)
+* [DeFi 发展受限，下一阶段该如何破局？](https://bbs.chainon.io/d/5105)
+* [Mastering the Mempool: Your Intro to In-Flight Transactions](https://bbs.chainon.io/d/5109)
+* [Introduction to Multisig Contracts](https://bbs.chainon.io/d/5111)
+* [BFT-SMaRt：用 Java 做节点间的可靠信道](https://bbs.chainon.io/d/5113)
+* [澳本聪要拿关键证据自证中本聪！BSV 一夜成为全球第四大加密货币](https://bbs.chainon.io/d/5115)
+* [币安与 Coinbase 的稳定币之战](https://bbs.chainon.io/d/5116)
+* [Stateless Ethereum: Binary Tries Experiment](https://bbs.chainon.io/d/5117)
+* [2020 年推出的十大 PoS 网络](https://bbs.chainon.io/d/5118)
+* [Harmony2020：跨境金融、发展进程公开、可审计隐私](https://bbs.chainon.io/d/5119)
+* [Steering committee now governs Libra technical development](https://bbs.chainon.io/d/5120)
+* [Trezor Model T Is Fully Integrated Into the Official Monero Client](https://bbs.chainon.io/d/5123)
+* [Polkadot 和 Kusama 存储和控制账户的科普](https://bbs.chainon.io/d/5124)
+* [Crypto 从李子柒现象看数字货币支付的未来](https://bbs.chainon.io/d/5125)
+* [Mining “国家级矿池” 入场！矿工在乌兹别克斯坦不再 “地下”，政府批准交易所下周上线](https://bbs.chainon.io/d/5126)
 
 ## 资讯
 
-* [警惕：Bitfare.Io 有严重问题，请不要使用该交易所的任何服务](https://bbs.chainon.io/d/5068)
-* [Revuo Monero Issue 41: December 26, 2019](https://bbs.chainon.io/d/5069)
-* [Lightning on Hodl Hodl](https://bbs.chainon.io/d/5070)
-* [Week in Ethereum News January 5, 2020](https://bbs.chainon.io/d/5071)
-* [Etherplan Metrics for 2019](https://bbs.chainon.io/d/5079)
-* [Kyber Ecosystem Report #10](https://bbs.chainon.io/d/5080)
-* [Announcing The Generalized MetaTransaction Contest](https://bbs.chainon.io/d/5083)
-* [Announcing the Nervos Ecosystem Grants Program](https://bbs.chainon.io/d/5084)
+* [Kusama Upgrade Bulletin (1032-1037)](https://bbs.chainon.io/d/5100)
+* [Revuo Monero Issue 42: January 3-10, 2020](https://bbs.chainon.io/d/5101)
+* [Week in Ethereum News January 12, 2020](https://bbs.chainon.io/d/5103)
+* [Announcing Liquid Support For BTCPay Server](https://bbs.chainon.io/d/5108)
+* [Reconfiguration support is live on testnet](https://bbs.chainon.io/d/5110)
+* [Nervos CKB Development Update #27](https://bbs.chainon.io/d/5112)
+* [Introducing Octopus Trade on SWFT Blockchain](https://bbs.chainon.io/d/5114)
+* [Revuo Monero Issue 43: January 10-17, 2020](https://bbs.chainon.io/d/5121)
+* [Cosmos (ATOM) is now available on Coinbase](https://bbs.chainon.io/d/5122)
 
 ## 讨论
 
@@ -68,12 +66,12 @@ NULL.
 
 ## 资源
 
-* [比特币入门](https://bbs.chainon.io/d/5066)
+* [EOS-VC-Grant](https://bbs.chainon.io/d/5106)
+* [The EOSIO Testnet](https://bbs.chainon.io/d/5107)
 
 ## 工具
 
-* [freqtrade](https://bbs.chainon.io/d/5074)
-* [tron-api](https://bbs.chainon.io/d/5075)
+NULL.
 
 ## 活动
 
