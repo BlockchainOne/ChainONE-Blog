@@ -152,6 +152,14 @@ NULL.
 
 ![Wechat](https://cdn.dbarobin.com/SzoNl5b.jpg)
 
+***
+
+我是区块链罗宾，博客 **[dbarobin.com](https://dbarobin.com/)**
+
+如果您想和我交流，我的微信: **Wentasy**
+
+![区块链技术指北公众号](https://cdn.dbarobin.com/w0wignb.png)
+
 –EOF–
 
 版权声明：[自由转载-非商用-非衍生-保持署名（创意共享4.0许可证）](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
