@@ -1,0 +1,155 @@
+---
+title: "区块链技术指北（ChainONE）社区价值信息汇总第 127 期"
+date: 2020-05-17 18:39:27
+categories:
+- WeChat
+tags:
+- Blockchain
+- WeChat
+---
+区块链技术指北社区（ChainONE Community），社区的初衷是 构建优质社区，传播和分享区块链技术，探讨潜在价值，连接技术和商业。区块链技术指北社区（ChainONE Community）的 共识原则：自由，开放，平等，协作，分享。我们希望聚合众人的力量构建一个区块链技术社区。在有限的生命里 持续做有价值 的事情。优质产出，我们对社区的产出有严格苛刻的高标准要求。多中心化。去中心化永远只是个相对理论概念，究竟什么样的程度才算是去中心呢？我们希望社区每一位成员，每一位读者都是一个平等的节点，都可以为社区贡献自己的力量。「区块链技术指北」 最初的内容定位：常见价值虚拟货币的相关教程、区块链技术前沿信息、区块链技术好文品鉴和分享、区块链技术相关工具、区块链技术分析、区块链项目跟踪等。我们社区以后的内容还会包括但不限于：区块链资源共享、开源翻译计划、开源创作计划等。
+<!-- more -->
+
+> 如果对我感兴趣，想和我交流，我的微信号：**Wentasy**，加我时简单介绍下自己，并注明来自「区块链技术指北」，同时我会把您拉入微信群。
+
+![](https://cdn.dbarobin.com/EFxCQjC.png)
+
+> 题图来自: © ChainONE / WeChat / chainon.io
+
+> 这里是「区块链技术指北」2020 年第 20 周（20200511-20200517）价值信息汇总。本汇总内容由群友集体贡献，感谢大家。
+
+***
+
+**本站推广**
+
+币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易。
+
+> 币安注册: https://www.binancezh.com/cn/register/?ref=11190872
+> 邀请码: **11190872**
+
+## 文章
+
+* [Bitcoin 比特币成为技术的旗帜](https://bbs.chainon.io/d/5684)
+* [著名投资基金 Paradigm 这样向开明的怀疑者布道比特币](https://bbs.chainon.io/d/5685)
+* [匿名支付方案 Omniring 简介](https://bbs.chainon.io/d/5686)
+* [数字托管平台为何需要签名机？了解 RenrenBit 推出的可信签名机](https://bbs.chainon.io/d/5687)
+* [钱包悖论 —DAPP 发展中的拦路虎](https://bbs.chainon.io/d/5688)
+* [Light Nite Launches Liquid-Powered Gaming NFTs](https://bbs.chainon.io/d/5689)
+* [Introduction to Ethereum 2.0](https://bbs.chainon.io/d/5690)
+* [Streamlet: A Simple Textbook Blockchain Protocol](https://bbs.chainon.io/d/5691)
+* [Your Money is Losing its Value – Inflation](https://bbs.chainon.io/d/5692)
+* [What is Polkadot? A Brief Introduction](https://bbs.chainon.io/d/5695)
+* [Bitpie “DeFi Star ” — #4 Uniswap](https://bbs.chainon.io/d/5697)
+* [Introducing Tropic Square — Why transparency matters](https://bbs.chainon.io/d/5699)
+* [Bitcoin 深入剖析实现比特币减半的十五行代码](https://bbs.chainon.io/d/5700)
+* [币安、EOS、波场等 11 家企业集体诉讼案，律师透露最新细节](https://bbs.chainon.io/d/5701)
+* [Bitcoin 比特币减半完成，没看到价格上涨的你失望了吗？](https://bbs.chainon.io/d/5702)
+* [Blockchain 大话区块链和比特币的技术原理](https://bbs.chainon.io/d/5703)
+* [明天迎来比特币减半，最大赢家却不是 BTC](https://bbs.chainon.io/d/5704)
+* [区块链周报：支付宝公开招聘技术人才：薪资无上限；Zoom 收购加密聊天工具](https://bbs.chainon.io/d/5705)
+* [ETH 黑客通过多个交易所尝试洗掉窃取的以太坊](https://bbs.chainon.io/d/5706)
+* [慢雾：DeFi 平台 Lendf.Me 被黑细节分析及防御建议](https://bbs.chainon.io/d/5709)
+* [Uniswap 和 lendf.Me 遭攻击始末：愿 DeFi 世界里没有 ERC777](https://bbs.chainon.io/d/5710)
+* [Bitcoin: The Halving and Why It Matters](https://bbs.chainon.io/d/5711)
+* [HashKey：深度解析 Libra 2.0 的取舍与坚持](https://bbs.chainon.io/d/5712)
+* [Blockchain 去中心化第一原理](https://bbs.chainon.io/d/5713)
+* [The State of L2 Investments](https://bbs.chainon.io/d/5714)
+* [Blockchain 区块链基础设施投资（上）- 周期与反脆弱](https://bbs.chainon.io/d/5715)
+* [一个新的 STAKING 协议 由 NMR 开发并支持](https://bbs.chainon.io/d/5716)
+* [Erasure Protocol](https://bbs.chainon.io/d/5717)
+* [Crypto’s Business Model is Familiar. What Isn’t is Who Benefits](https://bbs.chainon.io/d/5718)
+* [When Tailwinds Vanish](https://bbs.chainon.io/d/5719)
+* [Corona Information Markets](https://bbs.chainon.io/d/5720)
+* [Introducing Distaff: a STARK-based VM written in Rust](https://bbs.chainon.io/d/5721)
+* [Towards a cashless society](https://bbs.chainon.io/d/5722)
+* [Web3 关于区块链应用，我们需要一个更好的框架曾汨   |   24. Apr, 2020   |   436 次阅读](https://bbs.chainon.io/d/5723)
+* [金融乐高 Defi，沦为黑客取款机？](https://bbs.chainon.io/d/5724)
+* [53 亿美元收购 Plaid，Visa 的初心与野心](https://bbs.chainon.io/d/5725)
+* [A new startup called Yield](https://bbs.chainon.io/d/5726)
+* [Loopring’s Frontend Vulnerability, Explained](https://bbs.chainon.io/d/5727)
+* [Billionaire Paul Tudor Jones](https://bbs.chainon.io/d/5728)
+* [Bitcoin Halving Dynamics](https://bbs.chainon.io/d/5729)
+
+## 资讯
+
+* [Weekly Dev Update #100](https://bbs.chainon.io/d/5693)
+* [Results of DOT Redenomination Referendum](https://bbs.chainon.io/d/5694)
+* [Revuo Monero Issue 60: May 8](https://bbs.chainon.io/d/5696)
+* [EOSC Weekly Report #90](https://bbs.chainon.io/d/5698)
+* [Telegram 放弃了它的 TON 区块链平台](https://bbs.chainon.io/d/5707)
+* [Bitcoin 比特币第三次采矿回报减半](https://bbs.chainon.io/d/5708)
+
+## 讨论
+
+NULL.
+
+## 资源
+
+* [MeiChain](https://bbs.chainon.io/d/5730)
+* [Payment gateway](https://bbs.chainon.io/d/5731)
+* [Finch](https://bbs.chainon.io/d/5732)
+
+## 工具
+
+* [SimpleAssets](https://bbs.chainon.io/d/5733)
+
+## 活动
+
+NULL.
+
+***
+
+**本站推广**
+
+币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易。
+
+> 币安注册: https://www.binancezh.com/cn/register/?ref=11190872
+> 邀请码: **11190872**
+
+***
+
+「区块链技术指北」同名 **知识星球**，二维码如下，欢迎加入。
+
+![区块链技术指北](https://cdn.dbarobin.com/3YzonTR.png)
+
+「区块链技术指北」相关资讯渠道：
+
+> 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
+> 官网，[https://chainon.io](https://chainon.io)
+> 官方博客，[https://blog.chainon.io](https://blog.chainon.io)
+> 官方社区，[https://bbs.chainon.io](https://bbs.chainon.io)
+> Telegram Channel，[https://t.me/chainone](https://t.me/chainone)
+> Twitter，[https://twitter.com/bcageone](https://twitter.com/bcageone)
+> Facebook，[https://www.facebook.com/chainone.org](https://www.facebook.com/chainone.org)
+> 新浪微博，[https://weibo.com/BlockchainAge](https://weibo.com/BlockchainAge)
+
+同时，本系列文章会在以下渠道同步更新，欢迎关注：
+
+> 「区块链技术指北」同名微信公众号（微信号：BlockchainAge）
+> 个人博客，[https://dbarobin.com](https://dbarobin.com)
+> 知乎，[https://zhuanlan.zhihu.com/robinwen](https://zhuanlan.zhihu.com/robinwen)
+> 简书，[https://www.jianshu.com/c/a37698a12ba9](https://www.jianshu.com/c/a37698a12ba9)
+> Steemit，[https://steemit.com/@robinwen](https://steemit.com/@robinwen)
+> Medium，[https://medium.com/@robinwan](https://medium.com/@robinwan)
+> 掘金，[robinwen@juejin.im](https://juejin.im/user/5673ccae60b2260ee435f89a/posts)
+> EOS LIVE，[https://eos.live/user/robin](https://eos.live/user/robin)
+> 币乎，[https://bihu.com/people/22207](https://bihu.com/people/22207)
+
+原创不易，读者可以通过如下途径打赏，虚拟货币、美元、法币均支持。
+
+> BTC: 3QboL2k5HfKjKDrEYtQAKubWCjx9CX7i8f
+> ERC20 Token: 0x8907B2ed72A1E2D283c04613536Fac4270C9F0b3
+> PayPal: [https://www.paypal.me/robinwen](https://www.paypal.me/robinwen)
+> 微信打赏二维码
+
+![Wechat](https://cdn.dbarobin.com/SzoNl5b.jpg)
+
+我是区块链罗宾，博客 **[dbarobin.com](https://dbarobin.com/)**
+
+如果您想和我交流，我的微信: **Wentasy**
+
+![区块链技术指北公众号](https://cdn.dbarobin.com/w0wignb.png)
+
+–EOF–
+
+版权声明：[自由转载-非商用-非衍生-保持署名（创意共享4.0许可证）](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
