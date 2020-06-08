@@ -1,6 +1,6 @@
 ---
 title: "区块链技术指北（ChainONE）社区价值信息汇总第 130 期"
-date: 2020-06-08 18:39:27
+date: 2020-06-07 18:39:27
 categories:
 - WeChat
 tags:
