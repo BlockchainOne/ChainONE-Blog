@@ -1,6 +1,6 @@
 ---
-title: "区块链技术指北（ChainONE）社区价值信息汇总第 139 期"
-date: 2020-08-09 18:39:27
+title: "区块链技术指北（ChainONE）社区价值信息汇总第 140 期"
+date: 2020-08-16 18:39:27
 categories:
 - WeChat
 tags:
@@ -16,7 +16,7 @@ tags:
 
 > 题图来自: © ChainONE / WeChat / chainon.io
 
-> 这里是「区块链技术指北」2020 年第 32 周（20200803-20200809）价值信息汇总。本汇总内容由群友集体贡献，感谢大家。
+> 这里是「区块链技术指北」2020 年第 33 周（20200810-20200816）价值信息汇总。本汇总内容由群友集体贡献，感谢大家。
 
 ***
 
@@ -29,35 +29,44 @@ tags:
 
 ## 文章
 
-* [Buy Bitcoin with Casa](https://bbs.chainon.io/d/6112)
-* [DeFi Is Doing to Money What Email Did to the Postal Service](https://bbs.chainon.io/d/6114)
-* [Decred Journal — July 2020](https://bbs.chainon.io/d/6115)
-* [Privacy](https://bbs.chainon.io/d/6122)
-* [Introducing Rococo: Polkadot’s Parachain Testnet](https://bbs.chainon.io/d/6123)
-* [How Coinbase handled ETH network congestion on August 1, 2020](https://bbs.chainon.io/d/6125)
-* [26 家比特币投资机构名单曝光，风投们都在关注些什么？](https://bbs.chainon.io/d/6128)
-* [Blockchain 疫情之年 下半年区块链应用落地会加速么？](https://bbs.chainon.io/d/6129)
-* [Blockchain 联盟链有自己的路要走](https://bbs.chainon.io/d/6130)
-* [比特大陆估值下降 62.5%，矿企 “三霸” 时代终结？](https://bbs.chainon.io/d/6131)
-* [How obfuscation can help Ethereum](https://bbs.chainon.io/d/6133)
-* [What if ETH had a fee burn 5 years ago?](https://bbs.chainon.io/d/6134)
-* [zkPorter: Composable Scalability in L2 Beyond zkRollup](https://bbs.chainon.io/d/6135)
-* [观点 | 以太坊 2.0 中的 DeFi：城市、郊区、农村](https://bbs.chainon.io/d/6136)
+* [Diversify your keys, not your coins](https://bbs.chainon.io/d/6142)
+* [Formally Verifying the Ethereum 2.0 Phase 0 Specifications](https://bbs.chainon.io/d/6144)
+* [ACO – A Non-Custodial Options Protocol Built for DeFi](https://bbs.chainon.io/d/6145)
+* [The Effect DAO Phase 0 Launching: Are You Ready?](https://bbs.chainon.io/d/6146)
+* [Announcing Devcon Improvement Proposals (DIPs) [Eng / Esp]](https://bbs.chainon.io/d/6147)
+* [EDCON 2020 Ethereum Classic](https://bbs.chainon.io/d/6148)
+* [What Gives Bitcoin its Value?](https://bbs.chainon.io/d/6151)
+* [Ethereum Support on the Oasis Network with Second State’s New ParaTime](https://bbs.chainon.io/d/6155)
+* [Denomination Day: Ecosystem Project Guidance](https://bbs.chainon.io/d/6156)
+* [Bitxhub 一文读懂验证引擎的设计理念](https://bbs.chainon.io/d/6157)
+* [原来 IPFS 是这样存储文件的](https://bbs.chainon.io/d/6158)
+* [Math Show #010 – 古典派和新秀派，谁是下一个热点和话题的引领者？](https://bbs.chainon.io/d/6160)
+* [BitMEX Index Protection Rules Update: Index Constituent Reintroduction](https://bbs.chainon.io/d/6161)
+* [Borrow cash using Bitcoin on Coinbase](https://bbs.chainon.io/d/6164)
+* [Reflections on Bitcoin Transaction Batching](https://bbs.chainon.io/d/6166)
+* [值得关注的 Brave](https://bbs.chainon.io/d/6167)
+* [YAM 崩了](https://bbs.chainon.io/d/6168)
+* [ETC 还有希望吗](https://bbs.chainon.io/d/6169)
+* [汽车安全 OTA 的全球技术方案解析](https://bbs.chainon.io/d/6172)
+* [The Downside of DAOs](https://bbs.chainon.io/d/6173)
+* [Zkopru (zk optimistic rollup) for private transactions](https://bbs.chainon.io/d/6174)
+* [Two Reasons Crypto’s Bull Market Is Coming](https://bbs.chainon.io/d/6175)
+* [详解流动性挖矿 — 暴富之路 or DeFi 岐途](https://bbs.chainon.io/d/6176)
+* [Echo | 工作量证明本质上是一个去中心化时钟](https://bbs.chainon.io/d/6177)
 
 ## 资讯
 
-* [Bitcoin Core 0.20.1 Released](https://bbs.chainon.io/d/6111)
-* [Smart Contract Security Newsletter #43](https://bbs.chainon.io/d/6113)
-* [Development update #4 – ethereum.org](https://bbs.chainon.io/d/6116)
-* [eth2 quick update no. 14](https://bbs.chainon.io/d/6117)
-* [Loki Weekly Dev Update #112](https://bbs.chainon.io/d/6118)
-* [Loom Network Roadmap 2020–2021](https://bbs.chainon.io/d/6119)
-* [MYKEY Weekly Report 10 (July 27th~August 2nd)](https://bbs.chainon.io/d/6120)
-* [Town Hall #63](https://bbs.chainon.io/d/6121)
-* [Band Protocol (BAND) is launching on Coinbase Pro](https://bbs.chainon.io/d/6124)
-* [EOSC Weekly Report #102](https://bbs.chainon.io/d/6126)
-* [Nervos Community Update: July 2020](https://bbs.chainon.io/d/6127)
-* [区块链周报：2 大区块链新兴岗位月薪可达 7-10 万；以太坊 2.0 测试网启动进度完成 93.8%；普京签署法律以监管数字资产](https://bbs.chainon.io/d/6132)
+* [Staking Economy #42: Scaling Strategies](https://bbs.chainon.io/d/6143)
+* [Harmony 携手 Chainlink | 百万生态基金激活链上应用 Chainlink 集成](https://bbs.chainon.io/d/6149)
+* [Kyber Ecosystem Report #17](https://bbs.chainon.io/d/6150)
+* [Loki Weekly Dev Update #113](https://bbs.chainon.io/d/6152)
+* [Mixin Network Monthly Report — July 2020](https://bbs.chainon.io/d/6154)
+* [EOSC Weekly Report #103](https://bbs.chainon.io/d/6159)
+* [Coinbase users can now instantly pay BitPay merchants](https://bbs.chainon.io/d/6162)
+* [Band Protocol (BAND) is now available on Coinbase](https://bbs.chainon.io/d/6163)
+* [Numeraire (NMR) is launching on Coinbase Pro](https://bbs.chainon.io/d/6165)
+* [区块链周报：四大行内测数字货币 App，可凭手机号完成转账；区块链成韩国电信最赚钱业务之一；ETC 再遭大规模 51% 攻击](https://bbs.chainon.io/d/6170)
+* [腾讯安全领御区块链亮相 2020 全球区块链创新发展大会](https://bbs.chainon.io/d/6171)
 
 ## 讨论
 
@@ -65,14 +74,17 @@ NULL.
 
 ## 资源
 
-* [gasstation-express](https://bbs.chainon.io/d/6139)
+* [Introduction to zkSync](https://bbs.chainon.io/d/6153)
+* [Cosmos Staking DApp](https://bbs.chainon.io/d/6178)
+* [dam-contracts](https://bbs.chainon.io/d/6179)
+* [Document Graph data structure](https://bbs.chainon.io/d/6181)
+* [Keyper](https://bbs.chainon.io/d/6182)
+* [Ethereum Alarm Clock](https://bbs.chainon.io/d/6183)
+* [YAM Protocol](https://bbs.chainon.io/d/6184)
 
 ## 工具
 
-* [Web3Data.js](https://bbs.chainon.io/d/6137)
-* [Bitcoin-ruby](https://bbs.chainon.io/d/6138)
-* [xSwap](https://bbs.chainon.io/d/6140)
-* [Smart contract hacking challenge](https://bbs.chainon.io/d/6141)
+* [Substrate Telegram Bot](https://bbs.chainon.io/d/6180)
 
 ## 活动
 
