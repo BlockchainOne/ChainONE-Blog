@@ -1,6 +1,6 @@
 ---
-title: "区块链技术指北（ChainONE）社区价值信息汇总第 153 期"
-date: 2020-11-15 18:39:27
+title: "区块链技术指北（ChainONE）社区价值信息汇总第 154 期"
+date: 2020-11-22 18:39:27
 categories:
 - WeChat
 tags:
@@ -16,7 +16,7 @@ tags:
 
 > 题图来自: © ChainONE / WeChat / chainon.io
 
-> 这里是「区块链技术指北」2020 年第 46 周（20201109-20201116）价值信息汇总。本汇总内容由群友集体贡献，感谢大家。
+> 这里是「区块链技术指北」2020 年第 47 周（20201117-20201122）价值信息汇总。本汇总内容由群友集体贡献，感谢大家。
 
 ***
 
@@ -29,48 +29,40 @@ tags:
 
 ## 文章
 
-* [Issue #863: Can the Lightning Network help keep podcasting decentralized?](https://bbs.chainon.io/d/6773)
-* [Sphinx Chat](https://bbs.chainon.io/d/6774)
-* [Beam Launches BeamX Bringing Privacy to DeFi](https://bbs.chainon.io/d/6775)
-* [How to Live on Crypto in Australia](https://bbs.chainon.io/d/6776)
-* [Moonbeam: Ethereum Smart Contracts on Substrate](https://bbs.chainon.io/d/6777)
-* [DIF & OIDF](https://bbs.chainon.io/d/6779)
-* [So you want to use a price oracle](https://bbs.chainon.io/d/6788)
-* [Advantages of Digital Asset Issuance on EOS](https://bbs.chainon.io/d/6789)
-* [Privacy in Trezor Suite: Introducing the Tor Switch](https://bbs.chainon.io/d/6791)
-* [mStable protocol’s 3 month roadmap](https://bbs.chainon.io/d/6794)
-* [WePiggy 小猪存币](https://bbs.chainon.io/d/6795)
-* [Infura 以太坊 API 服务中断](https://bbs.chainon.io/d/6796)
-* [比特币突破1.6万美元，DeFi却在被不停攻击](https://bbs.chainon.io/d/6798)
-* [开发者缺钱向矿工要？分歧近一年后，BCH终于决定分叉](https://bbs.chainon.io/d/6799)
-* [坚持追查7年，近10亿美元比特币终被美国政府没收充公](https://bbs.chainon.io/d/6800)
-* [史上最惨黑客：偷走10亿美元比特币7年未花，最终被司法部全数缴获](https://bbs.chainon.io/d/6801)
-* [ELECTIONS, BITCOIN and M2](https://bbs.chainon.io/d/6802)
-* [Ethereum MultiSig Wallet Contract](https://bbs.chainon.io/d/6803)
-* [ZK rollup vs optimistic rollup](https://bbs.chainon.io/d/6808)
-* [Why do we Tolerate Censorship in DeFi?](https://bbs.chainon.io/d/6809)
-* [Full Risk on incoming?](https://bbs.chainon.io/d/6810)
-* [Why Proof of Stake (Nov 2020)](https://bbs.chainon.io/d/6811)
-* [Convex and Concave Dispositions](https://bbs.chainon.io/d/6812)
-* [PlatON 肖风：详解「分布式认知工业互联网」| 云图思潮](https://bbs.chainon.io/d/6813)
-* [MPC 矩阵元孙立林：探讨安全多方计算与数据融合基础设施设计理念](https://bbs.chainon.io/d/6814)
-* [Sidechain 观点 | 理解 “侧链”](https://bbs.chainon.io/d/6815)
+* [API3 Public Token Distribution Event](https://bbs.chainon.io/d/6817)
+* [Building a Hot Wallet With Substrate Primitives](https://bbs.chainon.io/d/6818)
+* [BFT Protocol Forensics](https://bbs.chainon.io/d/6819)
+* [Grantee Roundup: November 2020](https://bbs.chainon.io/d/6820)
+* [Filecoin Features: Slashing](https://bbs.chainon.io/d/6821)
+* [Our Investment in OXIO](https://bbs.chainon.io/d/6823)
+* [Account Abstraction (EIP-2938): Why & What](https://bbs.chainon.io/d/6826)
+* [Incident Postmortem: November 16th, 2020](https://bbs.chainon.io/d/6828)
+* [An Insider Update on the Bitcoin Mining Industry](https://bbs.chainon.io/d/6830)
+* [Keeping up with Secure Authentication Methods](https://bbs.chainon.io/d/6831)
+* [Pickle Finance 被攻击](https://bbs.chainon.io/d/6834)
+* [从孙正义谈比特币说起](https://bbs.chainon.io/d/6835)
+* [OKEx 即将开放提币](https://bbs.chainon.io/d/6836)
+* [聊聊最近 DeFi 的几次攻击](https://bbs.chainon.io/d/6837)
+* [比特币突破 $18000](https://bbs.chainon.io/d/6838)
+* [StormX](https://bbs.chainon.io/d/6839)
+* [区块链周报：徐明星回应被司法机关带走；孙正义：曾投资2亿美元比特币；王兴：中本聪是科技宅们的终极偶像](https://bbs.chainon.io/d/6840)
+* [DApp开发者们，你们是来为难我的吧？](https://bbs.chainon.io/d/6841)
+* [聘请超级黑客、建立去中心化平台，推特的安全问题有解吗？](https://bbs.chainon.io/d/6842)
+* [Bitcoin 探索比特币的核心价值及其辩护理由](https://bbs.chainon.io/d/6850)
+* [观点 | 如何看待 Infura 服务崩溃及其造成的影响？](https://bbs.chainon.io/d/6851)
+* [GBTC 深度 | 解构灰度比特币信托](https://bbs.chainon.io/d/6852)
+* [USD 美元霸权 “霸” 在哪儿](https://bbs.chainon.io/d/6853)
 
 ## 资讯
 
-* [Staking Economy #47: Internet Bonds](https://bbs.chainon.io/d/6778)
-* [Decred Journal — October 2020](https://bbs.chainon.io/d/6780)
-* [eth2 quick update no. 20](https://bbs.chainon.io/d/6781)
-* [Kyber Ecosystem Report October 2020](https://bbs.chainon.io/d/6782)
-* [Loki Weekly Dev Update #126](https://bbs.chainon.io/d/6783)
-* [Mixin Network Monthly report October](https://bbs.chainon.io/d/6784)
-* [Town Hall #69](https://bbs.chainon.io/d/6785)
-* [Reserve Protocol Community AMA #7](https://bbs.chainon.io/d/6786)
-* [Revuo Monero Issue 83: November 3](https://bbs.chainon.io/d/6787)
-* [EOSC Weekly Report #115](https://bbs.chainon.io/d/6790)
-* [Week in Ethereum News November 8, 2020](https://bbs.chainon.io/d/6792)
-* [Ethereum Cat Herders Update #33](https://bbs.chainon.io/d/6793)
-* [区块链周报：BCH 今晚硬分叉；微软前工程师利用比特币混币器隐藏应税收入被判9年；Libra团队开发新数字支付系统FastPay](https://bbs.chainon.io/d/6797)
+* [0x Ecosystem Update — October 2020](https://bbs.chainon.io/d/6816)
+* [Loki Weekly Dev Update #127](https://bbs.chainon.io/d/6822)
+* [MYKEY Weekly Report 25 (November 9th~November 15th)](https://bbs.chainon.io/d/6824)
+* [Nervos CKB Development Update #41](https://bbs.chainon.io/d/6825)
+* [Revuo Monero Issue 84: November 9](https://bbs.chainon.io/d/6827)
+* [EOSC Weekly Report #116](https://bbs.chainon.io/d/6829)
+* [Announcing BNT Liquidity Mining](https://bbs.chainon.io/d/6832)
+* [dForce (DF) Liquidity Mining [Nov 14 — Nov 23]](https://bbs.chainon.io/d/6833)
 
 ## 讨论
 
@@ -78,13 +70,16 @@ NULL.
 
 ## 资源
 
-* [Bitcoin-Related Docker Images](https://bbs.chainon.io/d/6804)
-* [Polkadot Local Network](https://bbs.chainon.io/d/6806)
-* [ipfs-desktop](https://bbs.chainon.io/d/6807)
+* [eosio-contracts](https://bbs.chainon.io/d/6846)
+* [Poly eth-contracts](https://bbs.chainon.io/d/6847)
+* [linguo-contracts](https://bbs.chainon.io/d/6849)
 
 ## 工具
 
-* [bitcoincash-docker](https://bbs.chainon.io/d/6805)
+* [eos-docker](https://bbs.chainon.io/d/6843)
+* [zecwallet-lite](https://bbs.chainon.io/d/6844)
+* [go-cardano-client](https://bbs.chainon.io/d/6845)
+* [wgt-multisig](https://bbs.chainon.io/d/6848)
 
 ## 活动
 
